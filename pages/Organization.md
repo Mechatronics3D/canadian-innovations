@@ -1,0 +1,1 @@
+- [Designated organizations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/designated-organizations.html)
