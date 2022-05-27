@@ -1,2 +1,5 @@
 type:: [[Organization]] 
-features:: [[IoT]]
+features:: [[NGO]]
+
+- [Entrepreneur First](https://www.joinef.com/)
+- []()
