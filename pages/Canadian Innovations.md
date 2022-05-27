@@ -1,1 +1,1 @@
-- This a knowledge garden for the Canadian innovation spa
+- This a knowledge garden for the Canadian innovation space including startups, VCs,
