@@ -1,12 +1,5 @@
----
-
-layout: default  
-title: "IoT"  
-linkTitle: "IoT"  
-date: 2020-02-06  
-description: News and resources on IoT in Canada
-
----
+type:: [[Startup]]
+features:: [[IoT]]
 
 # Internet of Things
 
