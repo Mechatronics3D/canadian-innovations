@@ -157,5 +157,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
 	- Partners: Canadensys Aerospace Corporation
 	- Program Commitment: $70,000
+	- Partner Commitment(s): $99,925
+- Optimize Cloud Architecture to Enable Real-Time Distributed Computing
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Fast Fwd Technologies
+	- Program Commitment: $30,000
 	-
 -
