@@ -119,5 +119,10 @@ features:: [[Government]]
 	- Program Commitment: $98,112
 	- Partner Commitment(s): $118,202
 - FleetOps V2
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: FleetOps
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $10,000
+- DGDL Autonomous Vehicle Exploration
+	-
 -
