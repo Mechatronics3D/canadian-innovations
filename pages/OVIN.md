@@ -256,6 +256,11 @@ features:: [[Government]]
 - Autzu Vehicle Connection module for rideshare fleet
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: Autzu; PFAFF Motors Inc.
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $129,633
+- Connected Transit Vehicle Platform
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Arcturus Networks Inc.; Clever Devices Ltd.
 	-
 -
 -
