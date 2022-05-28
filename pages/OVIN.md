@@ -296,6 +296,8 @@ features:: [[Government]]
 - Road Operated Video Extended Recognition (ROVER)
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: Visual Defence Inc; Town of Richmond Hill
-	-
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $148,868
+-
 -
 -
