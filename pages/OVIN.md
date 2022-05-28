@@ -382,7 +382,12 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Miovision Technologies Incorporated; City of Peterborough
 	- Program Commitment: $490,117
-	-
+	- Partner Commitment(s): $980,235
+- Connected Electric Vehicle
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: WeTraq Inc; The CableShoppe Inc; DaeChang Motors
+	- Program Commitment: $99,900
+	- Partner Commitment(s): $217,600
 	-
 -
 -
