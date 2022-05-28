@@ -108,5 +108,10 @@ features:: [[Government]]
 	- Partners: Invision AI
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $20,667
--
+- Blockchain Microservice
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: IBM Canada Ltd.; NXM Technologies Inc.
+	- Program Commitment: $772,716
+	- Partner Commitment(s): $1,028,375
+- Validation & Launch of Backend Software: Mapping the City Road Assets/TrafficSigns Application
 -
