@@ -28,7 +28,7 @@ features:: [[Government]]
 - [Consortium for Aerospace Research and Innovation in Canada (CARIC)](http://www.caric.ca/)
 - [Canadian Gas Association](http://www.cga.ca/)
 - [Canadian Manufacturers and Exporters (CME)](http://www.cme-mec.ca/) 
-  - [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
+- [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
 - [Centre of Excellence Next Generation Networks (CENGN)](http://www.cengn.ca/)
 - [China Canada Angels Alliance (CCAA)](http://www.cc-angels.com/wp/)
 - China-Canada Innovation Park (CCIP)
