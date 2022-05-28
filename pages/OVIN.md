@@ -107,5 +107,6 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
 	- Partners: Invision AI
 	- Program Commitment: $20,000
-	-
+	- Partner Commitment(s): $20,667
+-
 -
