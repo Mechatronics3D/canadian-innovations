@@ -150,5 +150,9 @@ features:: [[Government]]
 	- Partner Commitment(s): $20,000
 - Enhanced Safety Measures for Region of Waterloo High-Risk Conflict Intersections
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- Partners:
+	- Partners: Brisk Synergies; Region of Waterloo
+	- Program Commitment: $87,500
+	- Partner Commitment(s): $126,420
+- Low Power Autonomous Vehicle Navigation
+	- Program:
 -
