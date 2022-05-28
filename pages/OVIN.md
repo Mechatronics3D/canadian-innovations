@@ -30,8 +30,9 @@ features:: [[Government]]
 	- Partners: QA Consultants; Hitachi Consulting Canada; Automotive Center of Excellence, University of Ontario Institute of Technology; CAA
 	- Program Commitment: $440,800
 	- Partner Commitment(s): $576,000
-- Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+- Havelaar Critical Infrastructure EV to AV
   id:: 629191df-73e2-4e52-aa07-c1538181789c
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
 	- Partners: Havelaar Canada Industrial R & D Laboratory Ltd.; Chery Commercial Vehicle (Anhui) Co. Ltd; Opus1
 	- Program Commitment: $954,964
 	- Partner Commitment(s): $1,054,964
