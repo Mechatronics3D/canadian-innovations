@@ -443,7 +443,10 @@ features:: [[Government]]
 	- Partners: Acerta Analytics Solutions Inc.
 	- Program Commitment: $100,000
 	- Partner Commitment(s): $200,246
--
+- Fleet Based Municipal Incident and Information Reporting (ROVER SmartFleets)
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Visual Defence Inc.; The Regional Municipality of Durham
+	-
 	-
 -
 -
