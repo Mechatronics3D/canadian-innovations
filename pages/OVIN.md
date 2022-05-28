@@ -378,6 +378,10 @@ features:: [[Government]]
 	- Partners: Autzu Inc.
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $245,000
+- Winter-Proof Traffic Vision System Demonstration
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Miovision Technologies Incorporated; City of Peterborough
+	- Program Commitment: $490,117
 	-
 	-
 -
