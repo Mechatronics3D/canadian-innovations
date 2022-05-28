@@ -45,5 +45,8 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,054,964
 - Connected Transit Signal Priority
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	-
+	- Partners: The Regional Municipality of Waterloo; The Regional Municipality of Durham; Region of Waterloo; Fortran Traffic Systems Limited
+	- Program Commitment: $210,265
+	- Partner Commitment(s): $1,935,865
+-
 	-
