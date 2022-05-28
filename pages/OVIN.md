@@ -418,7 +418,8 @@ features:: [[Government]]
 	- Partners: NuPort Robotics Inc.; Canadian Tire Corporation, Limited
 	- Program Commitment: $1,000,000
 	- Partner Commitment(s): $2,132,147
--
+- Operator-free Charging for Autonomous Transit Vehicles
+	- Program:
 	-
 -
 -
