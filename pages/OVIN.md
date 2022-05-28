@@ -368,6 +368,12 @@ features:: [[Government]]
 	- Partners: Invision AI, Inc.; THALES CANADA, TRANSPORTATION SOLUTIONS
 	- Program Commitment: $483,600
 	- Partner Commitment(s): $1,027,760
+- Vehicular Sensor Fusion for Detection and Characterization of Significant Events
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Klashwerks Inc.
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+	-
 	-
 -
 -
