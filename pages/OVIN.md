@@ -431,7 +431,11 @@ features:: [[Government]]
 - Software Integration to Enable Docked e-Scooter Fleet Management
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: Joyride Technologies Inc.; Blue Duck Scooters
-	-
+	- Program Commitment: $93,405
+	- Partner Commitment(s): $188,809
+- Prototype Urban V2X Ecosystem
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners:
 	-
 -
 -
