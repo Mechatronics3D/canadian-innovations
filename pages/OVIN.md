@@ -68,5 +68,10 @@ features:: [[Government]]
 	- Partners: NXP Canada Inc., University of Waterloo
 	- Program Commitment: $10,000
 	- Partner Commitment(s): $10,150
+- Trans-Plan Transportation Engineering - Gopikrishnan and Singh
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partner: Trans-Plan Transportation Inc.
+	- Program Commitment: $60,000
+	- Partner Commitment(s): $60,000
 -
 -
