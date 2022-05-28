@@ -132,5 +132,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
 	- Partners: inMotive
 	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Low Cost Wide Band UHF Power Amplifier for DSRC
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: 6Harmonics Inc.
+	- Program Commitment: $30,000
 	-
 -
