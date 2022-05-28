@@ -24,5 +24,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $6,556,000
 - Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
 	- Partners: Innovation Factory, McMaster University, Mohawk College and the City of Hamilton
-	-
+	- Program Commitment: $4,999,999
+	- Partner Commitment(s): $5,504,528
+-
 	-
