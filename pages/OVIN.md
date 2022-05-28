@@ -26,6 +26,7 @@ features:: [[Government]]
 	- Partners: Innovation Factory, McMaster University, Mohawk College and the City of Hamilton
 	- Program Commitment: $4,999,999
 	- Partner Commitment(s): $5,504,528
+-
 - Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
 	- Partners: QA Consultants; Hitachi Consulting Canada; Automotive Center of Excellence, University of Ontario Institute of Technology; CAA
 	- Program Commitment: $440,800
