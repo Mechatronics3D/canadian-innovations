@@ -172,5 +172,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: Region of Peel; IRIS R&D Group Inc.; City of Hamilton
 	- Program Commitment: $100,000
+	- Partner Commitment(s): $163,500
+- The Car of the Future TalentEdge 1
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
+	- Partners: FCA Canada Inc.; McMaster University
+	- Program Commitment: $210,000
 	-
 -
