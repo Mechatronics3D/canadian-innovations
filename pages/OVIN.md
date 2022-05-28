@@ -128,5 +128,9 @@ features:: [[Government]]
 	- Partners: Daily Goods Design LABS
 	- Program Commitment: $10,000
 	- Partner Commitment(s): $10,000
--
+- inMotive
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: inMotive
+	- Program Commitment: $30,000
+	-
 -
