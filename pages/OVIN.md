@@ -90,5 +90,8 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,100,247
 - Vehicle Dynamics Control and Real Time Autotuning Software
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
-	- Partners: X-Matik Inc.
+	- Partners: X-Matik Inc., University of Toronto
+	- Program Commitment: $90,000
+	- Partner Commitment(s): $90,000
+-
 -
