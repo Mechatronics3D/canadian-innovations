@@ -93,5 +93,10 @@ features:: [[Government]]
 	- Partners: X-Matik Inc., University of Toronto
 	- Program Commitment: $90,000
 	- Partner Commitment(s): $90,000
+- AIR: Artificial Intelligence Designed for Radar Sensors in Autonomous Vehicles
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Valeo Canada, Inc.; Sensor Cortek inc
+	- Program Commitment: $478,000
+	- Partner Commitment(s): $506,800
 -
 -
