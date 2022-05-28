@@ -441,7 +441,9 @@ features:: [[Government]]
 - Acerta Analytics Solutions Inc.
 	- Program: Autonomous Vehicle Innovation Network – AV R&D Partnership Fund – Stream 1
 	- Partners: Acerta Analytics Solutions Inc.
-	-
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $200,246
+-
 	-
 -
 -
