@@ -349,7 +349,11 @@ features:: [[Government]]
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $130,000
 - Advanced Statistical Control System (ASCS) for Long Range Autonomous Electric Vehicle (AEV) Operation
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Aquova Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $75,000
+-
 	-
 -
 -
