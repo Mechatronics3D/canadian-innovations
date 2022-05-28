@@ -446,7 +446,8 @@ features:: [[Government]]
 - Fleet Based Municipal Incident and Information Reporting (ROVER SmartFleets)
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Visual Defence Inc.; The Regional Municipality of Durham
-	-
+	- Program Commitment: $987,597
+	- Partner Commitment(s): $2,208,951
 	-
 -
 -
