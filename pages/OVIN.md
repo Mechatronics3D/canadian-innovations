@@ -311,6 +311,9 @@ features:: [[Government]]
 - Invision AI - Forward Collision Warning System - Talent Edge II
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Invision AI, Inc.
-	-
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $42,000
+- Next Gen Smart Cockpit with Intelligent Assistant Demonstration System
+	- Program:
 -
 -
