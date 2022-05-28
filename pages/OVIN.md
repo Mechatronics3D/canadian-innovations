@@ -363,7 +363,11 @@ features:: [[Government]]
 	- Partners: iNAGO Corp.
 	- Program Commitment: $10,000
 	- Partner Commitment(s): $14,600
--
+- Rail Forward Collision System in Extreme Weather Conditions
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Invision AI, Inc.; THALES CANADA, TRANSPORTATION SOLUTIONS
+	- Program Commitment: $483,600
+	- Partner Commitment(s): $1,027,760
 	-
 -
 -
