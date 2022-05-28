@@ -243,5 +243,6 @@ features:: [[Government]]
 	- Partners: Utsav Systems Inc.
 	- Program Commitment: $40,000
 	- Partner Commitment(s): $40,000
--
+- Key2Access: Wireless Pedestrian Crossing Solution improving accessibility for the visually, hearing or mobility impaired (Mobile App with IoT layer)
+	- Program:
 -
