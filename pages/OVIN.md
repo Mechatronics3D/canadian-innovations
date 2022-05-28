@@ -426,6 +426,11 @@ features:: [[Government]]
 - Design and development of In-car connectivity using eSIM for safe and reliable fleet management
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Autzu Inc.; Stork Driver, LLC
+	- Program Commitment: $921,611
+	- Partner Commitment(s): $1,843,241
+- Software Integration to Enable Docked e-Scooter Fleet Management
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Joyride Technologies Inc.; Blue Duck Scooters
 	-
 	-
 -
