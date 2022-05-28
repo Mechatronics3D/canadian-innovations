@@ -105,5 +105,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $594,268
 - TalentEdge - Deep Learning Running on AXIS Communications Cameras
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Invision AI
+	- Program Commitment: $20,000
 	-
 -
