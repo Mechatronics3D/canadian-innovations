@@ -343,7 +343,10 @@ features:: [[Government]]
 	- Partners: Axiomatic Technologies Corporation
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $111,655
--
+- Internship for Vehicle Telematics Development
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Autzu Inc.
+	-
 	-
 -
 -
