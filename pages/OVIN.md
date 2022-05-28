@@ -138,5 +138,10 @@ features:: [[Government]]
 	- Partners: 6Harmonics Inc.
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,600
+- Irdeto Canada
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Irdeto Canada
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
 -
 -
