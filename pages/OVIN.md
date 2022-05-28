@@ -288,6 +288,11 @@ features:: [[Government]]
 	- Partners: SMATS TRAFFIC SOLUTIONS INCORPORATED; Parsons
 	- Program Commitment: $94,325
 	- Partner Commitment(s): $95,325
+- Algorithms to estimate failure probabilities and costs from automotive time-series and service data
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Pitstop
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $68,000
 -
 -
 -
