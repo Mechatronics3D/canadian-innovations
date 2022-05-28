@@ -238,5 +238,10 @@ features:: [[Government]]
 	- Partners: CIeNET International; University of Ottawa
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $43,918
+- A Novel Approach to Detect Drowsiness Resulting From Sleep Loss and Sleep Pressure
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Utsav Systems Inc.
+	- Program Commitment: $40,000
+	- Partner Commitment(s): $40,000
 -
 -
