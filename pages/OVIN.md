@@ -18,11 +18,13 @@ features:: [[Government]]
 	- Partner: [Pantonium Inc.](https://pantonium.com/)
 	- Program Commitment: $947,450
 	- Partner Commitment(s): $2,488,200
-- Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+-
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
 	- Partners: [MaRS Discovery District](https://www.marsdd.com/), [University of Toronto](https://www.utoronto.ca/), [Toronto Metropolitan University](https://www.torontomu.ca/) and [York University](https://www.yorku.ca/)
 	- Program Commitment: $5,000,000
 	- Partner Commitment(s): $6,556,000
-- Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+- Regional Technology Development Site - Hamilton Region
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
 	- Partners: Innovation Factory, McMaster University, Mohawk College and the City of Hamilton
 	- Program Commitment: $4,999,999
 	- Partner Commitment(s): $5,504,528
