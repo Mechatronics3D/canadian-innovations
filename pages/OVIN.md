@@ -177,5 +177,7 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
 	- Partners: FCA Canada Inc.; McMaster University
 	- Program Commitment: $210,000
-	-
+	- Partner Commitment(s): $300,000
+- Bluetooth/NFC-Enabled Battery Bank Monitoring and Self-Balancing System
+	- Program:
 -
