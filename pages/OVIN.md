@@ -303,6 +303,10 @@ features:: [[Government]]
 	- Partners: 9182039 Canada Inc; Trimac Transportation Services Inc.
 	- Program Commitment: $88,231
 	- Partner Commitment(s): $138,571
--
+- Pitstop & Connvex creating an prognostics insights engine for mobility
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Complete Innovations Inc.; Ansik Inc.
+	- Program Commitment: $1,000,000
+	-
 -
 -
