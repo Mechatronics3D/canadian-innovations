@@ -49,4 +49,8 @@ features:: [[Government]]
 	- Program Commitment: $210,265
 	- Partner Commitment(s): $1,935,865
 - LaneCruise Fleet Pilot
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: X-Matik Inc.; City of Toronto
+	- Program Commitment: $375,267
+	- Partner Commitment(s): $455,267
+-
