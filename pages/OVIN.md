@@ -282,6 +282,12 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Fast Fwd Technologies Incorporated
 	- Program Commitment: $30,000
-	-
+	- Partner Commitment(s): $30,000
+- Estimation of traffic patterns using vehicles wireless signals for application in traffic signal optimization
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: SMATS TRAFFIC SOLUTIONS INCORPORATED; Parsons
+	- Program Commitment: $94,325
+	- Partner Commitment(s): $95,325
+-
 -
 -
