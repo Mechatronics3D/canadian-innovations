@@ -129,4 +129,4 @@
  :journal/page-title-format "E, yyyy/MM/dd"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["canadian innovations"]
- :graph/settings {:builtin-pages? true}}
+ :graph/settings {:builtin-pages? true, :journal? true}}
