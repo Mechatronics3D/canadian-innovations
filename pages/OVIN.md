@@ -409,8 +409,12 @@ features:: [[Government]]
 	- Program Commitment: $99,990
 	- Partner Commitment(s): $200,200
 - Swiss Reinsurance Company Ltd
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partner: Swiss Reinsurance Company Ltd
+	- Program Commitment: $804,583
+	- Partner Commitment(s): $1,611,875
+- Autonomous Self Driving Trucks for short-haul operations
+	-
 	-
 -
 -
