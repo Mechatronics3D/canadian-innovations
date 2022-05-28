@@ -100,7 +100,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $5,523,975
 - On-Demand Transit Software
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- Partner: [Pantonium Inc.](https://pantonium.com/)
+	- Partner: [[Pantonium]]
 	- Program Commitment: $947,450
 	- Partner Commitment(s): $2,488,200
 - Regional Technology Development Site - Toronto Region
