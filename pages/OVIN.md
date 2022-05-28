@@ -393,7 +393,9 @@ features:: [[Government]]
 	- Partners: IBI Group Professional Services (Canada) Inc.; Weather Telematics inc.
 	- Program Commitment: $238,742
 	- Partner Commitment(s): $477,485
--
+- MESH Tracks Winter Maintenance and Information System
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	-
 	-
 -
 -
