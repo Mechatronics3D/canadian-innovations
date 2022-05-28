@@ -138,5 +138,7 @@ features:: [[Government]]
 	- Partners: 6Harmonics Inc.
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,600
--
+- Snow Plow and Salter Automated System
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	-
 -
