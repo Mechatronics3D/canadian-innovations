@@ -225,5 +225,10 @@ features:: [[Government]]
 	- Partner Commitment(s): $100,000
 - 5G Optimization
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
+	- Partners: NXM Technologies Inc.
+	- Program Commitment: $35,000
+	- Partner Commitment(s): $52,644
+- Post Quantum Resistance
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	-
 -
