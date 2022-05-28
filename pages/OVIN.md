@@ -1,7 +1,23 @@
 type:: [[Organization]]
 features:: [[Government]]
 
-- # Companies
+- # Provincial Partners
+	- Ministry of Economic Development, Job Creation and Trade
+	- Ministry of Transportation
+	- Ministry of Government and Consumer Services
+	- Ministry of Health
+	- Ministry of Colleges and Universities
+	- Ministry of Agriculture, Food and Rural Affairs
+	- Ministry of the Environment, Conservation and Parks
+-
+- # Federal Partners
+- Federal Economic Development Agency for Southern Ontario (FedDev Ontario)
+- Industrial Research Assistance Program (IRAP)
+- Natural Resources Canada (NRCan)
+- Natural Sciences and Engineering Research Council of Canada (NSERC)
+- Social Sciences and Humanities Research Council (SSHRC)
+    Business Development Bank of Canada (BDC)
+- # Projects
 - Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
 	- Project: Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
 	- Partners: [Miovision Technologies Inc.](https://miovision.com/); [ESCRYPT Canada](https://www.escrypt.com/en); [GeoTab Inc.](https://www.geotab.com/); [Magna Electronics](https://www.magna.com/company/company-information/magna-groups/magna-electronics)
