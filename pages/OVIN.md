@@ -211,5 +211,10 @@ features:: [[Government]]
 - Rail Forward Collision Warning System
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Invision AI, Inc.; THALES CANADA, TRANSPORTATION SOLUTIONS
+	- Program Commitment: $279,575
+	- Partner Commitment(s): $293,800
+- Network Operations for Intelligent Transportation Systems
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Trent University; City of Peterborough; Paxgrid Cdn Inc
 	-
 -
