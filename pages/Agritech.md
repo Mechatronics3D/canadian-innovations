@@ -1,0 +1,2 @@
+type:: [[Companies]]
+features:: [[Agritech]]
