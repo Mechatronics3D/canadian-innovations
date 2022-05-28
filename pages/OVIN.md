@@ -197,5 +197,6 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Nokia Canada; Town of Whitby; Aurrigo Canada; University of Ontario Institute of Technology; SmartCone Technologies Inc.; Durham Region Transit; AutoGuardian by SmartCone
 	- Program Commitment: $986,163
-	-
+	- Partner Commitment(s): $1,707,024
+-
 -
