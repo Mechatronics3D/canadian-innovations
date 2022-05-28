@@ -2,7 +2,6 @@ type:: [[Organization]]
 features:: [[Government]]
 
 - [Ontario Centre of Innovation](https://www.oc-innovation.ca/)
-
 # Provincial Partners
 	- Ministry of Economic Development, Job Creation and Trade
 	- Ministry of Transportation
@@ -11,7 +10,6 @@ features:: [[Government]]
 	- Ministry of Colleges and Universities
 	- Ministry of Agriculture, Food and Rural Affairs
 	- Ministry of the Environment, Conservation and Parks
-
 # Federal Partners
 - Federal Economic Development Agency for Southern Ontario (FedDev Ontario)
 - Industrial Research Assistance Program (IRAP)
@@ -19,7 +17,6 @@ features:: [[Government]]
 - Natural Sciences and Engineering Research Council of Canada (NSERC)
 - Social Sciences and Humanities Research Council (SSHRC)
 - Business Development Bank of Canada (BDC)
-
 # Partner Organizations
 - [Agricultural Adaptation Council (AAC)](http://www.adaptcouncil.org/)
 - [Alberta Innovates (AI)](http://albertainnovates.ca/)
@@ -31,13 +28,13 @@ features:: [[Government]]
 - [Consortium for Aerospace Research and Innovation in Canada (CARIC)](http://www.caric.ca/)
 - [Canadian Gas Association](http://www.cga.ca/)
 - [Canadian Manufacturers and Exporters (CME)](http://www.cme-mec.ca/) 
-- [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
+  - [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
 - [Centre of Excellence Next Generation Networks (CENGN)](http://www.cengn.ca/)
 - [China Canada Angels Alliance (CCAA)](http://www.cc-angels.com/wp/)
 - China-Canada Innovation Park (CCIP)
 - [CIENA Canada](https://www.ciena.com/)
 - [Communitech](http://www.communitech.ca/) 
-- [Compute Ontario](https://www.oce-ontario.org/about-us/our-partners/computeontario.ca)
+  - [Compute Ontario](https://www.oce-ontario.org/about-us/our-partners/computeontario.ca)
 - [CSA Group](https://www.csagroup.org/)
 - [Emissions Reductions Alberta](http://www.eralberta.ca/)
 - [Ericsson](https://www.ericsson.com/en)
