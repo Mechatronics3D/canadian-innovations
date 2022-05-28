@@ -355,7 +355,11 @@ features:: [[Government]]
 	- Partner Commitment(s): $75,000
 - Long and short term prediction of automotive system health from automotive sensor time series data using neural network models
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
-	- Partners:
+	- Partners: Ansik inc
+	- Program Commitment: $35,000
+	- Partner Commitment(s): $65,000
+- iNAGO Corp.
+	- Program:
 	-
 -
 -
