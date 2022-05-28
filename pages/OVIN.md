@@ -65,5 +65,8 @@ features:: [[Government]]
 	- Partner Commitment(s): $78,000
 - Safe and Robust Planning for Autonomous Vehicles
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
-	- Partners:
+	- Partners: NXP Canada Inc., University of Waterloo
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $10,150
+-
 -
