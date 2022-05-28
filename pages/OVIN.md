@@ -221,5 +221,9 @@ features:: [[Government]]
 - Vehicle Occupancy Detection - TalentEdge
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
 	- Partners: Invision AI, Inc.
+	- Program Commitment: $70,000
+	- Partner Commitment(s): $100,000
+- 5G Optimization
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
 	-
 -
