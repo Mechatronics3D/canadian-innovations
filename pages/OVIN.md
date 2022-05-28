@@ -388,6 +388,12 @@ features:: [[Government]]
 	- Partners: WeTraq Inc; The CableShoppe Inc; DaeChang Motors
 	- Program Commitment: $99,900
 	- Partner Commitment(s): $217,600
+- Winter Ice and Snow Decision support system for Operations Management
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: IBI Group Professional Services (Canada) Inc.; Weather Telematics inc.
+	- Program Commitment: $238,742
+	- Partner Commitment(s): $477,485
+-
 	-
 -
 -
