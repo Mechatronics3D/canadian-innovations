@@ -341,7 +341,9 @@ features:: [[Government]]
 - Automotive Ethernet, Ethernet, CAN Smart Gateway
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Axiomatic Technologies Corporation
-	-
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $111,655
+-
 	-
 -
 -
