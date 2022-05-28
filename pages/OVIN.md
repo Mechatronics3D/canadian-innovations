@@ -114,4 +114,10 @@ features:: [[Government]]
 	- Program Commitment: $772,716
 	- Partner Commitment(s): $1,028,375
 - Validation & Launch of Backend Software: Mapping the City Road Assets/TrafficSigns Application
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Trans-Plan Transportation Inc.; City of Niagara Falls
+	- Program Commitment: $98,112
+	- Partner Commitment(s): $118,202
+- FleetOps V2
+	- Program:
 -
