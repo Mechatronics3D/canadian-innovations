@@ -193,5 +193,9 @@ features:: [[Government]]
 	- Partners: Thales Canada Inc.; York University; TrackGen Solutions Inc. ; Neptec Technologies Corp.
 	- Program Commitment: $1,130,000
 	- Partner Commitment(s): $1,455,606
--
+- SmartCone Autonomous Shuttle Service in the Town of Whitby
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Nokia Canada; Town of Whitby; Aurrigo Canada; University of Ontario Institute of Technology; SmartCone Technologies Inc.; Durham Region Transit; AutoGuardian by SmartCone
+	- Program Commitment: $986,163
+	-
 -
