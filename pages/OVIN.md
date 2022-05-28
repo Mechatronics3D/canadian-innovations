@@ -314,6 +314,10 @@ features:: [[Government]]
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $42,000
 - Next Gen Smart Cockpit with Intelligent Assistant Demonstration System
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: iNAGO Corporation; DENSO INTERNATIONAL AMERICA, INC.; ABC Technologies
+	- Program Commitment: $596,882
+	- Partner Commitment(s): $1,212,886
+-
 -
 -
