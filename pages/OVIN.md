@@ -162,5 +162,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
 	- Partners: Fast Fwd Technologies
 	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Detection of Low Surface Grip by Applying AI to C/AV Signal Data
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Acerta Analytics Solutions, Inc.; General Motor of Canada Company
+	- Program Commitment: $100,000
 	-
 -
