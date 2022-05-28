@@ -307,6 +307,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Complete Innovations Inc.; Ansik Inc.
 	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $2,016,000
+- Invision AI - Forward Collision Warning System - Talent Edge II
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Invision AI, Inc.
 	-
 -
 -
