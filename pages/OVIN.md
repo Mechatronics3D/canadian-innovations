@@ -19,5 +19,5 @@ features:: [[Government]]
 	- Program Commitment: $947,450
 	- Partner Commitment(s): $2,488,200
 - Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
-	- Partners:
+	- Partners: [MaRS Discovery District](https://www.marsdd.com/), [University of Toronto](), Ryerson University and York University
 	-
