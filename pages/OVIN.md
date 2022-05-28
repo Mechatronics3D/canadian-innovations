@@ -276,6 +276,12 @@ features:: [[Government]]
 - Autzu driveshare automation and fleet performance modeling
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Autzu Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Real-time monitoring of connected car emissions data
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Fast Fwd Technologies Incorporated
+	- Program Commitment: $30,000
 	-
 -
 -
