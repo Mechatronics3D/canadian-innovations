@@ -54,7 +54,10 @@ features:: [[Government]]
 	- Program Commitment: $375,267
 	- Partner Commitment(s): $455,267
 - [Project Arrow](https://www.ovinhub.ca/project-arrow/)
-- Program: Autonomous Vehicle Innovation Network (AVIN) - Demonstration Zone and Regional Technology Development Sites
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Demonstration Zone and Regional Technology Development Sites
 	- Partners: Automotive Parts Manufacturer’s Association (APMA)
 	- Program Commitment: $5,000,000
 	- Partner Commitment(s): $5,120,000
+- 26 Day Inc. DBA RoadLaunch - TalentEdge internships for AI, IoT and Blockchain Development for Connected and Smart Freight Logistics Solutions
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	-
