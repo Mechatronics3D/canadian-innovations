@@ -293,6 +293,9 @@ features:: [[Government]]
 	- Partners: Pitstop
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $68,000
--
+- Road Operated Video Extended Recognition (ROVER)
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Visual Defence Inc; Town of Richmond Hill
+	-
 -
 -
