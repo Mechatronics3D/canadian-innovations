@@ -253,5 +253,9 @@ features:: [[Government]]
 	- Partners: SWTCH E-Car Inc.
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,000
+- Autzu Vehicle Connection module for rideshare fleet
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Autzu; PFAFF Motors Inc.
+	-
 -
 -
