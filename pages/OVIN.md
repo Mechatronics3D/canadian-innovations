@@ -414,7 +414,11 @@ features:: [[Government]]
 	- Program Commitment: $804,583
 	- Partner Commitment(s): $1,611,875
 - Autonomous Self Driving Trucks for short-haul operations
-	-
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: NuPort Robotics Inc.; Canadian Tire Corporation, Limited
+	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $2,132,147
+-
 	-
 -
 -
