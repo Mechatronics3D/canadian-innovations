@@ -399,6 +399,9 @@ features:: [[Government]]
 	- Program Commitment: $410,000
 	- Partner Commitment(s): $834,408
 - Development of Durable and Functional Nanocoatings to Prevent Sensor Blindness in Autonomous Vehicles
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Neverfrost, Inc.
+	- Program Commitment: $30,000
 	-
 	-
 -
