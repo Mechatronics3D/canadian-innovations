@@ -43,5 +43,7 @@ features:: [[Government]]
 	- Partners: Havelaar Canada Industrial R & D Laboratory Ltd.; Chery Commercial Vehicle (Anhui) Co. Ltd; Opus1
 	- Program Commitment: $954,964
 	- Partner Commitment(s): $1,054,964
--
+- Connected Transit Signal Priority
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	-
 	-
