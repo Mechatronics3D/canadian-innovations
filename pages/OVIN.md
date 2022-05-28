@@ -148,5 +148,7 @@ features:: [[Government]]
 	- Partners: JCAII (Jeff Campbell Associates International Inc)
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $20,000
--
+- Enhanced Safety Measures for Region of Waterloo High-Risk Conflict Intersections
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners:
 -
