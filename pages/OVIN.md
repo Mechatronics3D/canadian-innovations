@@ -346,7 +346,10 @@ features:: [[Government]]
 - Internship for Vehicle Telematics Development
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Autzu Inc.
-	-
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $130,000
+- Advanced Statistical Control System (ASCS) for Long Range Autonomous Electric Vehicle (AEV) Operation
+	- Program:
 	-
 -
 -
