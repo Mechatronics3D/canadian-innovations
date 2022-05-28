@@ -448,6 +448,8 @@ features:: [[Government]]
 	- Partners: Visual Defence Inc.; The Regional Municipality of Durham
 	- Program Commitment: $987,597
 	- Partner Commitment(s): $2,208,951
+- AI-enabled data collection system
+	- Program:
 	-
 -
 -
