@@ -4,5 +4,5 @@ features:: [[Government]]
 - # Companies
 - [Geotab: fleet management](https://www.geotab.com/) received $1 million
 	- Project: Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
-	-
+	- Other partners: Miovision Technologies Inc.; ESCRYPT Canada; GeoTab Inc.; Magna Electronics
 - []()
