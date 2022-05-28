@@ -143,5 +143,9 @@ features:: [[Government]]
 	- Partners: Irdeto Canada
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,000
--
+- Autonomous Platform Integrity and Cyber Security (APICS)
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: JCAII (Jeff Campbell Associates International Inc)
+	- Program Commitment: $20,000
+	-
 -
