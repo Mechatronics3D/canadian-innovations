@@ -15,7 +15,9 @@ features:: [[Government]]
 	- Program Commitment: $2,662,500
 	- Partner Commitment(s): $5,523,975
 - Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- [Pantonium Inc.](https://pantonium.com/)
+	- Partner: [Pantonium Inc.](https://pantonium.com/)
 	- Program Commitment: $947,450
-	-
+	- Partner Commitment(s): $2,488,200
+- Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+	- Partners:
 	-
