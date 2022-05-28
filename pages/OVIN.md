@@ -167,5 +167,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: Acerta Analytics Solutions, Inc.; General Motor of Canada Company
 	- Program Commitment: $100,000
+	- Partner Commitment(s): $170,000
+- IoT Device for Real Time Infrastructure Deficiencies Detection
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Region of Peel; IRIS R&D Group Inc.; City of Hamilton
+	- Program Commitment: $100,000
 	-
 -
