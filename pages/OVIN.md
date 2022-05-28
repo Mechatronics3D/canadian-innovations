@@ -147,5 +147,6 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
 	- Partners: JCAII (Jeff Campbell Associates International Inc)
 	- Program Commitment: $20,000
-	-
+	- Partner Commitment(s): $20,000
+-
 -
