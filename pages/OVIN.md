@@ -402,7 +402,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Neverfrost, Inc.
 	- Program Commitment: $30,000
-	-
+	- Partner Commitment(s): $31,500
+- 100% electric salt brining sidewalk robots
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners:
 	-
 -
 -
