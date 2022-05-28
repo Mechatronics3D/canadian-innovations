@@ -373,6 +373,11 @@ features:: [[Government]]
 	- Partners: Klashwerks Inc.
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $20,000
+- Internship for In-car software application for Autzu Vehicle Connection (AVC) System
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Autzu Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $245,000
 	-
 	-
 -
