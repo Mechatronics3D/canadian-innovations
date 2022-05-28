@@ -73,5 +73,8 @@ features:: [[Government]]
 	- Partner: Trans-Plan Transportation Inc.
 	- Program Commitment: $60,000
 	- Partner Commitment(s): $60,000
--
+- Using Autonomous Vehicles and Crowd Data to Solve the Traffic Problem
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partner: Fast Fwd Technologies Inc.
+	-
 -
