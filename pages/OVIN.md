@@ -53,4 +53,6 @@ features:: [[Government]]
 	- Partners: X-Matik Inc.; City of Toronto
 	- Program Commitment: $375,267
 	- Partner Commitment(s): $455,267
--
+- Program: Autonomous Vehicle Innovation Network (AVIN) - Demonstration Zone and Regional Technology Development Sites
+	- Partners: Automotive Parts Manufacturer’s Association (APMA)
+	-
