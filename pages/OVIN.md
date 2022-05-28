@@ -7,4 +7,7 @@ features:: [[Government]]
 	- Program Commitment: $1,000,000
 	- Partner Commitment(s): $1,000,000
 - Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
-	- Partner: [Communitech]()
+	- Partner: [Communitech](https://www.communitech.ca/)
+	- Program Commitment: $4,998,225
+	- Partner Commitment(s): $5,165,299
+-
