@@ -22,71 +22,71 @@ features:: [[Government]]
 
 # Partner Organizations
 
-- Agricultural Adaptation Council (AAC)
-- Alberta Innovates (AI)
-- Angel Investors Ontario (AIO) 
-- Angel One Investor Network (A-ONE)
-- APMA
-- Capital Angel Network (CAN)
-- Canarie
-- Consortium for Aerospace Research and Innovation in Canada (CARIC)
-- Canadian Gas Association
-- Canadian Manufacturers and Exporters (CME) 
--  Centre for Excellence in Mining Innovation (CEMI)
-- Centre of Excellence Next Generation Networks (CENGN) 
-- China Canada Angels Alliance (CCAA) 
+- [Agricultural Adaptation Council (AAC)](http://www.adaptcouncil.org/)
+- [Alberta Innovates (AI)](http://albertainnovates.ca/)
+- [Angel Investors Ontario (AIO)](http://www.angelinvestorsontario.ca/) 
+- [Angel One Investor Network (A-ONE)](http://angelonenetwork.ca/)
+- [APMA](https://apma.ca/)
+- [Capital Angel Network (CAN)](http://www.capitalangels.ca/)
+- [Canarie](https://www.canarie.ca/)
+- [Consortium for Aerospace Research and Innovation in Canada (CARIC)](http://www.caric.ca/)
+- [Canadian Gas Association](http://www.cga.ca/)
+- [Canadian Manufacturers and Exporters (CME)](http://www.cme-mec.ca/) 
+- [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
+- [Centre of Excellence Next Generation Networks (CENGN)](http://www.cengn.ca/) 
+- [China Canada Angels Alliance (CCAA)](http://www.cc-angels.com/wp/) 
 - China-Canada Innovation Park (CCIP)
-- CIENA Canada
-- Communitech 
--  Compute Ontario 
-- CSA Group 
-- Emissions Reductions Alberta
-- Ericsson
-- Fintech Sandbox 
-- Futurpreneur Canada (formerly Canadian Youth Business Foundation or CYBF) 
-- Georgian Angel Network (GAN) 
-- Golden Triangle Angel Network (GTAN) 
-- HIGHLINE
-- IBI Group
-- IBM Canada  
-- Innovation Cluster   
-- Innovation Factory   
-- Interactive Ontario (IO)  
-- INcubes  
-- Invest Ottawa  
-- Ivey International Centre for Health Innovation  
-- Keiretsu Forum
-- Korea Evaluation Institute of Industrial Technology (KEIT) 
-- Life Sciences Ontario (LSO) 
-- Maple Leaf Angels (MLA) 
-- MaRS Discovery District 
-- MaRS Innovation
-- Mitacs
-- National Angel Capital Organization (NACO)
-- Niagara Angel Network (NAN) 
-- Northern Ontario Angels (NOA) 
-- OMERS Ventures  
-- OneEleven  
-- Ontario Aerospace Council (OAC) 
-- Ontario Brain Institute (OBI) 
-- ORION  
-- Peterborough Region Angel Network (PRAM)
-- Prompt
-- Pycap
-- Quebec Consortium for Drug Discovery (CQDM)
-- Sustainable Development Technology Canada
-- Southern Ontario Smart Computing Innovation Platform (SOSCIP) 
-- Sunnybrook Research Institute 
-- Toronto Business Development Centre (TBDC)
-- Toronto Finance International (TFI) 
-- Ultra Deep Mining Network (UDMN) 
-- Venture for Canada 
-- ventureLAB
-- VENUS Cybersecurity 
-- Windsor Essex Angel Network
-- Windsor-Essex Economic Development Corporation (WE EDC) 
-- XPRIZE
-- York Angel Investors
+- [CIENA Canada](https://www.ciena.com/)
+- [Communitech](http://www.communitech.ca/) 
+- [Compute Ontario](https://www.oce-ontario.org/about-us/our-partners/computeontario.ca) 
+- [CSA Group](https://www.csagroup.org/) 
+- [Emissions Reductions Alberta](http://www.eralberta.ca/)
+- [Ericsson](https://www.ericsson.com/en)
+- [Fintech Sandbox](http://www.futurpreneur.ca/) 
+- [Futurpreneur Canada (formerly Canadian Youth Business Foundation or CYBF)](http://www.futurpreneur.ca/) 
+- [Georgian Angel Network (GAN)](http://georgianangelnet.ca/) 
+- [Golden Triangle Angel Network (GTAN)](http://goldentriangleangelnet.ca/) 
+- [HIGHLINE](http://www.highline.vc/)
+- [IBI Group](http://www.ibigroup.com/)
+- [IBM Canada](http://www.ibm.com/ca/en/)  
+- [Innovation Cluster](http://www.innovationcluster.ca/)   
+- [Innovation Factory](https://innovationfactory.ca/)   
+- [Interactive Ontario (IO)](http://www.interactiveontario.com/)  
+- [INcubes](http://incubes.ca/)  
+- [Invest Ottawa](https://www.investottawa.ca/)  
+- [Ivey International Centre for Health Innovation](http://sites.ivey.ca/healthinnovation/)  
+- [Keiretsu Forum](http://www.keiretsutoronto.ca/)
+- [Korea Evaluation Institute of Industrial Technology (KEIT)](http://www.keit.re.kr/eng/contents.do?gbn=01_01) 
+- [Life Sciences Ontario (LSO)](http://www.lifesciencesontario.ca/home/index.php) 
+- [Maple Leaf Angels (MLA)](https://www.mapleleafangels.com/) 
+- [MaRS Discovery District](http://marsdd.com/) 
+- [MaRS Innovation](http://marsinnovation.com/)
+- [Mitacs](https://www.mitacs.ca/en)
+- [National Angel Capital Organization (NACO)](https://www.nacocanada.com/cpages/home)
+- [Niagara Angel Network (NAN)](http://niagaraangels.com/) 
+- [Northern Ontario Angels (NOA)](http://www.northernontarioangels.ca/en/) 
+- [OMERS Ventures](http://www.omers.com/)  
+- [OneEleven](http://www.oneeleven.com/)  
+- [Ontario Aerospace Council (OAC)](http://www.ontaero.org/) 
+- [Ontario Brain Institute (OBI)](http://www.braininstitute.ca/homepage) 
+- [ORION](https://www.orion.on.ca/)  
+- [Peterborough Region Angel Network (PRAM)](https://www.peterboroughangels.ca/)
+- [Prompt](http://www.promptinc.org/)
+- [Pycap](http://www.pycap.ca/)
+- [Quebec Consortium for Drug Discovery (CQDM)](http://www.cqdm.org/en/index.php)
+- [Sustainable Development Technology Canada](https://www.sdtc.ca/en)
+- [Southern Ontario Smart Computing Innovation Platform (SOSCIP)](http://www.soscip.org/) 
+- [Sunnybrook Research Institute](http://sunnybrook.ca/research/) 
+- [Toronto Business Development Centre (TBDC)](https://tbdc.com/)
+- [Toronto Finance International (TFI)](https://tfi.ca/) 
+- [Ultra Deep Mining Network (UDMN)](https://www.miningdeep.ca/) 
+- [Venture for Canada](http://www.ventureforcanada.ca/) 
+- [ventureLAB](https://venturelab.ca/)
+- [VENUS Cybersecurity](http://www.venuscyber.com/) 
+- [Windsor Essex Angel Network](http://weangelnetwork.com/)
+- [Windsor-Essex Economic Development Corporation (WE EDC)](http://choosewindsoressex.com/) 
+- [XPRIZE](http://www.xprize.org/)
+- [York Angel Investors](http://www.yorkangels.com/) 
 
 # Projects
 
