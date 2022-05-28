@@ -137,5 +137,6 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
 	- Partners: 6Harmonics Inc.
 	- Program Commitment: $30,000
-	-
+	- Partner Commitment(s): $30,600
+-
 -
