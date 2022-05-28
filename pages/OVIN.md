@@ -124,5 +124,9 @@ features:: [[Government]]
 	- Program Commitment: $10,000
 	- Partner Commitment(s): $10,000
 - DGDL Autonomous Vehicle Exploration
-	-
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Daily Goods Design LABS
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $10,000
+-
 -
