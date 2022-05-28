@@ -323,6 +323,11 @@ features:: [[Government]]
 	- Partners: Trans-Plan Transportation Inc.
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $46,992
+- ADMMIT Connected Freight Management and Delivery System
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: NORCAT; Cementation Canada Inc.; SHYFTinc Industries Ltd. (O/A SHYFTinc); Boudreau-Espley-Pitre Corporation (O/A BESTECH)
+	- Program Commitment: $913,689
+	- Partner Commitment(s): $1,827,380
 -
 	-
 -
