@@ -83,5 +83,10 @@ features:: [[Government]]
 	- Partners: iNAGO Corporation, York University
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,000
+- Demonstration of a Battery-Based Autonomous EV Charging Station
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Oshawa Power and Utilities Corporation; InspecTech Analygas Group Inc.; eCAMION Inc.
+	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $1,100,247
 -
 -
