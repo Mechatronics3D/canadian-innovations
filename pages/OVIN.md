@@ -98,5 +98,6 @@ features:: [[Government]]
 	- Partners: Valeo Canada, Inc.; Sensor Cortek inc
 	- Program Commitment: $478,000
 	- Partner Commitment(s): $506,800
--
+- Snow Plow and Salter Automated System
+	-
 -
