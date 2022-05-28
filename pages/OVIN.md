@@ -328,7 +328,11 @@ features:: [[Government]]
 	- Partners: NORCAT; Cementation Canada Inc.; SHYFTinc Industries Ltd. (O/A SHYFTinc); Boudreau-Espley-Pitre Corporation (O/A BESTECH)
 	- Program Commitment: $913,689
 	- Partner Commitment(s): $1,827,380
--
+- Regression Modeling for Improved Road Safety Analysis using Traffic Conflicts
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Brisk Synergies Tech Corp
+	- Program Commitment: $20,000
+	-
 	-
 -
 -
