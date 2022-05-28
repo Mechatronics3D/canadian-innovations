@@ -2,7 +2,6 @@ type:: [[Organization]]
 features:: [[Government]]
 
 # Provincial Partners
-
 	- Ministry of Economic Development, Job Creation and Trade
 	- Ministry of Transportation
 	- Ministry of Government and Consumer Services
@@ -10,21 +9,17 @@ features:: [[Government]]
 	- Ministry of Colleges and Universities
 	- Ministry of Agriculture, Food and Rural Affairs
 	- Ministry of the Environment, Conservation and Parks
-
 # Federal Partners
-
 - Federal Economic Development Agency for Southern Ontario (FedDev Ontario)
 - Industrial Research Assistance Program (IRAP)
 - Natural Resources Canada (NRCan)
 - Natural Sciences and Engineering Research Council of Canada (NSERC)
 - Social Sciences and Humanities Research Council (SSHRC)
 - Business Development Bank of Canada (BDC)
-
 # Partner Organizations
-
 - [Agricultural Adaptation Council (AAC)](http://www.adaptcouncil.org/)
 - [Alberta Innovates (AI)](http://albertainnovates.ca/)
-- [Angel Investors Ontario (AIO)](http://www.angelinvestorsontario.ca/) 
+- [Angel Investors Ontario (AIO)](http://www.angelinvestorsontario.ca/)
 - [Angel One Investor Network (A-ONE)](http://angelonenetwork.ca/)
 - [APMA](https://apma.ca/)
 - [Capital Angel Network (CAN)](http://www.capitalangels.ca/)
@@ -32,64 +27,62 @@ features:: [[Government]]
 - [Consortium for Aerospace Research and Innovation in Canada (CARIC)](http://www.caric.ca/)
 - [Canadian Gas Association](http://www.cga.ca/)
 - [Canadian Manufacturers and Exporters (CME)](http://www.cme-mec.ca/) 
-- [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
-- [Centre of Excellence Next Generation Networks (CENGN)](http://www.cengn.ca/) 
-- [China Canada Angels Alliance (CCAA)](http://www.cc-angels.com/wp/) 
+  - [Centre for Excellence in Mining Innovation (CEMI)](http://www.miningexcellence.ca/)
+- [Centre of Excellence Next Generation Networks (CENGN)](http://www.cengn.ca/)
+- [China Canada Angels Alliance (CCAA)](http://www.cc-angels.com/wp/)
 - China-Canada Innovation Park (CCIP)
 - [CIENA Canada](https://www.ciena.com/)
 - [Communitech](http://www.communitech.ca/) 
-- [Compute Ontario](https://www.oce-ontario.org/about-us/our-partners/computeontario.ca) 
-- [CSA Group](https://www.csagroup.org/) 
+  - [Compute Ontario](https://www.oce-ontario.org/about-us/our-partners/computeontario.ca)
+- [CSA Group](https://www.csagroup.org/)
 - [Emissions Reductions Alberta](http://www.eralberta.ca/)
 - [Ericsson](https://www.ericsson.com/en)
-- [Fintech Sandbox](http://www.futurpreneur.ca/) 
-- [Futurpreneur Canada (formerly Canadian Youth Business Foundation or CYBF)](http://www.futurpreneur.ca/) 
-- [Georgian Angel Network (GAN)](http://georgianangelnet.ca/) 
-- [Golden Triangle Angel Network (GTAN)](http://goldentriangleangelnet.ca/) 
+- [Fintech Sandbox](http://www.futurpreneur.ca/)
+- [Futurpreneur Canada (formerly Canadian Youth Business Foundation or CYBF)](http://www.futurpreneur.ca/)
+- [Georgian Angel Network (GAN)](http://georgianangelnet.ca/)
+- [Golden Triangle Angel Network (GTAN)](http://goldentriangleangelnet.ca/)
 - [HIGHLINE](http://www.highline.vc/)
 - [IBI Group](http://www.ibigroup.com/)
-- [IBM Canada](http://www.ibm.com/ca/en/)  
-- [Innovation Cluster](http://www.innovationcluster.ca/)   
-- [Innovation Factory](https://innovationfactory.ca/)   
-- [Interactive Ontario (IO)](http://www.interactiveontario.com/)  
-- [INcubes](http://incubes.ca/)  
-- [Invest Ottawa](https://www.investottawa.ca/)  
-- [Ivey International Centre for Health Innovation](http://sites.ivey.ca/healthinnovation/)  
+- [IBM Canada](http://www.ibm.com/ca/en/)
+- [Innovation Cluster](http://www.innovationcluster.ca/)
+- [Innovation Factory](https://innovationfactory.ca/)
+- [Interactive Ontario (IO)](http://www.interactiveontario.com/)
+- [INcubes](http://incubes.ca/)
+- [Invest Ottawa](https://www.investottawa.ca/)
+- [Ivey International Centre for Health Innovation](http://sites.ivey.ca/healthinnovation/)
 - [Keiretsu Forum](http://www.keiretsutoronto.ca/)
-- [Korea Evaluation Institute of Industrial Technology (KEIT)](http://www.keit.re.kr/eng/contents.do?gbn=01_01) 
-- [Life Sciences Ontario (LSO)](http://www.lifesciencesontario.ca/home/index.php) 
-- [Maple Leaf Angels (MLA)](https://www.mapleleafangels.com/) 
-- [MaRS Discovery District](http://marsdd.com/) 
+- [Korea Evaluation Institute of Industrial Technology (KEIT)](http://www.keit.re.kr/eng/contents.do?gbn=01_01)
+- [Life Sciences Ontario (LSO)](http://www.lifesciencesontario.ca/home/index.php)
+- [Maple Leaf Angels (MLA)](https://www.mapleleafangels.com/)
+- [MaRS Discovery District](http://marsdd.com/)
 - [MaRS Innovation](http://marsinnovation.com/)
 - [Mitacs](https://www.mitacs.ca/en)
 - [National Angel Capital Organization (NACO)](https://www.nacocanada.com/cpages/home)
-- [Niagara Angel Network (NAN)](http://niagaraangels.com/) 
-- [Northern Ontario Angels (NOA)](http://www.northernontarioangels.ca/en/) 
-- [OMERS Ventures](http://www.omers.com/)  
-- [OneEleven](http://www.oneeleven.com/)  
-- [Ontario Aerospace Council (OAC)](http://www.ontaero.org/) 
-- [Ontario Brain Institute (OBI)](http://www.braininstitute.ca/homepage) 
-- [ORION](https://www.orion.on.ca/)  
+- [Niagara Angel Network (NAN)](http://niagaraangels.com/)
+- [Northern Ontario Angels (NOA)](http://www.northernontarioangels.ca/en/)
+- [OMERS Ventures](http://www.omers.com/)
+- [OneEleven](http://www.oneeleven.com/)
+- [Ontario Aerospace Council (OAC)](http://www.ontaero.org/)
+- [Ontario Brain Institute (OBI)](http://www.braininstitute.ca/homepage)
+- [ORION](https://www.orion.on.ca/)
 - [Peterborough Region Angel Network (PRAM)](https://www.peterboroughangels.ca/)
 - [Prompt](http://www.promptinc.org/)
 - [Pycap](http://www.pycap.ca/)
 - [Quebec Consortium for Drug Discovery (CQDM)](http://www.cqdm.org/en/index.php)
 - [Sustainable Development Technology Canada](https://www.sdtc.ca/en)
-- [Southern Ontario Smart Computing Innovation Platform (SOSCIP)](http://www.soscip.org/) 
-- [Sunnybrook Research Institute](http://sunnybrook.ca/research/) 
+- [Southern Ontario Smart Computing Innovation Platform (SOSCIP)](http://www.soscip.org/)
+- [Sunnybrook Research Institute](http://sunnybrook.ca/research/)
 - [Toronto Business Development Centre (TBDC)](https://tbdc.com/)
-- [Toronto Finance International (TFI)](https://tfi.ca/) 
-- [Ultra Deep Mining Network (UDMN)](https://www.miningdeep.ca/) 
-- [Venture for Canada](http://www.ventureforcanada.ca/) 
+- [Toronto Finance International (TFI)](https://tfi.ca/)
+- [Ultra Deep Mining Network (UDMN)](https://www.miningdeep.ca/)
+- [Venture for Canada](http://www.ventureforcanada.ca/)
 - [ventureLAB](https://venturelab.ca/)
-- [VENUS Cybersecurity](http://www.venuscyber.com/) 
+- [VENUS Cybersecurity](http://www.venuscyber.com/)
 - [Windsor Essex Angel Network](http://weangelnetwork.com/)
-- [Windsor-Essex Economic Development Corporation (WE EDC)](http://choosewindsoressex.com/) 
+- [Windsor-Essex Economic Development Corporation (WE EDC)](http://choosewindsoressex.com/)
 - [XPRIZE](http://www.xprize.org/)
-- [York Angel Investors](http://www.yorkangels.com/) 
-
+- [York Angel Investors](http://www.yorkangels.com/)
 # Projects
-
 - Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
 	- Project: Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
 	- Partners: [Miovision Technologies Inc.](https://miovision.com/); [ESCRYPT Canada](https://www.escrypt.com/en); [GeoTab Inc.](https://www.geotab.com/); [Magna Electronics](https://www.magna.com/company/company-information/magna-groups/magna-electronics)
@@ -105,7 +98,7 @@ features:: [[Government]]
 	- Partners: [Windsor Essex Economic Development Corporation (WEEDC)](https://www.investwindsoressex.com), [University of Windsor](https://www.uwindsor.ca), [St. Clair College](https://www.stclaircollege.ca/), [City of Windsor](https://www.citywindsor.ca/) and [WETech Alliance](https://www.wetech-alliance.com/)
 	- Program Commitment: $2,662,500
 	- Partner Commitment(s): $5,523,975
-- No name
+- On-Demand Transit Software
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
 	- Partner: [Pantonium Inc.](https://pantonium.com/)
 	- Program Commitment: $947,450
