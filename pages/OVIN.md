@@ -34,5 +34,6 @@ features:: [[Government]]
   id:: 629191df-73e2-4e52-aa07-c1538181789c
 	- Partners: Havelaar Canada Industrial R & D Laboratory Ltd.; Chery Commercial Vehicle (Anhui) Co. Ltd; Opus1
 	- Program Commitment: $954,964
-	-
+	- Partner Commitment(s): $1,054,964
+-
 	-
