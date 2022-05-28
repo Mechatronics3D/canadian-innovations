@@ -318,6 +318,12 @@ features:: [[Government]]
 	- Partners: iNAGO Corporation; DENSO INTERNATIONAL AMERICA, INC.; ABC Technologies
 	- Program Commitment: $596,882
 	- Partner Commitment(s): $1,212,886
+- Application Amplification of Mapping City Roads Assets (AssetCity)
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Trans-Plan Transportation Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $46,992
 -
+	-
 -
 -
