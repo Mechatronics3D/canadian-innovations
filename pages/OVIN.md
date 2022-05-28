@@ -261,6 +261,10 @@ features:: [[Government]]
 - Connected Transit Vehicle Platform
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: Arcturus Networks Inc.; Clever Devices Ltd.
-	-
+	- Program Commitment: $99,922
+	- Partner Commitment(s): $205,644
+- In-Vehicle Passenger Occupancy Detector and Vital Sign Monitoring System
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners:
 -
 -
