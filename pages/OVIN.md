@@ -48,3 +48,5 @@ features:: [[Government]]
 	- Partners: The Regional Municipality of Waterloo; The Regional Municipality of Durham; Region of Waterloo; Fortran Traffic Systems Limited
 	- Program Commitment: $210,265
 	- Partner Commitment(s): $1,935,865
+- LaneCruise Fleet Pilot
+	- Program:
