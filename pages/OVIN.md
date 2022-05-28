@@ -230,5 +230,8 @@ features:: [[Government]]
 	- Partner Commitment(s): $52,644
 - Post Quantum Resistance
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
-	-
+	- Partners: NXM Technologies Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $42,644
+-
 -
