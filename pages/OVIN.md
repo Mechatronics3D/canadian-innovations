@@ -265,6 +265,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $205,644
 - In-Vehicle Passenger Occupancy Detector and Vital Sign Monitoring System
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners:
+	- Partners: Omron Automotive Technologies
+	- Program Commitment: $56,000
+	- Partner Commitment(s): $64,480
+- Future Impact of Autonomous Driving Technology on Social Service, Urban Infrastructure, Mobility and Lifestyle
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Aprilli Design Ltd.
+	-
 -
 -
