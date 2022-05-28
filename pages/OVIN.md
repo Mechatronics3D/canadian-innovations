@@ -88,5 +88,7 @@ features:: [[Government]]
 	- Partners: Oshawa Power and Utilities Corporation; InspecTech Analygas Group Inc.; eCAMION Inc.
 	- Program Commitment: $1,000,000
 	- Partner Commitment(s): $1,100,247
--
+- Vehicle Dynamics Control and Real Time Autotuning Software
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: X-Matik Inc.
 -
