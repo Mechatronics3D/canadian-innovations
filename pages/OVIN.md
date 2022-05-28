@@ -198,5 +198,10 @@ features:: [[Government]]
 	- Partners: Nokia Canada; Town of Whitby; Aurrigo Canada; University of Ontario Institute of Technology; SmartCone Technologies Inc.; Durham Region Transit; AutoGuardian by SmartCone
 	- Program Commitment: $986,163
 	- Partner Commitment(s): $1,707,024
+- Retrofit of an automated heavy-duty vehicle
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Almon Equipment Limited; X-matik Inc.; University of Waterloo; The Miller Group
+	- Program Commitment: $253,250
+	- Partner Commitment(s): $685,379
 -
 -
