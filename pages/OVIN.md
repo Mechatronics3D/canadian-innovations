@@ -435,7 +435,13 @@ features:: [[Government]]
 	- Partner Commitment(s): $188,809
 - Prototype Urban V2X Ecosystem
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners:
+	- Partners: PaxgridCdn Inc; City of Peterborough
+	- Program Commitment: $80,026
+	- Partner Commitment(s): $160,054
+- Acerta Analytics Solutions Inc.
+	- Program: Autonomous Vehicle Innovation Network – AV R&D Partnership Fund – Stream 1
+	- Partners: Acerta Analytics Solutions Inc.
+	-
 	-
 -
 -
