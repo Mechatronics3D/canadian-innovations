@@ -99,5 +99,9 @@ features:: [[Government]]
 	- Program Commitment: $478,000
 	- Partner Commitment(s): $506,800
 - Snow Plow and Salter Automated System
-	-
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Viking-Cives; Flodraulic Controls Ltd.
+	- Program Commitment: $538,952
+	- Partner Commitment(s): $594,268
+-
 -
