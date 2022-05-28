@@ -2,4 +2,4 @@ type:: [[Organization]]
 features:: [[Government]]
 
 - # Companies
-- [Geotab]()
+- [Geotab: fleet management](https://www.geotab.com/) received $1 million
