@@ -64,5 +64,6 @@ features:: [[Government]]
 	- Program Commitment: $60,000
 	- Partner Commitment(s): $78,000
 - Safe and Robust Planning for Autonomous Vehicles
-	-
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners:
 -
