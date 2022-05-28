@@ -298,6 +298,11 @@ features:: [[Government]]
 	- Partners: Visual Defence Inc; Town of Richmond Hill
 	- Program Commitment: $100,000
 	- Partner Commitment(s): $148,868
+- Vehicle Prognostics - Aftertreatment/Diesel Environmental System Prognostics
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: 9182039 Canada Inc; Trimac Transportation Services Inc.
+	- Program Commitment: $88,231
+	- Partner Commitment(s): $138,571
 -
 -
 -
