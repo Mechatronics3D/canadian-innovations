@@ -1,4 +1,4 @@
-type:: [[Startup]]
+type:: [[Companies]]
 features:: [[Mobility]]
 
 * [Electra Mechanica: Solo](https://electrameccanica.com/)

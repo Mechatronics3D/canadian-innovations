@@ -1,4 +1,4 @@
-type:: [[Startup]]
+type:: [[Companies]]
 features:: [[IoT]]
 
 # Internet of Things
