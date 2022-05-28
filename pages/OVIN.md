@@ -14,11 +14,12 @@ features:: [[Government]]
 	- Partners: [Windsor Essex Economic Development Corporation (WEEDC)](https://www.investwindsoressex.com), [University of Windsor](https://www.uwindsor.ca), [St. Clair College](https://www.stclaircollege.ca/), [City of Windsor](https://www.citywindsor.ca/) and [WETech Alliance](https://www.wetech-alliance.com/)
 	- Program Commitment: $2,662,500
 	- Partner Commitment(s): $5,523,975
-- Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+- No name
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
 	- Partner: [Pantonium Inc.](https://pantonium.com/)
 	- Program Commitment: $947,450
 	- Partner Commitment(s): $2,488,200
--
+- Regional Technology Development Site - Toronto Region
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
 	- Partners: [MaRS Discovery District](https://www.marsdd.com/), [University of Toronto](https://www.utoronto.ca/), [Toronto Metropolitan University](https://www.torontomu.ca/) and [York University](https://www.yorku.ca/)
 	- Program Commitment: $5,000,000
