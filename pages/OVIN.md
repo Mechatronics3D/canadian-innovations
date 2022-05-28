@@ -395,6 +395,10 @@ features:: [[Government]]
 	- Partner Commitment(s): $477,485
 - MESH Tracks Winter Maintenance and Information System
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Corporation of the City of Quinte West; Go Evo Inc.; City of Belleville
+	- Program Commitment: $410,000
+	- Partner Commitment(s): $834,408
+- Development of Durable and Functional Nanocoatings to Prevent Sensor Blindness in Autonomous Vehicles
 	-
 	-
 -
