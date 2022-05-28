@@ -359,7 +359,11 @@ features:: [[Government]]
 	- Program Commitment: $35,000
 	- Partner Commitment(s): $65,000
 - iNAGO Corp.
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: iNAGO Corp.
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $14,600
+-
 	-
 -
 -
