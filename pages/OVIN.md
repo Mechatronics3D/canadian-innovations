@@ -332,6 +332,11 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
 	- Partners: Brisk Synergies Tech Corp
 	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+- Winterizing L4 Autonomous Vehicles for Short-Haul Logistics
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Loblaws Inc.; Gatik Inc.
+	- Program Commitment: $1,057,706
 	-
 	-
 -
