@@ -203,5 +203,10 @@ features:: [[Government]]
 	- Partners: Almon Equipment Limited; X-matik Inc.; University of Waterloo; The Miller Group
 	- Program Commitment: $253,250
 	- Partner Commitment(s): $685,379
+- Invision AI Forward Collision Warning System - Talent Edge
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Invision AI, Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $51,500
 -
 -
