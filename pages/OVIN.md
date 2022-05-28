@@ -405,7 +405,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $31,500
 - 100% electric salt brining sidewalk robots
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners:
+	- Partners: Green Ventures; 11712381 Canada Corporation (dba Top Hat Robotics)
+	- Program Commitment: $99,990
+	- Partner Commitment(s): $200,200
+- Swiss Reinsurance Company Ltd
+	- Program:
+	- Partner: Swiss Reinsurance Company Ltd
 	-
 -
 -
