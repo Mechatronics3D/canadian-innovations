@@ -190,5 +190,8 @@ features:: [[Government]]
 	- Partner Commitment(s): $408,798
 - OnTRAC: Safe and Robust Obstacle Detection for Autonomous Rail
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners:
+	- Partners: Thales Canada Inc.; York University; TrackGen Solutions Inc. ; Neptec Technologies Corp.
+	- Program Commitment: $1,130,000
+	- Partner Commitment(s): $1,455,606
+-
 -
