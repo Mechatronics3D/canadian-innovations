@@ -420,7 +420,13 @@ features:: [[Government]]
 	- Partner Commitment(s): $2,132,147
 - Operator-free Charging for Autonomous Transit Vehicles
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners:
+	- Partners: eCAMION Inc.; Oshawa PUC Networks Inc.; Durham Region Transit; Inspectech Analygas Group Inc.
+	- Program Commitment: $773,603
+	- Partner Commitment(s): $1,547,205
+- Design and development of In-car connectivity using eSIM for safe and reliable fleet management
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Autzu Inc.; Stork Driver, LLC
+	-
 	-
 -
 -
