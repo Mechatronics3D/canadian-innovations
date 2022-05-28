@@ -337,6 +337,10 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Loblaws Inc.; Gatik Inc.
 	- Program Commitment: $1,057,706
+	- Partner Commitment(s): $8,068,325
+- Automotive Ethernet, Ethernet, CAN Smart Gateway
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Axiomatic Technologies Corporation
 	-
 	-
 -
