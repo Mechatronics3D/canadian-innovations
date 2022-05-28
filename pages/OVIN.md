@@ -14,5 +14,6 @@ features:: [[Government]]
 	- Partners: [Windsor Essex Economic Development Corporation (WEEDC)](https://www.investwindsoressex.com), [University of Windsor](https://www.uwindsor.ca), [St. Clair College](https://www.stclaircollege.ca/), [City of Windsor](https://www.citywindsor.ca/) and [WETech Alliance](https://www.wetech-alliance.com/)
 	- Program Commitment: $2,662,500
 	- Partner Commitment(s): $5,523,975
--
+- Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- [Pantonium Inc.]()
 	-
