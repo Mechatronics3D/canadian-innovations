@@ -79,5 +79,9 @@ features:: [[Government]]
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $20,000
 - iNAGO Corp. - Emad Gohari Boroujerdi
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: iNAGO Corporation, York University
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+-
 -
