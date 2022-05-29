@@ -450,7 +450,9 @@ features:: [[Government]]
 	- Partner Commitment(s): $2,208,951
 - AI-enabled data collection system
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners:
+	- Partners: IRIS R&D Group Inc.; City of Hamilton
+	- Program Commitment: $99,000
+	-
 	-
 -
 -
