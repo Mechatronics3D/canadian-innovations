@@ -1,0 +1,3173 @@
+# Ontario
+
+- 1 Source Design Ltd.
+- 1000 Islands Lawn &amp; Landscape
+- 1000ml
+- 10334839 CANADA Inc. (o/a Phat Nutrition Ltd.)
+- 10991759 Canada Inc. dba Analyticly
+- 11114140 Canada In. DBA EAIGLE
+- 11228366 Canada Inc. (O/A Attentive Vision Technologies)
+- 11712381 Canada Corporation
+- 1544860 ONTARIO Inc. O/A RAPID MACHINING 2000
+- 16 Bit Inc.
+- 180 Drums
+- 1929803 Ontario Corp. (dba. Flosonics Medical)
+- 1964121 Ontario Ltd. O/A Aditum Health
+- 1COMMUNITY1 Incorporated
+- 1QB Information Technologies
+- 20/20 OptimEyes
+- 2000007 ONTARIO Inc.
+- 21 Toys
+- 2148145 ONTARIO CORP. O/A Innovexa Solutions
+- 2247260 ONTARIO Ltd. O/A Precision Stamping Group
+- 22nd Century Mindware
+- 2489759 ONTARIO Inc.
+- 2546201 Ontario Inc. (Avro Life Science)
+- 2599218 Ontario Inc. O/A Zero Energy Water
+- 26 Day Inc. DBA RoadLaunch
+- 2618991 Ontario Inc
+- 2CM Innovative Machining Inc.
+- 2G Robotics Inc.
+- 2Keys
+- 2Keys Corporation
+- 2ND LOT Building Performance Simulation and Consulting Inc.
+- 360 Business Ventures Inc
+- 3D Sentry Corporation Inc.
+- 3M Canada
+- 3M Canada Company
+- 3Rius Design Innovations
+- 416 DATING
+- 42
+- 4D Space Genius Inc.
+- 6Harmonics
+- 6Harmonics Inc.
+- 7543379 Canada Inc. - Alternate Runway Materials
+- 7D Surgical Inc.
+- 80-20 Growth Corporation
+- 8282072 Canada Inc.
+- 8573727 Canada Corp. dba NIKU Farms
+- 8996598 Canada Inc. (operating as Suncayr)
+- 9182039 Canada Inc.
+- 9182039 Canada Inc. (Vehicle Prognostics Research Group)
+- 9659447 Canada Inc.
+- A Division of Magna Exteriors Inc.
+- A and L Canada Laboratories
+- A&amp;L Biologicals
+- A&amp;L Canada Laboratories Inc.
+- A.I. Vali Inc.
+- A.U.G. Signals Ltd.
+- AB SCIEX
+- ABB Inc.
+- ABS Software Design Inc.
+- ABcann Medicinals Inc.
+- ACGT Corporation
+- ADA Innovations
+- ADitude Media Inc.
+- AEC Solutions Inc.
+- AEM Power Systems Inc.
+- AES Life Sciences
+- AEXOS Inc.
+- AGS Automotive Systems
+- AHead Simulations Inc.
+- AIH Technology Inc.
+ALTEX Decoraton Ltd.;ALCHEMY / Neverfrost;The C3 GROUP;SABIC;FHR Anlagenbau GmbH;Golconda International Financial Information Service;University of - Toronto - Professor - Departments of Electrical &amp; Computer EngineeringAnlagenbau GmbH;Golconda International Financial Information Service;University of Toronto - Professor - Departments of Electrical &amp; Computer Engineering
+- ALink Computer Solutions Inc.
+- ANPI Canada Inc.
+- AOMS Technologies
+- AP Renewables
+- APAG Elektronic Corp
+- APMA
+- ARDA Power
+- ARnocular Ltd.
+- ATES Inc.
+- ATET-TECH Inc.
+- ATI Technologies ULC
+- ATS Automation Tooling Systems Inc.
+- AWARE Beverages Inc.
+- AWE Company Ltd.
+- AWVENTXR Inc.
+- AXIS Labs Inc.
+- AYUS - Durham Region Awareness Centre
+- AarKel Tool and Die Inc.
+- Aarkel Tool and Die Inc.
+- AbCelex Technologies Inc.
+- Abacus Uxbridge Inc.
+- Abbott Point of Care
+- Able Innovations Inc.
+- Abram Refrigeration and Sheet Metal
+- Absolute Change Management
+- Absolute Industrial Management
+- Accelerated Systems Inc.
+- Accolade Energy Harvesting Technologies
+- Accu-Label Inc.
+- Accu-Temp Systems
+- AceAge Inc.
+- Acerta Analytics Solutions
+- Acerta Analytics Solutions Inc.
+- Acetronic Industrial Controls Inc.
+- Aclarus Inc.
+- Activation Laboratories Inc.
+- Activation Laboratories Ltd.
+- Active Industrial Solution
+- Active Playground Equipment Inc.
+- Activity List
+- Acuity Ads Inc.
+- Acumyn Inc.
+- AdWiser.net Inc.
+- Adapsyn Bioscience Inc.
+- Adaptive Music Expression
+- Adavanced Theranostics
+- Addictive Tech Corp.
+- Adjacent Possibilities
+- Adrenalease Inc.
+- Aduro Energy Inc.
+- AdvanTag
+- Advance Property eXposure Canada Inc.
+- AdvanceWorx Inc.
+- Advanced CERT Canada
+- Advanced Chemical Technologies
+- Advanced Electrophoresis Solutions
+- Advanced Measurement and Analysis Group
+- Advanced Micro Devices
+- Advanced Opto-Mechanical Systems and Technologies Inc. (AOMS)
+- Advanced Process Automation Technologies Inc.
+- Advanced Symbolics
+- Advanced Symbolics (2015) Inc.
+- Advanced Symbolics Inc.
+- Advanced Technology Emission Solutions Inc.
+- Advanced Test and Automation
+- Advanced Test and Automation Inc.
+- Adventec Manufacturing Inc.
+- Aereus Technologies Inc.
+- Aerial X Equipment Inc.
+- Aerialytic
+- AeroStream Technologies Corporation
+- Aeryon Labs Inc.
+- Aetonix Systems
+- Aetonix Systems Inc.
+- Aevitas
+- Aflare Systems Inc.
+- After a Loss;Desena's Travel;Eureka Productions
+- Agfa Inc.
+- AggCloud
+- Agnora Glass
+- Agnostiq Inc.
+- Agriculture Technology Inc.
+- Agrium
+- AiZtech Inc.
+- Aimetis Corp.
+- Aiolos Engineering Corporation
+- Air Rider Hovercraft International Inc.
+- Air Xposure
+- AirMatrix Inc.
+- AirShare Inc.
+- Airbus Helicopter Canada
+- Aiva Labs
+- Akindi Inc.
+- Akira Medical Ltd.
+- Akira Systems Inc.
+- Alaunus Inc.
+- AlayaCare Inc.;CBI Health Group;Muskoka Algonquin Healthcare;The Ottawa Hospital;Southlake Hospital Healthlink;St. Michael's Hospital (CLEAR);UOITUOIT
+- Albedo Informatics Inc.
+- Alcea Technologies
+- Alcereco
+- Alcohol Countermeasure Systems Corp.
+- Alex Milne Associated Ltd.
+- Algaeneers Inc.
+- Algocian Inc.
+- Algonquin College of Applied Arts and Technology
+- Algonquin Natural Stone Ltd.
+- Alicorn Chemical
+- All About Kindness
+- Allanson International
+- Allevia Medical Inc.
+- Alltech Inc.
+- Almon Equipment Limited
+- Almon Equipment Ltd.
+- Alphora Research Inc.
+- AlterSpark
+- Altera Corporation
+- Altis Lab
+- Altranex Corporation
+- Altus Assessments Inc
+- Altus Assessments Inc.
+- AlumaPower Corporation
+- Aluminum Mold &amp; Pattern
+- Ambico
+- Ambience Data Inc.
+- Ametros Learning Inc.
+- Amin and Karins Medicine (ONE Fertility)
+- Aminoasis Inc.
+- Amintro
+- AmorChem Holdings Inc.
+- Amvic Inc.
+- Analytics 4 Life
+- Anatomize Medical Media Inc.
+- Anchor Concrete Products Limited
+- Andrew Harvey
+- Andrew J Hart Enterprises Limited
+- Andrew Peller Ltd.
+- Angle Biosciences Inc.
+- Angstrom Engineering Inc.
+- Anishnabek Dental Hygiene Clinic
+- Anomera Inc.
+- Ansik
+- Ansik Inc.
+- Ansik Inc. (dba Pitstop Connect)
+- Answer Precision Tool Inc.
+- Anubis 3D
+- AnyCard
+- Apartmint
+- Apex Composites Inc.
+- Aphria
+- Aplas Ltd.
+- ApoSys Technologies Inc.
+- Apocalypse Studios Inc.
+- Apollo Health and Beauty Care
+- Apotex Pharmachem Inc.
+- App Mastery Inc.
+- App8 Incorporated
+- AppSeed
+- Appili Therapeutics Inc.
+- Applied Brain Research Inc.
+- Applied Telemetrics Inc.
+- Apps 4 Us Inc. o/a Motify
+- Apricity Renewables Inc.
+- Aprilli Design Ltd.
+- Aqua Farms
+- AquaMobile Inc.
+- Aquanty Inc.
+- Aquarius Innovation Inc. [10757969 Canada Corporation]
+- Aquasensing Inc.
+- Aquova
+- Aquova Inc.
+- Arada Systems
+- Arbor Life Labs Inc.
+- Arcane Inc.
+- ArcelorMittal Dofasco
+- Archeoptix Biomedical
+- Arches Computing Systems Corp
+- Archoptix
+- ArciTrax
+- Arcturus Networks Inc.
+- Argentum Electronics Inc.
+- Argonault International Inc.
+- Ark Paradigm
+- Armada ToolWorks Ltd.
+- Armo Tool Ltd.
+- Armor People Link
+- Armour Therapeutics Inc.
+- Armstrong Fluid Technology
+- Arnprior Aerospace Inc.
+- Arooma Canada
+- Arrowonics Technologies Ltd.
+- Artisan Metal Finishing
+- Arup Canada Inc.
+- Arvizio Inc.
+- Arylla Inc.
+- Asclepios Cardiology
+- AskMe
+- AssetFlo Inc.
+- Association Marocaine de Toronto
+- Aterica Inc.
+- Aterlo Networks Inc.
+- Athlyst Inc. (KOMBINE.ai)
+- Athrtitis Innovation Corporation
+- Atlantic Biodiesel Corporation
+- Atlantic Industries Limited
+- Atomic
+- Atomic Works Ltd.
+- Attwill Medical Solutions Inc.
+- Atuka Inc.
+- Audacia Bioscience Inc.
+- Audesse
+- AuditMap Technologies Incorporated
+- Aunt Mary's Corp (Operating as Dynamix)
+- Authintic
+- Autism Teenage Partnership
+- Autodesk Canada Co.
+- Autom River Inc.
+- Automotive Parts Manufacturer’s Association (APMA)
+- Automotive Research &amp; Development Center
+- Autonomous Vehicle Organization Inc.
+- Autonomous Vehicle Organization Ltd.
+- Autzu
+- Autzu Inc.
+- Avaria Health and Beauty Corporation
+- Aventech Research Inc.
+- Aviation Training Resources (1229183 Ontario Inc.)
+- Avicanna
+- AvidBiologics Inc.
+- Awash Systems Corp.
+- Axcessiom Technologies Inc.
+- Axiomatic Technologies Corporation
+- Axon Engineering Inc.
+- Axonify Inc.
+- Azastra Opto Inc.
+- B Data Solutions Inc.
+- B4F (Bike for Fun)
+- BAH Enterprises Inc.
+- BEYOND MEDIA DIGITAL Inc.
+- BGC Engineering Inc.
+- BGIS GLOBAL INTEGRATED SOLUTIONS CANADA
+- BK Investments Consulting Ltd.
+- BMV Optical Technologies Inc.
+- BMW Canada Inc.
+- BOCO Bio-Nanotechnologies Inc.
+- BOCO Technology
+- BOS Innovations
+- BRIC Engineered Systems
+- BSC Animal Nutrition Inc.
+- BTE Assembly Ltd.
+- BTNX Inc.
+- BXD Solutions Inc. (O/A National Prostaff)
+- BacTech Environmental Corporation
+- Backcountry Wok Inc.
+- Balance Lifestyle and Co.
+- Baldinelli
+- Bark 'n Yapp Inc.
+- Barrick Gold Corp
+- Bartek Ingredients Inc.
+- Bartesian
+- BaySafe Harm Reduction
+- Bayer Inc.
+- Baylis Medical Company
+- Baysil Inc.
+- Be With
+- Beacontree Technologies Inc.
+- Beam.City Inc.
+- Bear Standing Tall &amp; Associates
+- Beau's Natural Brewing Company
+- Beautiful Happy Reasons
+- Bedside Clinical Systems
+- Beef Improvement Opportunities
+- Behr Technologies Inc.
+- Bellamy Electric
+- BeneOffice Canada Inc.
+- Berg Chilling Systems Inc.
+- Besify Inc
+- Best Athletes
+- Best Medical Canada
+- Best Theratronics Ltd.
+- Better Current Inc.
+- Better Motion Group
+- Betterfrost
+- Betterfrost Technologies Inc.
+- Betterworth Inc.
+- Beyond Media Digital Inc.
+- Big Blue Bubble Inc.
+- BigBitBus Inc.
+- Bio Rad Laboratories
+- Bio-Ag Consultants and Distributors
+- Bio-Techfar
+- BioCella Medical Concept Solutions Inc.
+- BioDiaspora Inc.
+- BioForest Technologies Inc.
+- BioInk Labs
+- BioLine Corp.
+- Bion Biometrics Inc.
+- Bionic-i Inc.
+- Bionik Lab. Inc.
+- Biotech Square Inc.
+- Bisep
+- BishopWater
+- BitAccess Inc.
+- Bitnobi
+- BizZone Inc.
+- Bizxpro Inc.
+- BlackBerry Limited
+- BlackBerry Ltd.
+- Blackspark Corporation
+- Blacktree Fitness Technologies Inc.
+- Blackwell
+- Bladetech Hockey Inc.
+- Blanclink Inc.
+- Blindside Networks Inc.
+- Blinq Networks
+- BlockAble Inc.
+- BlockHealth Inc
+- Blockthrough
+- Bloom Digital Media
+- BluWave-ai
+- Blue Ant Media Solutions
+- Blue Orchid Care Inc.
+- Blue Pier
+- Blue Pier Administration Corp
+- Blue Salt Digital Media
+- Blue Salt Digital Media Inc.
+- Blue Salt Media Inc.
+- Blue-O Technology Inc.
+- BlueDot Inc.
+- BlueJ Legal
+- BlueOcean NutraSciences Inc.
+- BluePoint Technology Inc.
+- BlueRush Inc.
+- Blueline Bioscience
+- Bluerover Inc.
+- Bluestreak Equipment Inc.
+- Bluewrist Inc.
+- Bluink Ltd.
+- Blurbi Inc.
+- Board Space
+- Body Brave
+- Body Lush
+- Boehme Systems Inc.
+- Boehringer Ingelheim
+- Bogdan Stanescu
+- Bombardier Aerospace
+- Bombardier Aviation
+- Bombardier Inc.
+- Booch Inc.
+- Boombox Software Inc.
+- Boreal Agrominerals Inc.
+- Borrum Energy Solutions Inc.
+- Boss Insights Inc.
+- Boston Scientific Ltd
+- BottleWorks
+- Boudreau-Espley-Pitre Corporation (O/A BESTECH)
+- Box Suite Inc.
+- Brain Injury Services
+- Brain Power Studio Inc.
+- BrainFx
+- BrainFx Inc.
+- BrainPath Inc.
+- BrainsView Inc.
+- Braiyt AI Inc.
+- Brakers Early Warning Systems Inc.
+- Brantford Police Service
+- Braze Mobility Inc.
+- Brendan Manley PJ Inc. dba VirtualAd
+- BreqLabs Inc.
+- BresoTec Inc.
+- Brides for Charity
+- Bridesmade
+- Bridgehead 2000 Inc.
+- Brightspark Capital Inc.
+- Brightworks Solar Inc.
+- Brili
+- Brinx Software Inc. (O/A Masterpiece VR)
+- Brisk Synergies Tech Corp
+- Brizi Inc.
+- Broadview Spine and Health Centre (BSHC)
+- Brock University
+- Broya
+- Brrnanas
+- Bruha Inc.
+- Brust Beverage Company Ltd.
+- Buckland Customs Brokers Ltd.
+- Bull and Bear
+- Business In The Streets
+- Business Intelligence Solutions
+- Butcher Industrial Finishings Inc.
+- Bykart Software Ltd.
+- C-COM Satellite Systems Inc.
+- C-fu FOODS Inc.
+- C2C LINK CORPORATION
+- CAMufacturing Solutions
+- CAMufacturing Solutions Inc.
+- CAN-AM Cryoservices Corp.
+- CARBER Investments
+- CASHiQ Inc.
+- CB Shield Inc.
+- CENGN
+- CERT
+- CGL Manufacturing Inc.
+- CHAR Technologies Inc.
+- CHAR Technologies Ltd.
+- CHEC Energy
+- CHFour Biogas Inc.
+- CHX Technologies
+- CIBC;Security Compass
+- CISTEL Technology Inc.
+- CIeNET International
+- CLUB 3
+- CMP Automation Inc.
+- COFOVO Energy Inc.
+- COSI (Centre for Opera Studies and Appreciation)
+- COSM Medical Corp.
+- CPAP DIRECT Ltd.
+- CPD Construction Products
+- CPOS Inc.
+- CREM Co. Inc.
+- CRS Technology Corp.
+- CReATe Program Inc.
+- CSL Silicones
+- CURV Labs Inc.
+- CUT Membranes Technologies Canada Inc.
+- CVD Diamond Corporation
+- CVMR Corp
+- CVMR Corporation
+- CYBF
+- Caddle Inc.
+- Cadsoft Corporation
+- Calavera Surgical Design Corp.
+- Callisto Mechanical
+- Cambrian College of Applied Arts and Technology
+- Cambridge Heat Treating Inc.
+- Can-AM Pepper Company Ltd.
+- CanDeal.ca Inc.
+- Canada Cyclepods Corp.
+- Canada Masonry Design Centre
+- Canada Prosper Apparel Ltd. (Operating as O2 Canada)
+- CanadaWheels Inc.
+- Canadensys Aerospace Corporation
+- Canadian Bearings
+- Canadian Centre for Swine Improvement Inc.
+- Canadian Centre on Statelessness
+- Canadian Dairy Network
+- Canadian Divorce Services Inc.(DBA Common Sense Divorce or Siesde)
+- Canadian Employee Relocation Council
+- Canadian General Tower Ltd.
+- Canadian Hydro Components Ltd
+- Canadian Hydro Components Ltd.
+- Canadian Krown Dealers Inc.
+- Canadian Mental Health Association
+- Canadian Natural Resources Limited
+- Canadian Roots Exchange
+- Canadian Solar Solutions Inc.
+- Canadore College
+- Canadore College of Applied Arts and Technology
+- Candice Reich
+- Candu Energy Inc.
+- CannTx Life Sciences
+- CannaProve (2665397 Ontario Inc.)
+- CaptiveLogix Corporation
+- Caraustar Industrial Canada
+- CarbonCure Technologies Inc.
+- Carbonix Inc.
+- Cardiovascular Diagnostic Inc. (CVSDI)
+- Cardon Rehabilitation &amp; Medical Eqpt. Ltd.
+- Cardon Rehabilitation and Medical Equipment Ltd.
+- CareGo Tek Inc.
+- CareKit Health
+- Careerleaf Inc.
+- Carego Tek Inc.
+- Caribou Contests Inc.
+- Carleton University
+- Carosi Construction Limited
+- Casalova
+- CashiQ Inc
+- Cast Connex Corporation
+- Causeway Work Centre
+- Cavalier Tool &amp; Manufacturing Ltd.
+- Cave Spring Cellars
+- Cayuga Displays Inc.
+- Celeritas Combatives Corp o/a 2020 Armor
+- Celestica
+- Celestica Corp
+- Celestica Inc.
+- Celestica International
+- Celestica International Inc.
+- Centennial College
+- Central Painting Inc.
+- Centre Charles-Émile-Claude
+- Centre Passerelle pour femmes du nord de l'Ontario
+- Centre Wellington Hydro Ltd.
+- Centre for Advanced Studies
+- Centre for Innovative Social Enterprise Development
+- Centre for Social Innovation
+- Centre of Excellence In Next Generation Networks
+- Centric Engineering Corporation
+- Centtral Stampings Ltd.
+- Ceresensa Inc.
+- CertClean
+- Ceva Animal Health Inc.
+- Chaara Inc.
+- Chalk.com Education Inc.
+- Champlain Community Care Access Centre
+- Char Technologies Ltd.
+- Character Dairy Genetics
+- ChargeLab Inc.
+- Charity Republic Inc.
+- Charlotte Products Ltd.
+- Charter Press Ltd. (o/a Third Sector Publishing
+- Chatham Inc.
+- Chatter Research Inc.
+- Checkfluid Inc.
+- Cheelcare - 9302204 Canada Inc.
+- Cheetah Networks Inc.
+- Chematria
+- Chemquant Laboratories Ltd.
+- Children's Hospital of Eastern Ontario
+- Chimp Treats Ltd.
+- ChipCare
+- ChipCare Corp
+- ChipCare Corp.
+- Chippewas of the Thames First Nation
+- Chipsetter Inc.
+- Christie Digital Systems Canada Inc.
+- ChroMedX Corp
+- Chrysalis
+- Chrysler Canada
+- Chrysler Canada Inc.
+- Chumbuggy.com Inc.
+- Ciena
+- Ciena Canada
+- Cigbins
+- Cinchy Inc.
+- Cinema Suite Inc.
+- Cinnos Mission Critical Inc.
+- Cinnos Technologies Inc.
+- Circle 5 Tool and Mold Inc.
+- Circle 5 Tool and Mold LP
+- Circuit Plus Inc.
+- CircuitMind Inc. dba Solid State AI
+- Cisco
+- CiteRight Inc.
+- City of Ottawa
+- City of Toronto
+- Civica Infrastructure Inc.
+- Class 1 Inc.
+- Classic Tool and Die (1986) Inc.
+- Clausehound Inc.
+- Clean Works Corporation
+- CleanEnergy Developments Inc.
+- Cleanopy Inc.
+- Cleanwave Energy Corp
+- Cleanwave Energy Corporation
+- Clear Blue Sorbents
+- Clear Blue Technologies Inc.
+- Clear Software Inc.
+- Clearcable Connects
+- Clearcable Networks
+- Clearpath Robotics Inc.
+- Clearwater Clinical Limited
+- Clickmox Solutions Inc.
+- Client Outlook Inc.
+- Clipter Inc.
+- Closing the Gap Healthcare
+- Cloud Diagnostics Canada ULC
+- CloudConstable Incorporated
+- CloudHawk
+- Clouddx Inc.
+- Cloudvisor Wealth
+- Co-Ex-Tec Industries
+- Co-Ex-Tec Industries a division of Magna Exteriors Inc.
+- Co-efficient
+- Co-operative Africa Slow Food
+- Co-operative La Termitiere
+- CoEng Advisors
+- CoEng Advisors 2020 Inc.
+- CoEng Advisors Inc.
+- Coalition for Kids (working title)
+- Coastline Market Inc.
+- Code - Earth
+- Code Connect Inc.
+- Codify Legal Publishing Inc.
+- Coffee Shed
+- Cogneeto Inc.
+- CogniFrame Inc.
+- Cogniframe Inc.
+- Cohort Systems Inc.
+- Coinberry
+- Cold Block Technologies Inc.
+- ColdBlock Technologies
+- ColdStart
+- Colibri Technologies
+- Colio Estate Wines Inc.
+- Colleaga
+- College Boreal
+- College La Cité
+- Colt Automation Ltd.
+- Columbian Chemicals Canada Ltd.
+- Comet Biorefining Inc.
+- Commercial Spring and Tool Company Limited
+- Common Medicine Professional Corporation
+- Communitech
+- Community Empowering Enterprises
+- Community Innovation Lab
+- Competition Composites Inc
+- Competitive Green Technologies (CGTech)
+- Complete Innovations Inc.
+- CompuCorps
+- Conceus
+- Conestoga College
+- Confederation College
+- ConferenceCloud Inc.
+- Connected Lab
+- Connexion Verte
+- Consciousness Explorers Club (CEC)
+- Conseil de la coopération de l'Ontario
+- ConsenSys AG
+- Consilium Crypto Inc.
+- Consultant and CYC
+- Contextere Corporation
+- Continental Tire Canada
+- Control
+- Cooperative Disaster Restoration Group
+- Coopérative Louis-Riel
+- Coopérative radiophonique de Toronto
+- Copper Medical Inc.
+- Coraltec
+- Core Marketing Strategies Inc.
+- Coreal CEA
+- Coriolis Games Corporation
+- Corp.
+- Corporate Facility Supply
+- Corporate Knights
+- Corporation of the City of Quinte West
+- Cortera AI
+- Costek Inc.
+- Covar Pharmaceuticals Inc.
+- Cranked Concepts
+- Crater Labs
+- Crazy D's All Natural Labs Inc
+- Cream Productions Inc.
+- Crio Water Inc.
+- Critical Outcome Technologies Inc.
+- CronGone
+- CrossChasm Technologies
+- CrossWing
+- Crosslink Technology Inc.
+- CrowdCare Corporation
+- Crowdbabble
+- Crowdmark
+- Crozier Baird
+- CrucialLogics Inc.
+- CryoCaddy Inc.
+- Crypto4A
+- Crypto4A Technologies Inc.
+- Crystal Fountains
+- Crystallized Games Inc.
+- CubbySpot Inc.
+- Culture Made Faster
+- Cumulus Dental Inc.
+- Curiato Inc.
+- Currant
+- Current Solutions Group In.c
+- Curv Labs Inc.
+- Custom Biologics
+- Custom Rehab and Assessment Canada Ltd.
+- Customachinery Inc.
+- Cut Coffee
+- Cutting Edge Precision Services ULC
+- Cyber Defence QCD Corporation
+- CybernetIQ Inc.
+- Cybersecurity Umbrella Corp.
+- Cyberworks Robotics Inc.
+- Cyborg Trading
+- Cycle Toronto
+- Cyclica Inc.
+- Cytec Canada Inc.
+- Cytognomix Inc.
+- D&amp;T Photonics
+- D&amp;V Electronics
+- DARS software solutions &amp; Training
+- DBA Dinowash
+- DBA Ourotech
+- DBG Canada Limited
+- DCL International Inc.
+- DCommons Lab Inc.
+- DEEP Inc.
+- DKR Manufacturing
+- DLS Technology Corporation
+- DM&amp;T Services Ltd.
+- DMT Creative Enterprises Inc.
+- DNAStack Corporation
+- DNAstack Corporation
+- DOT Data Systems Inc.
+- DQE Instruments Inc.
+- DSK Catering / The Down Stairs Community Kitchen
+- DST Consulting Engineers Inc.
+- DTAH
+- Daakor Inc.
+- DaganTech Inc.
+- Daily Goods Design LABS
+- Dajcor Aluminum Ltd.
+- Dalton Pharma Services
+- Dana Canada Corporation
+- Dandelion Dance
+- Daneson Ltd.
+- Daniel Christian Tang
+- Dapasoft Inc.
+- Dark Slope Studios Inc.
+- Dash Digital Healthcare Inc.
+- Dash MD
+- Datapult Inc.
+- DateNight Inc.
+- Dateva Inc.
+- Datex Inc.
+- DeVis Technologies Inc.
+- Debuggex
+- Deep Creek Precision Mfg. Inc.
+- Deep Logic Solutions Inc.
+- Defense &amp; Aviation Wiring Inc.
+- Dejero Labs Inc.
+- Dellcom Aerospace Inc.
+- Dematic Limited
+- Demine Robotics
+- Denchem Ltd.
+- Denilson Inc.
+- Densmore Tool and Die Ltd.
+- Deprived Magazine
+- Designer Microbes Inc.
+- Desiree's Angels Victims for A New Start
+- Desk Nibbles
+- Desk Nibbles Inc. dba Hoppier
+- Detour Gold Corp
+- Dettwiler and Associates Inc.
+- Dibbzz
+- Diescan Tool Inc.
+- Digiflare Inc.
+- Digital Diatom
+- Digital Engagement Xperience Inc.
+- Digital Evidence International Inc.
+- Digital Medical Experts
+- Digital Specialty Chemicals Limited
+- DigitalXi Inc.
+- Dimachem Inc.
+- Diros Technology Inc.
+- DisTech Automation
+- Discover Media House Inc.
+- Discovery Air Defence Services Inc.
+- Disseminated Online Technologies (DOT) Innovations
+- DistApps Inc.
+- Distributed ID Inc.
+- DiversiTech
+- Division of Bridgestone Canada Inc.
+- Do or Diabetes
+- Doctalk Inc.
+- Dominant Mold Duplicating Inc.
+- Domtar
+- Domtar Inc.
+- Dow AgroSciences Canada Inc.
+- Dowclear Inc.
+- Dr John C Granda
+- DraftingSPACE
+- Dragonfly Information Technology Inc.
+- DreamQii Inc.
+- Drift
+- Driftscape
+- Drone Delivery Canada Corp
+- Drystill Holding Inc
+- Dundee Energy LP
+- Durham College
+- Durham Foods Limited
+- Dwello Ltd.
+- Dymaxia Inc.
+- Dynacare-Gamma Laboratory Partnership
+- Dynacast Ltd.
+- Dynamic Systems Group
+- Dynaplas
+- Dynaplas Ltd.
+- Dywidag-Systems International Canada
+- E I du Pont Canada Company
+- E-Twenty
+- E. Hofmann Plastics
+- E.I. DuPont Canada Company
+- E1 Transit
+- EAIGLE Inc.
+- EARTH TO KIDS
+- EBPI (Environmental Bio-Detection Products Inc.)
+- ECOLO ODOR CONTROL TECHNOLOGIES Inc.
+- ECOLO Odor Control
+- EELO Solutions Inc.
+- EHC Canada
+- EION Inc.
+- EMERGE Network Solutions Inc.
+- ENGINEERING.com
+- EODC Inc.
+- ERAD Therapeutics Inc.
+- ERNO Technologies Corp.
+- ET Grow
+- EXO Insights Corp.
+- Earth + City
+- Eat More Soup
+- Eat Sleep Ride
+- Eat local Sudbury Mangeons Local
+- EatSleepRIDE Mobile Inc.
+- Eatonomy Corp.
+- Eclipse Automation Inc.
+- Ecmictics Biotech
+- Eco-Art &amp; Sustainability Maker Space
+- EcoEquitable
+- EcoSpex Inc.
+- EcoSynthetix Corp.
+- EcoSynthetix Inc.
+- Ecoden
+- Ecologix Heating Technologies Inc.
+- Ecomaterials Inc.
+- Ecopia
+- Ecopia Tech Corporation
+- Ecosystem Informatics Inc.
+- Eden
+- Edgewater Computer Systems Inc.
+- EduCare LMS
+- Educator
+- Educredu Corp.
+- Edusight
+- Efani Inc.
+- Effective Automation
+- Eggplantr
+- EidoSearch
+- Eigenuity Inc.
+- Eightfold Technologies
+- Eighty8 Ventures Inc.
+- Elastalink Corp
+- Elastic Storage Solutions Inc.
+- Elastochem Specialty Chemicals
+- Electrans Technologies Ltd.
+- Electrefy Inc.
+- ElectroPhotonic-IC Inc.
+- Eleven-X Incorporated
+- EllisDon Corporation
+- Elucid Labs Inc.
+- Emerson Canada
+- Emperor Investments
+- Emphatec Inc.
+- Empiricast LLC
+- Employability Skills through Food Services
+- Empress Software
+- Empty Cubicle Inc.
+- Enable Education
+- Enable Training and Consulting
+- Enactus Laurier Brantford
+- Enactus uOttawa
+- Enbridge Gas Distribution Inc.
+- Enbridge Gas Distribution Ltd.
+- Enceladus Medical Inc. (dba Enceladus Imaging Inc.)
+- Encircle Inc.
+- Encycle Therapeutics Inc.
+- Endetec - Pathogen Detection Systems Inc.
+- Enedym Inc.
+- EnerMotion Inc.
+- Energent
+- Energex Industries Corp
+- Enersion Inc.
+- Enertics Inc.
+- Engage Biomechanica
+- Engineering for Social Change
+- Enhanced Medical Nutrition
+- Enhanced Medical Nutrition Inc.
+- Ennis-Flint
+- Enrich Bioscience Inc.
+- Entomo Farms (Next Millennium Farms)
+- EntreLaunch Inc.
+- Entré Tacos and Arepas
+- Envira-North Systems Ltd.
+- EnviroSen Inc
+- EnviroSen Inc.
+- EnviroSim Associates Ltd.
+- Envirologics Engineering Inc.
+- Environics Analytics
+- Environmental Bio-detection products Inc. (EBPI)
+- Environmental Peace Professional Corporation
+- Environmental Systems Corporation
+- Envision Integrated
+- EnvisionSQ Inc.
+- Enwave Energy Corporation
+- Epineuron Technologies Inc.
+- Epson Canada Ltd.
+- EquiHire Inc.
+- Equispheres Inc.
+- Eramosa Engineering Inc.
+- Ericson Canada Inc.
+- Ericsson Canada Inc.
+- Erie Architectural Products
+- Erieview Acres Inc.
+- Erwin Hymer Group North America Inc.
+- Escarpment Laboratories
+- Escort Manufacturing
+- Esports Tickets Inc.
+- Essex Energy
+- Essex Energy Corporation
+- Essex Kent Investments
+- Etapa Window Fashions Inc.
+- Eternal Springtime
+- Ethica Data Services
+- EthicalTree
+- Eurospec Tooling Partnership
+- Eve Medical
+- Evenica Corp
+- Evenica Corp.
+- Evercloak Inc.
+- Evercondo
+- Every1Games Professional Services Inc.
+- Everybody Wins
+- Evoco Ltd.
+- Evolved Vehicle Environments Inc.
+- ExVivo Labs Inc.
+- Exact Blue Inc.
+- Exact Delivery Inc.
+- Exco Technologies DBA Exco Engineering
+- ExecNote
+- Exocortex Studio
+- Eye for Learning
+- EyeCheck
+- FCA Canada Inc.
+- FITFI Inc.
+- FKP Nutrio Foods Inc.s.
+- FLOW CPA PROFESSIONAL CORPORATION Inc.
+- FLOWJEM INC.
+- FPInnovations
+- FPrimeC Solutions Inc.
+- FR8nex
+- FUJIFILM VisualSonics
+- FUS Instruments Inc.
+- Fable Tech Labs Inc.
+- FaceDrive Inc.
+- FactR Limited
+- Factory Bucket
+- Factr Limited
+- Faevo Corp
+- Fairom Inc.
+- FameBit Inc.
+- Fanshawe College
+- Farahway Global
+- FarmLead Resources Ltd.
+- Faromor Ltd.
+- Fast Apps Inc.
+- Fast Fwd Technologies Incorporated
+- FastVenues
+- Fellow Insights
+- Ferme Coopérative BeetBox Ltée.
+- Fernando Kerr Design Inc.
+- Ferrero Canada
+- Fetchit Technologies Incorporated
+- Fibics Incorporated
+- Fibos Inc.
+- FibreCast Inc.
+- Ficanex Group of Services
+- Ficanex Services Corp
+- Fidus Systems Incorporated
+- Fig.P Software Incorporated
+- Fight Like A Girl
+- Fiix
+- FillSpaces Technologies Inc.
+- Finaeo Inc.
+- FinancialSharp Inc. dba EidoSearch
+- Fine Cotton Factory Inc.
+- Finnovate.io (Exacto Systems Inc.)
+- Fintros
+- Fintros - 9823565 Canada Corp
+- Fio Corporation
+- Fire X Protections
+- FireRein Inc
+- Firestone Textiles Company
+- First Cobalt Corp.
+- Fiscot Inc.
+- Fitset Inc.
+- FiveAces
+- Flair Precision Inc.
+- Flashfood Inc.
+- Fleeky Inc.
+- FleetOps
+- FleetRover Inc.
+- Fleetmetrica Inc.
+- Flex Fit Tek Ltd.
+- FlexCap Energy Ltd.
+- FloSonics Medical
+- FlorCan
+- Florence Meat Supplies Limited
+- Flow-Rite Safety Solutions Inc.
+- Fluidigm Canada Inc.
+- Flybits Inc.
+- Foamyna Canada Inc.
+- Focal Healthcare Inc.
+- Focus21 Inc.
+- Food Cycle Science
+- Foodicus Inc.
+- For Pivots Sake
+- Fora
+- ForaHealthyMe Inc.
+- ForceN
+- Ford Motor Company of Canada Limited
+- Forma AI Inc.
+- Formarum Inc.
+- Formi 3DP Inc.
+- Forsee Instruments Ltd.
+- Fortek Security Systems Inc.
+- Fortnight Lingerie Inc.
+- Fortran Traffic Systems Limited
+- Fortuna AI Labs Inc.
+- Forward Water Technologies
+- Forward Water Technologies Inc.
+- Founded Technologies Inc.
+- Four Walls
+- Foxquilt
+- Foxquilt Insurance Services Inc.
+- Framestr
+- FreePoint Technologies Inc.
+- Freescale Semiconductor Canada Inc.
+- Friends of Algoma Collective
+- Frontier Agri-Science Inc.
+- Fujitsu Canada
+- Fusion Cast Inc.
+- Future Immersive
+- FutureVault Inc.
+- Futurebound Corp.
+- G. Bareich Import-Export Inc.
+- G.T.G. Engineering Canada Inc.
+- G4 Apps Inc
+- GBatteries Energy Canada Inc.
+- GE Water and Process Technologies
+- GET RESQ Ltd.
+- GHD Limited
+- GHGSat Inc.
+- GIMME360
+- GIMME360 Inc.
+- GIVEX
+- GRABscience
+- GRINTEX TECHNOLOGIES Inc.
+- GS Die &amp; Design
+- GVA Lighting Inc.
+- GaN Systems
+- GainX
+- GaitTronics Inc.
+- Gambit IT Solutions
+- GamePress
+- GameStrat
+- Gamma-Dynacare Medical Laboratories
+- Gananoque Brewing Company Ltd.
+- Garrison Creek Media
+- Gastops Ltd.
+- Gata Labs Inc.
+- Gate Three
+- Gatik Inc.
+- Gene Blueprint
+- Gene42 Inc.
+- GeneBlueprint
+- Genecis Bioindustries Inc.
+- Genecis EnviroTech Inc.
+- Genemis Laboratories Inc.
+- General Dynamics Land Systems - Canada (GDLS-C)
+- General Dynamics Land Systems Canada
+- General Dynamics Mission Systems Canada
+- General Motors of Canada
+- General Motors of Canada Ltd.
+- Geneyouin Inc.
+- Genuine Girard Foods
+- Geo-Foundations Contractors a division of Keller Foundations Ltd.
+- GeoMate Inc.
+- GeoTab Inc.
+- Geocycle Canada Inc
+- Geomechanica Inc.
+- George Brown College
+- Georgian Bay Biomed
+- Georgian College
+- Geosource Energy Inc.
+- Geosyntec Consultants Inc.
+- Geosyntec Consultants International
+- Geotab
+- Geotech Ltd.
+- German Energy Alternatives Inc.
+- Germiphene
+- Germiphene Corp
+- Germiphene Corporation
+- GestureLogic Inc.
+- Get EasyFit Inc.
+- Gforcetracker Inc..
+- Giatec Scientific Inc.
+- Gifts in Kind
+- Girih
+- Girotti Machine
+- Giveffect Inc.
+- Glencore Canada Corporation
+- Glencore Sudbury Integrated Nickel Operations
+- Glider Guard
+- Glo Couture
+- Global Advantage Consulting Group Inc.
+- Global ChipTag Technologiy Inc.
+- Global Health Sim
+- Global Intellectual Strategies
+- Global Plas Inc.
+- GlobalMed Inc.
+- Globe and Mail
+- Glyco Polymers Inc.
+- Gnowise Inc.
+- Gnowit Inc.
+- Go Kin Packs
+- GoFish Cam
+- GoFor Industries
+- GoWrench Auto
+- GoalRecorder Inc.
+- Gobbo Internet Services Inc.
+- Gold Line Telemangement Inc.
+- Gold Sentintel Inc.
+- Gold Sniffer Inc.
+- Golden Rose Enterprises
+- Golder Associates Ltd.
+- Gomma Creations Inc.
+- Good Day Workshop
+- Good Food for Good
+- Good Green Earth Company
+- Good Vibes Enterprises
+- GoodLife Fitness
+- Google
+- Gosco Valves
+- Gourmet Xpress
+- Grace and Finesse
+- Gracious Living Innovation Inc.
+- Gradient Wind Engineering
+- Grafoid Inc.
+- Grain Discovery Corp.
+- Grain Farmers of Ontario
+- Granata Decision Systems
+- Grantek Systems Integration Inc.
+- Great Lakes Graphite Inc.
+- Greater Niagara Chamber of Commerce (GNCC)
+- Greater Toronto Airports Authority
+- Greco Aluminum Railings Ltd.
+- Green Lava Media Incorporated
+- Green Owl Solutions Inc.
+- Green Story Inc.
+- Green Ventures
+- GreenScience Technologies Inc.
+- Greenfield Specialty Alcohols
+- Greenland International Consulting Ltd.
+- Greenspace Mental Health Ltd.
+- Greentec
+- Greentronics Ltd.
+- Greyter Water Systems
+- GridCure
+- Grobo Inc.
+- Grosche International Inc.
+- Groundheat Solar Wind
+- Groupe artisanal feminin francophone de l`Ontario (GAFFO)
+- Grow Ratio
+- Growing Futures
+- Grundfos Canada
+- GymNut
+- GymTrack
+- Gymtrack
+- H.H. Angus &amp; Associates Ltd.
+- H2Flow Equipment Inc.
+- H2O Geomatics
+- H2O Geomatics Inc.
+- H2O Innovation
+- H2Sorber
+- HASSCO Industries Inc.
+- HB Robotics Solutions
+- HFI PYROTECHNICS Inc.
+- HH Angus
+- HITCH Tech Inc.
+- HOPE Innovations Inc.
+- HabitatSeven
+- Halchemix Canada Inc.
+- Halion Displays Inc.
+- Halyard Inc.
+- Hamilton Utilities Corporation
+- Handful of Characters
+- Hangry
+- Hanley Corporation
+- Hannam Fertility Centre
+- Happy Menagerie
+- Harmonic Medical
+- Harrcroft Acres Ltd.
+- Harvey McCue Consulting
+- Hashtag Paid Inc.
+- Hatch
+- HaulerAds Inc.
+- Havelaar Canada Industrial R&amp;D Laboratory Ltd.
+- Hayward Gordon
+- Health Now! Inc.
+- HealthChain Inc.
+- HealthIM
+- Healthcare Innovation in NeuroTechnology Inc.
+- Healthy Living Inc.
+- Healthy Pets
+- HearIT
+- Heartwood House
+- Heather Curran Consulting
+- Heaven Fresh Canada Inc.
+- Hedgehog Products
+- Heliene Inc.
+- Heliolytics Inc.
+- Helios Develoments
+- Hello Art
+- HelpWear Inc.
+- HelpWear Wearable Technologies Inc.
+- Helping Hands
+- Hematite Manufacturing Inc.
+- Herdman Technology Ltd.
+- Herjavec Group
+- Hero Engineering
+- HiHo Mobile Inc.
+- HireUp
+- HitSend Inc.
+- Hitachi Construction Truck Manufacturing Ltd.
+- Hitachi High-Technologies Canada
+- HockeyTech Canada ULC
+- Hockeystick.co Inc.
+- Hogan Pharmacy Partners Ltd.
+- Holy City VR Inc.
+- HomeShare Alliance
+- Homecare Intelligence Canada Inc.
+- Homigo Home Services Corp.
+- Honda Canada Mfg.
+- Honest Inc. d.b.a. ProvInc.e Brands
+- Honey &amp; Tea
+- Honeywell Aerospace
+- Hopeful Inc.
+- Horizon Studios Inc.
+- Horstman Systems Inc.
+- House of Anesi Inc.
+- Hudson Boat Works Inc.
+- Humber College
+- Humber Institute of Technology and Advanced Learning
+- Humi Inc
+- Huron Digital Pathology
+- HurraHome Technology Services Inc.
+- Hurrier
+- Huys Industries Ltd.
+- Hybrid Power Solutions Inc.
+- Hydro One Networks Inc.
+- Hydrobase Energy Inc.
+- Hydrogenics
+- Hydrogenics Corp.
+- Hydrogenics Corporation
+- Hydrostor Inc.
+- Hyivy
+- Hypercare Inc.
+- Hyperion Sensors Inc.
+- Hyperloop Data Inc.
+- I-EMS Group Limited
+- IAmI Authentications Inc.
+- IBI Group Professional Services (Canada) Inc.
+- IBM Canada
+- IBM Canada Lab
+- IBM Canada Ltd.
+- ICE3 Power Technologies Inc.
+- ICSPI Corp
+- IDENTOS Inc.
+- IECS Group Inc.
+- IENSO Inc.
+- IFIVEO Canada Inc.
+- IFTech Inventing Future Technology Inc.
+- IGPC Ethanol
+- IGPC Ethanol Inc.
+- IMC
+- IMERCIV Inc.
+- IMPACTO Network
+- IMRSV Data Labs Inc.
+- IMS
+- INEOS Styrolution Canada Ltd.
+- INFO-TECH RESEARCH GROUP Inc.
+- INO
+- INTEGRA Technologies Ltd.
+- IOL Systems Inc.
+- IPPINKA Inc.
+- IRICoR
+- IRIS R&amp;D Group Inc.
+- IRegained Inc.
+- ISARA Corporation
+- ISB Global Services
+- ISBRG CORP
+- ISE Interface Systems Engineering Ltd.
+- ISOTECH Industries Inc.
+- IT curate Ltd.
+- ITmanager.net Inc.
+- IVD Workforce Corp
+- Igneous Media Inc. o/a FreshSpoke
+- Illuster Technologies Inc.
+- Imagine Zeolite
+- Immigrant Access Fund
+- Immigrants Francophones D'Afrique Pour L" integration="" et="" le="" development'="Development
+- Imminy
+- ImmunoBiochem Corporation
+- Impact Hub Ottawa
+- Impact Islam
+- Impact Journal
+- Impact hours
+- Impactrio Inc.
+- Imtex Membranes Corp.
+- InDanio Bioscience Inc.
+- InDro Robotics Inc.
+- InStage
+- Inc
+- Inc.
+- Inc.uvers Inc.
+- Indellient Inc.
+- Independent Oak
+- Indoc Research
+- Indus Origin
+- Industrial SkyWorks
+- Industrialwebapps.com Inc.
+- Industry Corp.
+- Infinity Testing Solutions Inc.
+- Inflamax Research Inc.
+- InfoSec Global
+- Infrastructure Solutions (Software) Inc.
+- Ingredion Canada Corporation
+- Injection Technologies Inc.
+- InkSmith
+- Inmotive Inc.
+- Inner Analytics Inc.
+- InnerSpace Technology Inc.
+- InnoMind Technology Corporation
+- Innohub
+- Innosphere Systems Development Group Ltd.
+- Innotech Precision Inc.
+- Innovapost
+- Innovation Factory
+- Innovative Automation Inc.
+- Innovative CloudCATS Inc.
+- Innovative Community Support Services
+- Innovative Health Group
+- Innovative Modern Concepts in Business Architecture Inc.
+- Innovative Processing Technologies (Smarter Alloys
+- Innovere Medical Inc.
+- Innovexa Solutions
+- Innovia Corporation
+- InnovoGENE Biosciences
+- Inovex Inc.
+- InputHealth Systems Inc.
+- Insception Lifebank
+- Insight Nanofluidics
+- Insituform Technologies Limited
+- Instamedic Inc.
+- Instant Style
+- Instantia Labs Inc
+- InsuranceHero.ca o/b 9373551 Canada Inc.
+- Integra Medical Inc.
+- Integran Technologies Inc.
+- Intelense Inc.
+- IntellDynamics Inc.
+- Intellectual Alliance Inc.
+- Intellijoint Surgical
+- Intellijoint Surgical Inc.
+- Intellizence Canada
+- Interac Association/Acxsys Corporation
+- Interactive Brain Systems Inc.
+- Interactive Studios Inc.
+- Interaxon
+- Interface Biologics Inc.
+- International Data Corporation (Canada) Ltd.
+- International Erosion Control Systems Inc.
+- Intlvac a division of 3223311 Canada Inc.
+- IntriEnergy Canada Labs
+- Intronix Technologies Corporation
+- Intuitive Shipping
+- Invest Ottawa
+- Invision AI
+- Ioffe Biotechnologies Inc.
+- Ionada Incorporated
+- Ionic Engineering
+- Irdeto Canada
+- IverFashion Inc.
+- J-SAS Inc.
+- J. P. Bowman
+- J.A.M. Taylor Tool Co. Ltd.
+- J.C. Bakker &amp; Sons Limited
+- J/E Bearing and Machine Ltd.
+- JAYD
+- JCAII (Jeff Campbell Associates International Inc.)
+- JEMCORP Ltd.
+- JIC Design Inc.
+- JM Die Limited
+- JNE Environmental a Division of Joe Ng Engineering
+- JRS VirtualStudio Inc.
+- JackedScholar Inc.
+- Jacob Mackellar Farms Ltd.
+- JamCam
+- JamStack Inc.
+- Jannatec Technologies
+- Javelin Technologies Inc.
+- Jaylor Fabricating Inc.
+- JessEco
+- JobBliss Inc.
+- Johnson &amp; Johnson Innovation
+- Jombone Inc.
+- Joseph Murray &amp; Associates Consulting Ltd. (O/A JMA Consulting)
+- Joyride Technologies Inc.
+- Juniper Networks
+- Junto Business Solutions/Katan Kitchens
+- Junto® Business Solutions/Katan Kitchens
+- KA Imaging Inc.
+- KDM Analytics
+- KDM Analytics Inc.
+- KE2 Technologies
+- KGHM INTERNATIONAL
+- KLINK Coffee Inc.
+- KMW Energy Inc.
+- KO&amp;Co.
+- KONNEXIO
+- KOY GEAR Inc.
+- KPM
+- KSL Lubricants Inc.
+- KSR International Co.
+- KTECT Canada
+- KUKA Robotics Corporation
+- Kabuk Ltd.
+- Kahoots
+- Kaitongo Inc.
+- Kamazooie Development Corporation
+- Kane’s Distributing Ltd.
+- Kapik Integration
+- Kapplex Inc.
+- Karen.ai
+- Karibu Solar Power Inc.
+- Katan Kitchens
+- Kavtek Software Corporation
+- Kaypok Inc.
+- Kegshoe
+- Kela Medical Inc.
+- Kelvin Storage Inc.
+- Kelvin Thermal Energy Inc.
+- Kendall Technology Inc.
+- Kennametal Stellite Inc.
+- Kennedy Labs
+- Kepler Communications
+- Kepstrum Inc.
+- Kersol Inc.
+- Key Rehab Services Inc.
+- Keysight Technologies
+- Kids Health Record
+- Kids Wireless Inc.
+- Kineris Inc.
+- Kinetica Dynamics Inc.
+- Kinetics Noise Control
+- Kings Distributed Systems Ltd.
+- Kingston Glass Studio and Gallery
+- Kingston Health Sciences Center;3SO;Queen's University
+- Kingston Process Metallurgy Inc.
+- Kingsville Plastics Ltd.
+- Kinross Gold Corporation
+- Kinso
+- Kira Systems
+- Kirchhoff Van-Rob
+- Kirkland Lake Gold Inc.
+- Klashwerks Inc.
+- Klenzoid Canada Inc.
+- Klick Inc.
+- Klimaat Consulting &amp; Innovation Inc.
+- Klipfolio Inc.
+- Klohn Crippen Berger Ltd.
+- KmX Corporation
+- Knesis Biodesign Inc.
+- Knockri
+- Knote
+- Knowledge4You Corporation
+- Knowledgehook Inc.
+- Knowtions Research Inc.
+- Knudson Solutions Inc. (Operating as Falconglobe)
+- Kodsi Forensic Engineering Incorporated
+- Koho
+- Komodo OpenLab Inc.
+- Koolatron Corp.
+- Kooltra Ltd.
+- Korah Limited
+- Korechi Innovations Inc.
+- Krackers Katering
+- Kraus Flooring
+- Kruger Energy Inc.
+- Kuntz Electroplating Inc.
+- Kwilt Inc.
+- LMS Services Inc.
+- LPTi Inc.
+- LUCID
+- La Cite College
+- La Cité collégial
+- La Clé
+- La Coopérative du Collège Boréal
+- La Société du développement économique communautaire de Val Rita-Harty
+- La coopérative du parc à maisons mobiles Cécile Ltée
+- Lab Improvements
+- Labforge Inc.
+- LabsCubed
+- Ladies Learning Code
+- Lady Gaia
+- Lafarge Canada Inc.
+- Lafleche Environmental Inc.
+- Laifa Designs International Inc.
+- Laipac Technology Inc.
+- Lake Central Air Services (LCAS)
+- Lakehead University
+- Lakes Environmental
+- Lakeview Vineyard Equipment Inc.
+- Lambton College
+- Lambton Conveyor Limited
+- Lamko Tool &amp; Mold Inc.
+- Lancaster Homes
+- Landau Gage Inc.
+- Landscape Architect
+- Lanex Manufacturing Inc.
+- Lantern Institute
+- Larus Technologies
+- Laser Depth Dynamics
+- Latec Instruments
+- Laurentian University
+- Laval International
+- Law Scout Inc.
+- Le Petit Panier;Houle's Appliance Services;Mortgage Hero
+- LeNano Diagnostics Inc.
+- Learning Through the Arts
+- LeddarTech Inc.
+- Legalicity Ltd.
+- Legalswipe Inc.
+- Legend Fleet Solutions
+- Leggett &amp; Platt Canada Co
+- Legworks Inc.
+- Lemay Solutions Consulting Inc.
+- Les Médias de l’épinette noire inc.
+- Level. Changing Lives Through Law
+- Lex Cortex Ltd.
+- Li-Cycle Corp.
+- Liberty Linehaul Inc.
+- Liburdi Engineering Ltd.
+- Life Prediction Technologies Inc.
+- Life recovery program
+- LifeLabs
+- LifeLike BioTissue Inc.
+- LigandCorp
+- Light Machinery Inc.
+- Light Matter Interaction Inc.;NSERC-CRD
+- Limelight Platforms Inc.
+- Limestone Labs
+- Linamar Corporation
+- Linear Transfer Automation Inc.
+- Link2Feed
+- Linnovative Solutions
+- Liquid Green Products/Clean for the Cause
+- Liricco Technologies
+- Litens Automotive Group
+- Litens Automotive Partnership
+- Litera productions
+- Little Robot Friends Inc.
+- Little Services Gateway
+- Little Steel Houses
+- Living Alive Foods
+- Living Dao Eco Arts Space
+- Living with Dignity Initiative
+- Loblaws Inc.
+- LocalXChange
+- LocateMotion Inc.
+- Locatemotion Inc.
+- Lockheed Martin Canada
+- Logics Academy
+- Logikor Inc.
+- Lokeel Corp
+- London Automotive and Manufacturing
+- London Hydro Inc.
+- London X-ray Associates
+- Longan Vision Corp.
+- Longterm Technology Services Inc.
+- LookALike
+- Loom Analytics Inc.
+- Loop Financial Inc.
+- Loopio Inc.
+- Lorama Group Inc.
+- Love Winter Inc.
+- Lovell Corporation
+- LoyalTeam Environmental
+- Loyalist College
+- LoyaltyMatch Inc.
+- Ltd.
+- Lumago Inc.
+- Lumasonix Inc.
+- Lumen Instruments
+- Lumentra Inc.
+- Lumentum Operations Inc.
+- Luminari Talent Inc.
+- Lumotune
+- Luna Nanotech Inc.
+- Lunanos Inc.
+- Lupos (Canada) Biotechnology Inc.
+- Lurniture
+- Lux Second Chance
+- Luzchem Research Inc.
+- Lytica Inc.
+- MAJiK Systems
+- MARZ Live Inc.
+- MASS Environmental Solutions Inc.
+- MASV
+- MC Countermeasures Inc.
+- MD Precision Inc.
+- MDDT Inc
+- MDDT Inc.
+- MDS Aero Support Corporation
+- MEDA LImited
+- MEDA Limited
+- MEDCHART Inc.
+- MEMOTEXT
+- MESSIMBA CREATIVE
+- METTCARE Technologies Inc.
+- MIJLO
+- MIMOSA Diagnostics
+- MIS Automotive
+- MIS Electronics
+- MMB Research Inc.
+- MMSENSE Technologies Inc.
+- MONIRAD Robotics Inc.
+- MPI MorHeat Inc.
+- MPI Morheat
+- MRT Automation Ltd.
+- MS Filter Systems Inc.
+- MTH Manufacturing Inc.
+- MaRS Centre for Impact Investing
+- MaRS Discovery District
+- MaRS Discovery District (South Tower)
+- MaRS Innovation
+- MacDonald
+- Machine Telemetry Inc.
+- Mackenzie Health
+- Mackinnon Brothers Brewing Co.
+- Macro Engineering and Technology Inc.
+- Mafic (Canada) Inc.
+- Magemi Mining Inc.
+- Magna Closures
+- Magna International Inc.
+- Magna Karmax
+- Magna Powertrain
+- Magna Powertrain Inc.
+- Magnusmode Ltd.
+- Maieutic Enterprises
+- Maintenance Assistant Inc.
+- Majik Systems Inc.
+- ManagingLife
+- ManagingLife Inc.
+- Mancuso Chemicals Ltd.
+- Mannin Research Inc.
+- Mantech Inc.
+- MapYourProperty Inc.
+- Maple
+- Maple Key
+- Maple Microsystems
+- Maple Precision Inc.
+- Maplesoft
+- MappedIn
+- MappedIn Inc.
+- Mapsted Inc.
+- Mar-Co Clay Products Inc.
+- March Networks
+- Mariner Endosurgery
+- Marion Surgical
+- Marion Surgical Inc.
+- Maritime Way Scientific Ltd.
+- Marj Inc.
+- MarketMobile
+- Markham Stouffville Hospital
+- Marlena Books
+- Marmot Labs Inc. (Operating as Blitzen)
+- Marnoch Thermal Power Inc.
+- Marsh Brothers Aviation Inc.
+- Martello Technologies
+- Martinrea
+- Martinrea Int. Inc.
+- Marwood International Inc.
+- Marwood Metal Fabrication
+- Mass Fidelity Inc.
+- Materialyze
+- Matsu Manufacturing Inc.
+- MavenNet
+- Max Die Group
+- MaxMixology
+- Mayhem Bait Co. Inc.
+- Mayhew Digital Inc
+- Mayhew Digital Inc.
+- Mazlite
+- McArthur Medical Sales Inc.
+- McClymont &amp; Rak Engineering Inc.
+- McClymont and Rak Engineers Inc.
+- McEwen Mining Inc.
+- McFlusion Corp
+- McIntyre Environmental Management
+- McMaster University
+- McPherson Transfer Limited
+- McRae Imaging Inc.
+- Mckenzie Health
+- MeazureUp
+- Mech Solutions
+- Mech Solutions Ltd.
+- MedAvail Technologies Inc.
+- MedChart Inc.
+- MedEssist Ltd.
+- MedReleaf Corp.
+- MedStack Inc.
+- MedView Technologies Inc.
+- Medatech Engineering Services Ltd.
+- Medella Health Inc.
+- MediSeen Inc.
+- Media Sonar Technologies Inc.
+- Medical Devices Innovation Institute
+- Mediphage Bioceuticals Inc.
+- Medistream Health Media Inc.
+- Mednovation Health Technologies Limited
+- Meemim
+- Meet Auto
+- Mega Mold International Inc.
+- Mejuri Inc.
+- Memorial Regional Collective
+- MenloLab Inc.
+- Meridian Lightweight Technologies Inc.
+- Mero Technologies
+- Mero Technologies Inc.
+- Merq Inc.
+- Mersen Canada Toronto Inc.
+- Merz Pharmaceuticals
+- Mesh Consultants Inc.
+- MeshMD Inc.
+- MesoMat Inc.
+- Meta Innovation Technologies
+- Metagenom Bio Inc.
+- Metal Forming Solution Group
+- Metavera Solutions Inc.
+- Metex Heat Treating Ltd.
+- MetriCan Stamping Co. Inc.
+- MetricAid
+- Metricwire Inc.
+- Metrix Health Inc.
+- Metrolinx/Presto
+- Metropolitan Tea
+- MiCharity
+- Miami Mice Research Corp
+- Micharity Inc.
+- MicroMetrics
+- MicroSintesis
+- Microgreen Solar Corporation
+- Milao Language
+- Millet-based Breakfast Cereal
+- Mimetics
+- MindBridge Analytics Inc.
+- Mindset Innovation
+- Minerva AI
+- Minetell
+- MinuteBox Inc.
+- Miovision Technologies Inc.
+- Miralaw Inc.
+- Mirens Inc.
+- Mirexus Biotechnologies Inc.
+- Mississauga Steelheads
+- Mitirino Inc.
+- Mitsubishi Electric Canada Inc.
+- Mixed Steps Dance Club
+- MizPiz Inc.
+- Mobi-Learning Inc.
+- Mobio Interactive Inc.
+- Mobistream Solutions
+- Mocsy Inc. (o/a SortSpoke)
+- Modastic Groupe Inc.
+- Modgarden
+- Modly
+- Modus Medical Devices Inc.
+- Modus Medical Inc.
+- Mohawk College
+- Mojatatu Networks Inc.
+- Mojility Inc.
+- Mold Services International
+- Molded Precision Componnets
+- Monarch Collection Inc
+- Monarch Plastics Limited
+- Mondelez International
+- Moniz Ltd.
+- Monkey Jabber Inc. (aka MoviWear)
+- Monroe Solutions Group Inc.
+- Monteco Ltd.
+- Moodi Inc.
+- Mooncamp Inc.
+- Morgan Solar Inc.
+- Mori Essex Nurseries
+- Mortgauge Corporation
+- Mosaic Manufacturing
+- Mother Nurture
+- Mother Parker's Tea &amp; Coffee Inc.
+- Mount Sinai Hospital
+- Move N Improve Canada
+- MoveSnap
+- MoveSuite
+- Moyers Apple Products Inc.
+- Mozzaz Corporation
+- Mtech Canada Ltd.
+- Mueller Canada Ltd ( Echologics is a division of Mueller Canada Ltd.)
+- MultiSolv
+- Mum and Bubs Health and Fitness Inc.
+- Muma Manufacturing Inc.
+- Music Without Barriers
+- Muskoka Walls Inc.
+- Mutuo Health Solutions
+- My Effect Inc.
+- My Lil Healthmart
+- My Lil' Healthmart
+- My Wine Canada Inc.
+- MyCityMuse Inc.
+- MyPitboard Inc.
+- MySoJo Inc.
+- MyValue Change Agents Inc. (Changent.io)
+- Myant
+- Myant Inc.
+- Myndtec
+- N/A
+- NCK Engineering Ltd.
+- NEEB Engineering Inc.
+- NERv Technology Inc.
+- NH Global Design Inc.
+- NONA Vegan Foods Ltd.
+- NORCAT
+- NOVA Chemicals Corporation
+- NRStor
+- NRStor Inc.
+- NV Solutions Inc. o/a Spently
+- NXM Technologies Inc.
+- NXP Canada Inc.
+- Nachurs Alpine Solutions
+- NanoCnet
+- NanoPhyll Inc.
+- NanoQuan Inc.
+- Nanodevice Solutions Inc.
+- Nanology Labs Inc.
+- Nanolytica
+- Nanolytix Inc.
+- Nanophyll Inc.
+- Nanotec Solar
+- Nanotek Materials Inc.
+- Nautic Devices Inc.
+- Nearjobs
+- Neemo Tech Inc. O/A Hiredhippo
+- Neighbourhood Refresh
+- Nemak Canada Corporation
+- NeoVision Technology Inc.
+- Neoscope
+- Neptec Design Group Ltd.
+- NetClick
+- Networks for Change Inc.
+- NeuRecall Inc.
+- NeuVativ Inc.
+- Neurescence Inc.
+- Neurogates Medical Inc.
+- Neurolytixs Inc.
+- NeuronicWorks Inc.
+- Neurovative Technologies Inc.
+- Neurovine Inc.
+- Neutun Labs Inc.
+- Neverfrost
+- New Day Wellness
+- New Gold Inc.
+- New Horizon assessment management system
+- New Horizons Media
+- New Vision Systems Canada Inc.
+- New World Friction
+- New company
+- NewCo
+- Nex Flow Air Products Corp.
+- NexJ Health Inc.
+- Nexas Networks Inc.
+- NextUp Care Inc.
+- Nfable Inc.
+- Niagara College
+- Niagara College Canada
+- Niagara Composites International Inc.
+- Nickleson Machine and Tool Inc.
+- Nicoya Lifesciences
+- Nise Tech Inc.
+- Nix Sensor Ltd.
+- Noble Purification Inc.
+- Noble Reliance
+- Nocker
+- Nokia Canada
+- Norgen Biotek
+- Norlok Technology Inc.
+- Normative Inc.
+- Nortak Software Ltd.
+- Nortek Solutions Inc.
+- North East LHIN
+- North Line Canada
+- North Point Life Sciences
+- Northern College
+- Northern Edge Algonquin
+- Northern Technology Inc.
+- Norwell Dairy Systems
+- Nova Institute
+- Nova Steel Inc.
+- Novela Inc.
+- Novelis Inc.
+- NuPhysics Consulting
+- NuPort Robotics Inc.
+- Nucap Industries Inc.
+- Nuco Inc.
+- Nufarm Agriculture Inc.
+- Nugget.Ai
+- Nuport Robotics Inc.
+- NuraLogix Corporation
+- Nuraleve
+- Nuro Corp.
+- Nutrigenomix Inc.
+- Nuts for Cheese
+- Nuvation Research Corporation
+- Nytilus Inc.
+- O2 Canada
+- OCAD Student Union
+- OCAD University
+- ODAIA INTELLIGENCE Inc.
+- OPSEU Pension Trust
+- OTI Lumionics
+- OTI Lumionics Inc.
+- OZ Optics Ltd.
+- Oakville Stamping &amp; Bending Limited
+- Oasis Centre des femmes
+- Obero Inc.
+- Obie.ai
+- Octane Biotech Inc.
+- Oculys Health Informatics Inc.
+- Olliane Ltd.
+- Olympic Tool and Die
+- Omega Securities Inc.
+- Omega Tool Corporation
+- Omron Automotive Technologies
+- OnTab Inc.
+- Onbelay Automotive Inc.
+- Oncampus
+- One Love Network
+- OneLedger Innovative Technology Inc.
+- Oneiric Hockey
+- Oneset Inc.
+- Ontario Drive &amp; Gear Ltd.
+- Ontario Grape and Wine Research Inc.
+- Ontario Hazelnut Association
+- Ontario Research and Innovation Optical Network (ORION)
+- Ontario Telemedicine Network
+- Onward Manufacturing Company Limited
+- Onyx Motion
+- Ooyavah Inc.
+- Open Gravity Inc.
+- Open Impact Lab
+- Open Music Networks Inc.
+- Open Ocean Apps Inc.
+- OpenSports Inc.
+- Opencare / HealthKiwi Inc.
+- Operant.AI
+- Operation Come Home
+- Opilio Labs Inc.
+- Optelian Access Networks Corporation
+- Optimity
+- Optiwave Systems Inc.
+- Optometrist
+- Orca Intelligence Inc.
+- Orchard Labs Inc.
+- OrderUp Technologies Inc.
+- Orenda Software Solutions
+- Oriole Media Corp (O/A JUICE Mobile)
+- Orix Geoscience Inc.
+- OrthoEvidence
+- Oshawa Power and Utilities Corporation
+- Osisko Mining Corporation
+- Ottawa Carleton Lifeskills Inc.
+- Ottawa Happy City Initiative
+- Ottawa Hospital Research Institute
+- Ottawa Music Hub
+- Ottawa Rail Bridge
+- Ottawa Rock Camp for Girls
+- Ourotech
+- Ovensa Inc.
+- OverAir Proximity Technologies Ltd.
+- Overbond
+- Overbond Ltd.
+- Oxilight Inc
+- Oxilight Inc.
+- Oz Optics
+- P&amp;P Optica
+- PAERE
+- PARADISO VENTURES Inc. O/A Balance
+- PARO Centre for Women’s Enterprise
+- PBE Canada
+- PBE Group
+- PCPVR Inc.
+- PDsurF Inc.
+- PHST Tech Canada
+- PInc.h VR
+- PLC Group
+- POW Hearing Solutions
+- PPG Chemfil Canada
+- PROTO Manufacturing Ltd.
+- Paddle Canada Inc.
+- Paddling for Progress
+- Pain-QuILT
+- Pairwise Affinity Inc.
+- PakFab Engineered Solutions Corp.
+- Paladion Inc.
+- Pancap Pharma Inc.
+- Pantonium Inc.
+- Papa Bear's Real Canadian BBQrew
+- Parchment Presentation Products Corp
+- Parkdale Food Centre
+- Parlay Ideas Inc.
+- Parmalat Canada
+- Parmerit Inc.
+- Part Time CFO Services Inc.
+- ParticipAid
+- Partisan Projects  Inc
+- Partisans
+- Pascal Press
+- Patch
+- PathCore Inc.
+- Pathway Communications
+- PatientWay
+- Patricia Sheppard Consulting
+- Patrick Mechanical Limited
+- Patriot Forge
+- Patriot One Technologies Inc.
+- Pattern Discovery Technologies Ltd.
+- Paul Webster
+- Pavaco Plastics Inc.
+- PawCharge Inc.
+- PaxgridCdn Inc.
+- Payment Rails Inc.
+- PaymentEvolution
+- PaymentEvolution Corp.
+- Payso Inc
+- Peak Power Inc.
+- Pearl's Choice
+- Pearson Canada
+- Pedal Easy Electric Bikes Inc.
+- Peekapak
+- Peekapak Inc.
+- Pegasus Aeronautics
+- Pegasus Aeronautics Corporation
+- Pelmorex Media Inc.
+- Penta Medical
+- PentaCast Inc.
+- Pentavere Research Group
+- Peoples Product
+- Perennial Software Inc.
+- PerfectlySoft Inc.
+- Perimeter Medical Imaging Inc.
+- Periscope Capital
+- Perkin Elmer Health Sciences Canada Inc.
+- Persego Incorporated
+- Personifi AI. Inc.
+- PetBot Inc.
+- Petal Incorporated
+- Petro-Canada
+- PetroPredict Inc.
+- Peytec Inc.
+- Pfizer Canada Inc.
+- Phantom Compass
+- Phantom Compass Inc.
+- PharmAchieve Corporation Ltd.
+- Phenomic AI
+- Phil Mauer &amp; Associates
+- Phirelight Security Solutions Inc.
+- Physicalytics Inc.
+- Phyxable Inc.
+- Phyxter Corp
+- Pics Alive Inc.
+- Piik Insights Inc.
+- Pillsy Inc.
+- PinPoint GPS Solutions Inc.
+- PinPress
+- Pine Valley Packaging Ltd.
+- Ping Pong Story
+- Pitstop
+- Pitstop (Ansik Inc.)
+- Pixiu Solutions Inc.
+- Pizza Pizza
+- PlanEasy Inc.
+- PlanIt! Outsourcing Solutions
+- Planet Shrimp Inc.
+- PlanetHealthFreak.com
+- Plasticity Labs Inc.
+- Plastics For Change
+- Platinum Tool Technologies
+- Playticipate
+- Plum.io Inc.
+- PluraPix Inc.
+- PocketSix Technologies Inc
+- PocketSix Technologies Inc.
+- Podo Tech Inc.
+- Podo-Pal
+- Polar Sapphire
+- Polar Sapphire Ltd.
+- Pollen Nation
+- PolyAnalytik Inc.
+- Polymer Specialties International Ltd.
+- Pond Biofuels
+- Pond Technologies
+- Porewater Solutions
+- Portable Intelligence Inc.
+- Portl Media
+- Positec Canada Ltd.
+- Post Farm Structures Inc.
+- Postalgia Inc.
+- Potent Group Inc.
+- Powderkeg Labs Inc. (o/a GetQuorum)
+- Powernoodle
+- Powersmiths International Corp.
+- Praemo Inc.
+- Pratt &amp; Whitney Canada
+- Pratt &amp; whitney Canada
+- Pravala Networks Inc.
+- Praxair Canada
+- Precision Fab Inc.
+- Precision Titanium Components
+- Predikat Inc.
+- Pressboard Media Inc.
+- Pret a Preter
+- Primped Beauty Technologies Inc.
+- Prism Valuation
+- Privacy Shell
+- Pro-Flange Ltd.
+- Pro-Lab Diagnostics Inc.
+- ProFlange Limited
+- ProNav Technologies Ltd.
+- ProPet Software Inc.
+- ProSlide Technology
+- Prodomax Automation Inc.
+- Productions Cazabon
+- Project Neutral
+- Promat
+- Promation
+- Promation Engineering Ltd.
+- Propelme
+- ProspectVR (o/a FanBattle)
+- Prosperitas Medical Solutions
+- Proteocyte Diagnostics Inc.
+- Proteorex
+- Proto3000 Inc.
+- Provectus Robotics Solutions Inc.
+- Proximify Inc.
+- Psychology Health Solutions
+- Publivate Inc.
+- Pueblo Science
+- Pull Technologies
+- Pulse Industrial
+- Pulse Microsystems Ltd.
+- Pulsenics Inc.
+- Punchtime
+- Pungle Inc.
+- Purater Inc. (Acrocy)
+- Pure Technologies Ltd.
+- Purifics ES Inc.
+- Purolator Inc.
+- Purposeful Fundraising
+- Pyrowave
+- QA Consultants
+- QA Consultants Inc.
+- QBD Cooling Systems Inc.
+- QD Solar
+- QKD Corp
+- QNX Software Systems Limited
+- QNX Software Systems Ltd.
+- QQuote
+- QReserve Inc.
+- QSBR Innovations Inc.
+- QTemp Smart Corp.
+- QUSTREAM CORPORATION
+- Qalia Inc.
+- Qidni Labs
+- Qmetrica Quantitative Finance
+- QoC Health
+- Qoints
+- QuadReal Property Group Limited Partnership by its General Partner QuadReal Property Group GP Inc.its General Partner QuadReal Property Group GP Inc.
+- Quaintrelle Society
+- QualPix
+- Qualcomm Canada ULC
+- Qualcomm Inc.
+- Quali AI
+- Quality Models Limited
+- Quandl Inc.
+- Quanser Consulting Inc.
+- QuantWave Technologies
+- Quantify Labs Inc. o/a Street Contxt
+- Quantum capture
+- Quartic.ai Canada
+- Qubit Systems Inc.
+- Queen's University
+- QuickSilk
+- Quinn's Power Edge Hockey Inc.
+- Quit Your Day Job Pictures Ltd.
+- R &amp; M Plastic Products Ltd.
+- R&amp;B Cormier Enterprises Inc.
+- R&amp;D Innovative Solutions Inc.
+- R.D. Legault Seeds (2016) Ltd
+- RAMP Inc.
+- RANUhandmade
+- RBC
+- RBRO Solutions Inc.
+- RBS Consulting Engineering Group Inc.
+- RDH Building Science Inc.
+- ROCKPORT NETWORKS Inc.
+- RONCO PPE
+- ROXUL Inc.
+- RRCRC Greenhouse
+- RZR Skate Blades
+- Racer Machinery International Inc.
+- Radtagz Inc.
+- Raise Your Flag
+- Rakr
+- Ramsden Industries Limited
+- Ramstar Carbide Tool Inc.
+- Rank Software Inc.
+- Ranovus
+- Rapid Novor Inc
+- Rapid Novor Inc.
+- Rassettica Testing Limited
+- Raven Telemetry Inc.
+- Ravine Vineyard Estate Winery Inc.
+- Raw Materials Company Inc.
+- Ray's Original Thai Sauces
+- Raytheon Canada Limited
+- Re:Treat
+- ReDeTec
+- ReUp
+- ReUp Technologies Inc.
+- RealDecoy Inc.
+- Realize Medical Inc.
+- Rebel Farms (Ottawa) Inc.
+- RedLore Canada Inc.
+- RedRick Technologies Inc
+- Redline Communications Inc.
+- Redox North Inc.
+- Redtree Robotics Inc.
+- Reebok-CCM Hockey
+- RegenaStem Inc.
+- Region of Peel
+- Regional Power Inc.
+- ReiPower Inc.
+- ReliablyME Inc.
+- Reliq Health
+- Remotronic Corp.
+- RenalCan Inc.
+- Renix Inc.
+- Repable Inc.
+- Reportin Inc.
+- Rescraft Plastic Products
+- Research Money Inc.
+- Research Psychologists Press
+- Resolute Forest Products
+- Resolute Forest Products Canada Inc.
+- Respecting the Process Inc.
+- RetiSpec Inc.
+- Revera Inc.
+- Rex Power Magnetics
+- Richter Advisory Group
+- RideShark Corporation
+- Rideau Rockcliffe Community Resource Centre
+- Rideau-Rockcliffe Community Resource Centre
+- RigMaster Power International Ltd.
+- Right Bike
+- RightBlue Labs Inc.
+- Rimikon Inc.
+- Ripple Farms Inc.
+- Riva Modeling Systems Inc.
+- Rizer Social Corp.
+- Rna diagnostics Inc.
+- Ro-Matt International Inc.
+- RoadLaunch
+- Roadmunk Inc.
+- Roberts Welding and Fabricating Ltd.
+- Robin Hood Technology
+- Robin Media Inc.
+- Robot Missions
+- Rock-Tech
+- RockMass Technologies
+- Rockport Networks
+- Rockwell Automation Canada Inc.
+- Rocky Mountain Equipment Canada o/a RME Geomatics
+- Rocky River Paddles Inc.
+- Rodger Industries Inc.
+- Roelands Plant Farms Inc.
+- Roll A Shade
+- Roll-A-Shade
+- Rollstamp Mfg.
+- Romaeris Corp.
+- Romet Limited
+- Ronco Disposable Products Ltd.
+- Root2Crown Inc.
+- Rotsaert Dental Laboratory Services Inc.
+- Roundtours Ottawa
+- Route1 Inc.
+- Rover Parking
+- Rowan Williams Davies &amp; Irwin Inc.
+- Rumidifier Home Comforts Inc.
+- Rural Healthy Living Coalition
+- Ryerson University
+- Réseau Ontario des arts de la scène inc
+- Réseau des Femmes Artisanes Francophones de Windsor-Essex
+- SAMETRICA (Social Asset Measurements Inc.)
+- SAS Canada
+- SCIURIDAE
+- SHIELD Crypto Systems Inc.
+- SInc.lair Interplanetary
+- SIËSDE (Canadian Divorce Services Inc.)
+- SIËSDE Inc.
+- SOTI Research &amp; Innovastion Lab
+- SP-Nanobiotech Inc.
+- SPP Canada Aircraft Inc. (SPPCA)
+- SQI Diagnostics
+- SRS Consulting Engineers Inc.
+- SSHRC
+- SSIMWAVE Inc.
+- ST&amp;J Retail Corporation
+- STELCO
+- STIM Canada Inc.
+- STJ Retail
+- STM Holographic
+- STMNT
+- STUDEO
+- STUDIO 1 HOLDINGS Inc. O/A LUMEN SECURITY
+- SWTCH
+- SWTCH E-Car Inc.
+- SWTCH Energy Inc.
+- SYNG Pharmaceuticals Inc.
+- Sabic Innovative Plastics
+- SafeDose Ltd.
+- SafeSump Inc.
+- Safety Power Inc.
+- Safran Electronics Canada Inc. (SE-C)
+- SageTea Group
+- Sailing To Sustainability
+- Saint Jean Carbon Inc.
+- Salaam Swipe Tech Inc.
+- SalesChoice Inc.
+- Salient Energy
+- Salus Innovation Inc.
+- Sani Sport
+- Sanofi Pasteur Ltd.
+- Sansys
+- Sapling &amp; Flint Designs
+- Sarapoint Global Ltd.
+- Saturn Tool &amp; Die (Windsor) Inc.
+- Sault College of Applied Arts and Technology
+- Sault Ste. Marie Innovation Centre
+- Savanna Consulting International
+- Savormetrics Inc.
+- Savron Solutions
+- Savvyy Studio Inc.
+- SceneDoc Inc.
+- Scent Trunk
+- Schedulock Inc.
+- Schenck Farms and Greenhouses Co. Ltd.
+- School for Social Entrepreneurs Ontario
+- Sciencescape Inc.
+- Sciencetech Inc.
+- Scinapsis Analytics Inc.
+- Scinapsis Analytics Inc. d.b.a BenchSci
+- Scintrex
+- Sciventions Inc.
+- Scottie Artist Management
+- Screaming Power Inc.
+- Scribendi Inc.
+- Scuto Events Inc.
+- Scytl Canada Inc.
+- SeamlessMD
+- Secret Sip Coffee Club Inc.
+- Secure Sense Solutions Inc.
+- SecureKey Technologies
+- SecureSense
+- Security Compass
+- Self-Regulation Mental Health &amp; Wellness
+- Seneca College of Applied Arts and Technology
+- SensOR Medical Laboratories Ltd.
+- Sensibill
+- Senso
+- Sensor Cortek Inc.
+- SensorSuite
+- Septimatech Group Inc.
+- Seradex Web Services Inc.
+- Sesame HQ Inc.
+- Set Scouter Inc.
+- Sevcon Canada
+- Shaftesbury Darken Digital Inc.
+- Shaftesbury Films Inc.
+- Shapefactory Inc.
+- Sharbel Group Inc. (o/a Wired Solutions)
+- ShareEats
+- Sharkskin Coatings and Surface Techniques
+- ShawCor Ltd.
+- Shawcor Ltd.
+- She Shouts About
+- SheCoSystem
+- Shelburne Wood Protection Ltd.
+- Shell Canada
+- Shelley Medical Imaging Technologies
+- Shepherdess Biotech
+- Shepherds of Good Hope
+- Sheridan College
+- Sheridan College Institute of Technology and Advanced Learning
+- Sherwood Innovations Inc.
+- Shift Health Paradigms Ltd.
+- ShiftRide
+- Shimco North America Inc.
+- Shinnowap Consulting
+- Shipping Container Housing (Enactus uOttawa)
+- Shouut Technologies Inc.
+- Showfloor
+- SiREM
+- SickKids
+- Sidense Corp.
+- Siesde Inc.;Canadian Divorce Services (CDS) Inc.
+- Sigma Analysis &amp; Management Ltd.
+- Sigma Bio-Instruments Inc.
+- Signifi Solutions Inc.
+- Signority Inc.
+- Silcotech North America Inc.
+- Silfab Solar Inc.
+- Silk Way Services Inc.
+- SilkStart
+- Silqe
+- Siltech
+- Simeio Solutions Canada Inc.
+- SimentIT Inc.
+- Simple Underwear Inc.
+- Simulare Medical Corp.
+- Sinclair Technologies – A Division of Norsat International Inc.
+- Single-Key Inc.
+- Singspiel Inc.
+- Sir Sandford Fleming College
+- Sir Sanford Fleming College
+- Sistema Toronto Academy
+- Site Safety Solutions
+- Site2Site Inc.
+- Sittler Demolition and Environmental
+- Sky
+- SkyWatch Space Applications Inc.
+- Sle-Co Plastics Inc.
+- Smart Building Apps
+- Smart Cocoon
+- Smart Nora Inc.
+- SmartCone Technologies Inc.
+- SmartPay Inc. o/a Curexe
+- SmartSignin
+- SmartTones Media
+- Smarteacher
+- Smarter Alloys Inc.
+- Smartto Media Inc.
+- Smats Traffic Solutions
+- Smats Traffic Solutions Incorporated
+- Smog Abating Initiative Ltd.
+- Smokebomb
+- SmoothPayment Inc.
+- Snabb Delivery
+- SnapEDA Inc.
+- Snapsort Inc. (DBA Sortable)
+- Snapwise Inc. (DBA uCiC)
+- Sniper Skin
+- Sober Steering Sensors Canada
+- Social Asset Measurements Inc.
+- Social Change Rewards Inc.
+- Social Enterprise
+- Social Impact Enterprises
+- Social Innovation and Venture Creation
+- Social Scaffolds
+- Sof Surfaces Inc.
+- Soft-R US Inc.
+- Softech Alliance Network
+- Software Secured Cautus
+- SoilOptix Inc.
+- Sojourn Labs
+- Solana Networks
+- Solantro Semiconductor Corp
+- Solantro Semiconductor Corp.
+- Solar Ship Inc.
+- Soleful
+- Solidia Technologies
+- Solinst Canada Ltd.
+- Solodigitalis Inc.
+- Sonare
+- Sorsys Technologies Inc.
+- Soul Rooms Inc.
+- Soul Roots
+- Sound Options Tinnitus Treatments Inc.
+- Source My Garment
+- Source My Garment Consulting Inc.
+- Sousa Truck and Trailer Repair Ltd.
+- South Central Ontario Economic Development Corporation
+- Southbrook Vineyards
+- Southlake Regional Health Centre
+- Southmedic Inc.
+- Southwestern Integrated Fibre Technology Inc.
+- Sowingo
+- Space Database Inc.
+- SpaceCard Inc.
+- Sparcblock Corporation
+- SparkGig
+- Speak AI Inc.
+- Specific Range Solutions
+- Spectra Plasmonics
+- Spectrafy
+- Spectral Devices Inc.
+- Spectrum Manufacturing
+- Speedo Foods &amp; Flavours Inc.
+- Spiderwort Inc.
+- Spiffy Inc.
+- Spinesonics Medical Inc.
+- Spinmetry Inc.
+- Spinoza Life Sciences Inc.
+- Spivo Inc.
+- Splashtones Music Inc.
+- Spoonity Inc.
+- Spotaloy Products Ltd.
+- Spread the Joy
+- Spring Personal Finance
+- Springpower International Inc.
+- Sputtek Inc.
+- Spxtrm Health Inc.
+- SqueezeCMM Inc.
+- Squigglepark
+- St. Andrew Goldfields Ltd.
+- St. Clair College
+- St. Clair College of Applied Arts and Technology
+- St. Francis Herb Farm Inc.
+- St. Joe's Supper Table
+- St. Lawrence College
+- St. Paul's University College
+- Stable Climate Choices
+- Stackpole International
+- Stackpole International Engineered Products
+- StaffStat
+- Staffy Canada Inc.
+- Stage Ten
+- StageKeep
+- StakUp Inc.
+- Standard Power Corporation
+- Standard Tool and Mold Inc.
+- Stantec
+- Stantec Consulting Ltd.
+- Star Chefs Catering Services Inc.
+- Start The Cycle
+- Starts With Me
+- Staterra Inc.
+- Stathletes Inc.
+- Steadiwear Inc.
+- Stelco Canada
+- Stelco Inc.
+- Stephenson Engineering
+- Steve Ablett - Public Health
+- Steve Diguer Productions Incorporated Inc.
+- Stewardly
+- Stillwater Canada Inc.
+- Stoddard Silencers of Canada Inc.
+- StormFisher Environmental Ltd.
+- Storstac Inc.
+- Story Planet
+- Strategic Mapping Inc.
+- Strategic Transitions Inc.
+- StrategicSmart Inc.
+- Stratus Plastics Inc.
+- StreamWorx.AI Inc.
+- Strik
+- Strik Baldinelli Moniz (SBM)
+- Stromcore Energy Inc.
+- Structur3D Printing
+- Structur3d Printing
+- Structura Biotechnology Inc.
+- Stubii
+- Studio 1 Labs
+- Stylekick
+- Summatti Inc.
+- Summo Corporation
+- SunWash Technologies
+- Suncayr
+- Suncayr - 8996598 Canada Inc.
+- Suncor Energy Inc.
+- Suncor Energy Products Partnership
+- Suncor Energy Services Inc.;Suncor
+- Sunspace
+- Supermarket Communications
+- Sure Path Mobile Inc.
+- Surgical Safety Technologies Inc.
+- Surgically Clean Air Inc.
+- Sussex Research Laboratories Inc.
+- Sustainable Risk Strategies Ltd.
+- Sutherland Insurance
+- SwIMU Inc.
+- Sweep3D Corporation
+- Sweet and Sticky Inc.
+- Swegon North America
+- Swenco Limited
+- Swidget Corp.
+- Swift Medical
+- SwiftPad
+- Swiggle Inc.
+- Swiss Reinsurance Company Ltd
+- Swob Inc.
+- Symboticware
+- Synaptive Medical Inc.
+- Synergy Mouldworks Inc.
+- Synervoz Communications Inc.
+- Syngli Inc.
+- Sysomos LP
+- Systelos Inc.
+- System-On-Chip Technologies Inc.
+- Systems for Research Corp
+- TAMGA Designs Inc.
+- TAMVOES
+- TBird
+- TD Insurance
+- TECSIS Corporation
+- TEGSS. NCS. Inc.
+- TES Information technology
+- TESSONICS Inc.
+- THINK'n Corp.
+- TIERONE OSS Technologies Inc.
+- TMX Group
+- TROES Corp.
+- TUKU Inc.
+- TXIO Corporation
+- Table de Peel-Dufferin-Halton
+- Tableworks
+- Taboo Health Art Collective
+- Tactile Audio Displays Inc.
+- Tactual Labs Canada
+- TakuLabs Ltd.
+- TalkingTouch Inc.
+- Tallysman Wireless
+- Tandem Technical
+- Taylorpedia
+- TeTechS Inc.
+- Teach For Canada
+- Teagan's Voice
+- Techboomers Media Inc.
+- Techlink
+- Techno Scientific Inc.
+- Technology Development &amp; Commercilization Office at University Health NetworkHealth Network
+- Technology Trace Inc.
+- Technovation Academy's Engineers Got Skillz
+- Tee Talent
+- Tehama Inc.
+- Teknaform
+- Teknically
+- TeleHex
+- Teledyne DALSA Inc.
+- Telegistics Inc.
+- TellSpec Inc.
+- Tellar Inc. o/a Remmen Brakes
+- Telus
+- Tenet Computer Group Inc.
+- Tenneco Canada
+- Tenova Goodfellow Inc.
+- Teraproc Inc.
+- Terrafix Geosynthetics Inc.
+- Terrestrial Energy Inc.
+- TesMan Inc.
+- Teslonix Inc
+- Teslonix Inc.
+- Teutech Industries Inc.
+- Teviot Technology Inc.
+- Textbooks for Change
+- Thales Canada Inc.
+- Thalmic Labs Inc.
+- Thames Valley District School Board
+- That Bee Girl's Farm
+- The Bank of Nova Scotia
+- The Canadian Bioceutical Corporation
+- The Chufa Co.
+- The City of Barrie
+- The Cooperators;3M Canada Company;Tembec;BASF Canada
+- The County Cider Company Inc.
+- The DMZ at Ryerson University
+- The Data Cable Co. Inc.
+- The Deposit Exchange Inc. (o/a CFO2)
+- The Doula Shop (Northern Baby Links)
+- The Environmental factor Inc.
+- The Fair Trade Show
+- The Family Community Place
+- The Foreign Affair Winery
+- The GIST Ltd.
+- The GRIND
+- The Globe and Mail Inc.
+- The Growcer
+- The Hallow
+- The Holy City Inc.
+- The Laneway Project
+- The NWC
+- The Networking Effect Inc.
+- The Power Collective Inc.
+- The Public Sector Digest Inc.
+- The Raw Carrot Soup Enterprise
+- The Raw Office Inc.
+- The Regional Municipality of Waterloo
+- The Roots Collaborative
+- The Royal Conservatory
+- The Rumie Initiative
+- The Sampler App Inc.
+- The Sky Guys
+- The Stewart Group Trading
+- The Sustainable Economist
+- The University of Western Ontario
+- The Wells Group Inc.
+- The Working Group Inc.
+- The Yoak
+- Theakston Environmental Holdco Inc.
+- Theralase Technologies Inc.
+- Therapia Health Management Inc.
+- Thermal Electronics Corp
+- Thermal Technology Services Limited
+- Thermo Cool Inc.
+- Thermo Cool Mechanical
+- Theta TTS Inc.
+- Thetis Environmental Inc.
+- Think Dirty
+- Think Research
+- Think2Thing Inc.
+- ThinkNation Inc.
+- Third Blink Software Inc.
+- Thirteen
+- Thordon Bearings Inc.
+- Thordon Bearings Incorporated
+- Thoth Technology Inc.
+- ThoughtWire Corp.
+- Three Lefts
+- ThreeFourtyNine
+- Thrive Games
+- TicketFi Inc.
+- TicketLabs Inc.
+- Tides Canada Initiatives - Jane's Walk
+- TieiT App
+- TieroneOSS Technologies Inc.
+- Tillsonburg Hydro Inc.
+- TimeSaved Inc.
+- Timmins Economic Development Corporation
+- Tiny Hearts
+- Tiny Maple Ventures
+- Tiny Toronto
+- TinyMile
+- TipTap
+- Tipco Inc.
+- Tissue Regeneration Therapeutics Inc.
+- Toman Industries Ltd.
+- Toolplas Systems Inc.
+- Toolrite Engineering
+- Toonrush Inc.
+- Top Hat Robotics
+- Toque Business Solution
+- Tornado Spectral System
+- Toronto General Hospital
+- Toronto Hydro Electric System limited
+- Toronto Micro Electronics Inc.
+- Toronto NanoInstrumentation Inc.
+- Toronto Tool Library
+- Tossdown Inc.
+- Touchhour Inc.
+- Tournkey Tournament Software
+- Toyota Motor Manufacturing Canada
+- Toyota Motor Manufacturing Canada Inc.
+- Tracery Ophthalmics Inc.
+- Tracker Networks Inc.
+- Trainer Plus Inc.
+- TranQool Inc.
+- Trancels-Pultrall Canada
+- Trans-Plan Transportation Inc.
+- TransFormSSO
+- TransPod Inc.
+- Transnomis Solutions Inc.
+- Transoft Solutions (ITS) Inc.
+- Trapeze Software ULC
+- Travelabulous Inc.
+- Tread Technologies
+- TreeWell Limited
+- TrendMD Inc.
+- TrendRadius Inc.
+- Trent University
+- Treventis Corp.
+- Trexo Robotics
+- Triage Technologies Inc.
+- Tribal MX
+- Trichromes Ltd.
+- Trillium Meditec
+- Trinity Theatre Toronto
+- Triple Data Inc.
+- Tripsi Inc.
+- Triumvira Immunologics
+- Triumvira Immunologics Inc.
+- Triumvira Technologies Inc.
+- Trivium Industries
+- TriyoSoft Inc.
+- Trojan Technologies
+- Tropix Inc.
+- Trouw Nutrition
+- Tru-ID
+- TruReach Health Inc.
+- True Energy Incorporated
+- True North Printed Plastics
+- True Phantom Solutions Inc.
+- TrueBlue Mobile Software Inc.
+- TrustPoint Innovation Technologies Ltd.
+- TryCycle Relapse Prevention System Inc.
+- Tuio
+- Tweed Farms Inc.
+- Twelve Barrels Spirits Company
+- Tyco Electronics Canada ULC
+- Tyromer Inc
+- U-Feast Corporation
+- UGRAN Drive Safe Incorporated
+- UNENE (University Netwrok for Excellence in Nuclear Engineering )
+- URSA Lighting
+- UTC Aerospace Systems
+- UTComp
+- Ukko Agro Inc.
+- Ultrafit Manufacturing
+- Ultramet Industries
+- Ulula
+- Ummahloop Inc.
+- Uncharted Software Inc.
+- Unconquered Sun Solar technologies Inc.
+- UniFab Inc.
+- Union Gas Ltd.
+- Unitron Hearing
+- Universal Matter Inc.
+- Universal NanoSensor Technologies
+- University of Guelph
+- University of Ontario Institute of Technology
+- University of Ottawa
+- University of Toronto
+- University of Waterloo
+- University of Western Ontario
+- University of Windsor
+- Untether AI Corporation
+- Up Cannabis
+- Uponor Canada
+- Urban Boutique Technologies Inc.
+- Urban Navigators
+- Utilismart Corporation
+- Utsav Systems Inc.
+- Uzado Inc.
+- V-ROD Canada Inc.
+- VBM Science Ltd.
+- VISR
+- VInc.i Labs
+- VLN Advanced Technologies
+- VLN Advanced Technologies Inc.
+- VSETA
+- Vairtex Canada Inc.
+- Vale Canada Ltd.
+- Valency Inc.
+- Valeo Canada
+- Validere Technologies Inc.
+- Valley Bio Ltd.
+- Valley Growers Inc.
+- Van-Rob KIRCHHOFF Automotive
+- Vanier Community Service Centre
+- Varden Labs
+- Varilume Lighting Inc.
+- Vascularix
+- VeREM Inc.
+- Vectorbloc Corp.
+- Velo Labs Inc.
+- Vena Medical Inc.
+- Ventripoint Ltd.
+- Veridian Corporation
+- Veridis Aquatic Technologies Inc.
+- Verold
+- Vertamin Inc
+- VerticalScope
+- Verticiel Inc.
+- Vested In You Technologies
+- Vestigo Corporation
+- Vetica Interactive Inc.
+- Vetterview
+- Vexo Technology Solutions Corp.
+- Viafoura
+- Viavi Solutions
+- Vibro-Acoustics
+- Vicis Labs
+- Victoria Hospital Imaging Associates
+- Victory Garden Institute
+- Vida Holdings Corp. Ltd.
+- VideoComm Technologies
+- Videogami
+- Viewgle Inc.
+- Viewnyx Corp.
+- Viewnyx Corporation
+- VigilantCS
+- Viking-Cives
+- Village Mommy Inc.
+- Viral 360
+- Virgil Systems
+- Virica Biotech Inc.
+- Virox Technologies Inc.
+- Virtual Possibilities Inc. (&quot;VPI Surgical&quot;)
+- Virtual Ward Medicine Corporation
+- Viscore Technologies Inc.
+- Vision Quest Event Management
+- Visionary Semiconductor Inc.
+- Visitor Queue Inc.
+- Vistaprint
+- Visual Defence Inc.
+- Vital Alert Communication Inc.
+- Vital Biomedical Technologies Inc.
+- Vital Biosciences Inc. (name changed from Elucid Labs Inc.
+- Vitameter Inc.
+- VivaVax Inc.
+- Vive Crop Protection Inc.
+- Viviplan Inc.
+- Vivosonic Inc.
+- Vocalage Inc.
+- Voestalpine High Performance Metals Ltd.
+- Voilà Learning
+- Volanté Systems
+- Volley Industries Inc.
+- Voltera Inc.
+- Volunteer Together Ontario Inc.
+- VoxNeuro
+- Vubble Inc.
+- VueReal Inc.
+- Vuru
+- WILREP Ltd.
+- WIRL
+- WORKshop Inc.
+- Wabi Iron &amp; Steel Corp
+- Walker Environmental Group Inc.
+- Walker Industries
+- Wallbridge Mining Company Limited
+- Wallenstein Feed &amp; Supply
+- Walters Inc.
+- Wantboard Inc.
+- Warm Welcome English
+- Wastenot Worm Farms
+- Water Rangers
+- Water Services City of Guelph
+- Waterlix Inc.
+- Waterloo CFD Engineering Consulting Inc.
+- Waterloo Instruments Inc. DBA: CellScale Biomaterials Testing
+- Waters Limited
+- Watrhub
+- Watson Process Systems
+- Wavecore Inc.
+- Wavve Boating Inc
+- Wavve Boating Inc.
+- Wazzio Inc.
+- We The Roots
+- WeTraq Inc.
+- Wearatec Inc.
+- Weather Telematrics Inc.
+- Weber Manufacturing Technologies Inc.
+- Welbi Technologies Inc.
+- Wellmaster
+- Westcoast Chill Yoga
+- Western Plastics
+- Westhill Innovation Inc.
+- WestonExpressions Inc.
+- Where I Park Inc.
+- Whirlscape Inc.
+- White Owl
+- Whitecrest Mushrooms Ltd.
+- Whitfield Welding Inc.
+- Wicket Inc.
+- Wilfrid Laurier University
+- William F White International Inc.
+- William Osler Health System
+- Windsor Botanicals Therapeutics
+- Windsor Essex Economic Development Corporation
+- Windsor Industrial Services
+- Windsor Metal Technologies Inc.
+- Windsor Mold Group
+- WindsorEssex Economic Development Corporation
+- WinterLight Labs
+- Winters Instruments Ltd.
+- Wittaya Aqua International Inc.
+- Wolf Steel Ltd.
+- Wolfhead Distillery
+- Wolna Technology Inc.
+- Woodbridge Foam Corporation
+- Woodbridge Group/Nine North Capital Corp.
+- Woodstock Hydro Services Inc.
+- Words of Intention
+- World of Angus Inc.
+- WorleyParsons Canada Services Ltd.
+- Wowa Leads Inc.
+- Wully Outerwear
+- X-Matik Inc.
+- XL Tool Inc.
+- XOR Labs
+- XPAN Inc.
+- XPS Consulting &amp; Testwork Services
+- XYZ Interactive Technologies Inc.
+- Xanadu Quantum Technologies
+- Xanadu Quantum Technologies Inc.
+- Xerox Research Centre of Canada
+- Xesto
+- Xesto Inc.
+- Xogen Technologies Inc.
+- Xpert VR
+- Xstrata Nickel
+- Xyiltol Canada
+- Y Hate
+- YOLK Inc.
+- Yazabi Predictive Inc.
+- Yellow Gold Farms Ltd.
+- Yirego Corp.
+- YogaSoda Inc.
+- York Entrepreneurship Development Institute
+- York Metal Products
+- York University
+- Yorkshire Valley Farms Ltd.
+- You.i Labs Inc.
+- Youth Odena
+- Yunite Inc.
+- Yuser Inc.
+- Z3 Controls
+- ZEC Wind Power Corp.
+- ZEN Graphene Solutions
+- ZIGHRA
+- Zamani Wireless Solutions Inc.
+- Zentrela Inc.
+- Zenyatta Ventures Ltd.
+- Zepeel Inc.
+- Zighra
+- Zion Robotics and Control
+- Zortech Industries Inc.
+- Zpirit Foods Inc.
+- a Suncor Energy Business
+- a division of Magna Exteriors Inc.
+- advantage Machine &amp; Tool Inc.
+- aiSight Inc.
+- ample3D Inc.
+- apollogreen Inc.
+- barterJunction Inc.
+- bigterminal
+- but same legal entity)
+- centre polyvalent des aîné(e)s inc.
+- city lab
+- compliance case corporation limited
+- deepPIXEL
+- dine&amp;comply (Certikleen)
+- e-Radio Inc.
+- eCAMION Inc.
+- eCycle Solutions Inc.
+- eGloo
+- eGloo Inc.
+- eProf
+- eQOL Inc.
+- eStaffMatch
+- eStaffMatch INC. (o/a Hyre Inc.)
+- ecobee Inc.
+- entreSociety
+- erplain
+- evolutionQ Inc.
+- eye3concepts Inc.
+- ezsec
+- gShift
+- grOCAD
+- healthSwapp
+- i am mindful
+- iApotheca Healthcare Inc.
+- iBIONICS Inc.
+- iDAPT Somno Inc.
+- iGEN Technologies Inc.
+- iLOOKABOUT Inc.
+- iMerciv Inc.
+- iNAGO Corp.
+- iNAGO Corporation
+- iS5 Communications Inc.
+- iSPAN Systems LP
+- iTP Biomedica Corporation
+- iVedha
+- iVirtual
+- iWatchlife
+- in Bay Technologies Inc.
+- inBay Technologies Inc.
+- inMotive
+- inc.
+- invision AI
+- invitalize
+- iversoft
+- klothed Inc.
+- m-Health Solutions
+- mLAi Analytics Inc.
+- mPower Software
+- mobileLIVE Inc.
+- myHealthSphere Inc.
+- nanopay Corporation
+- rel8ed.to Analytics
+- s2e Technologies Inc.
+- s2h Business Information Systems Corp
+- seamly Inc.
+- survey simon
+- tBOT Inc.
+- teaBOT
+- uCarenet Technologies Inc.
+- uConekt Inc.
+- uFluidix
+- ventureLAB
+- which is a registered tradename for Environmental Software Solutions
+- www.MonarchClothes.com
