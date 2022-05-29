@@ -470,7 +470,10 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,798,350
 - Detecting Objects to Enable Safer Snow Plowing
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners:
+	- Partners: City of Ottawa; Four DRobotics Corp
+	- Program Commitment: $486,463
+	- Partner Commitment(s): $972,925
+-
 	-
 -
 -
