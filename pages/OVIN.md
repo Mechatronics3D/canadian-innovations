@@ -460,7 +460,10 @@ features:: [[Government]]
 	- Partner Commitment(s): $172,206
 - Winter On-Demand Community Transit Network
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partner:
+	- Partners: RideShark Corporation; County of Renfrew
+	- Program Commitment: $500,000
+	- Partner Commitment(s): $1,094,200
+-
 	-
 -
 -
