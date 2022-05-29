@@ -1,5 +1,5 @@
 - # Canada
-- [AZO CleanTe]
+- [AZO CleanTech directory of Canadian companies](https://www.azocleantech.com/SupplierByCountry.aspx?CountryID=38)
 # Ontario
 - 1 Source Design Ltd.
 - 1000 Islands Lawn & Landscape
