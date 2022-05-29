@@ -463,7 +463,9 @@ features:: [[Government]]
 	- Partners: RideShark Corporation; County of Renfrew
 	- Program Commitment: $500,000
 	- Partner Commitment(s): $1,094,200
--
+- Smart cameras, smart cities: Real-time embedded system for road safety monitoring and crash prediction through information systems
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners:
 	-
 -
 -
