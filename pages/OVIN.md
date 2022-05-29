@@ -458,7 +458,9 @@ features:: [[Government]]
 	- Partners: JCAI Inc.; Loomex Property Management Ltd.; Team Eagle Ltd.
 	- Program Commitment: $75,907
 	- Partner Commitment(s): $172,206
--
+- Winter On-Demand Community Transit Network
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partner:
 	-
 -
 -
