@@ -34,7 +34,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $5,504,528
 - Application Software Testing CV/AV (ASTCVAV)
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- Partners: QA Consultants; Hitachi Consulting Canada; Automotive Center of Excellence, University of Ontario Institute of Technology; CAA
+	- Partners: QA Consultants; Hitachi Consulting Canada; Automotive Centre of Excellence, University of Ontario Institute of Technology; CAA
 	- Program Commitment: $440,800
 	- Partner Commitment(s): $576,000
 - Havelaar Critical Infrastructure EV to AV
