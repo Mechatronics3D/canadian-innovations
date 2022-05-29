@@ -477,7 +477,8 @@ features:: [[Government]]
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
 	- Partners: CybernetIQ Inc; Deloitte
 	- Program Commitment: $97,750
-	-
+	- Partner Commitment(s): $195,500
+-
 	-
 -
 -
