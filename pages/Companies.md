@@ -2978,7 +2978,7 @@
 - Virgil Systems
 - Virica Biotech Inc.
 - Virox Technologies Inc.
-- Virtual Possibilities Inc. (&quot;VPI Surgical&quot;)
+- Virtual Possibilities Inc. ("VPI Surgical")
 - Virtual Ward Medicine Corporation
 - Viscore Technologies Inc.
 - Vision Quest Event Management
