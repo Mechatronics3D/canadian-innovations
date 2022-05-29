@@ -473,7 +473,11 @@ features:: [[Government]]
 	- Partners: City of Ottawa; Four DRobotics Corp
 	- Program Commitment: $486,463
 	- Partner Commitment(s): $972,925
--
+- Threat Hunting and 360 SOC visibility on Autonomous Vehicles and Interconnected Systems
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: CybernetIQ Inc; Deloitte
+	- Program Commitment: $97,750
+	-
 	-
 -
 -
