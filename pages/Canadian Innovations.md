@@ -1,1 +1,1 @@
-- This a knowledge garden for the Canadian innovation space including startup companies, angel investors, startup accelerators, venture capitalists and government organizations.
+- This is a knowledge garden for the Canadian innovation space including startup companies, angel investors, startup accelerators, venture capitalists and government organizations.
