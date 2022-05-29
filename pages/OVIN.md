@@ -449,7 +449,8 @@ features:: [[Government]]
 	- Program Commitment: $987,597
 	- Partner Commitment(s): $2,208,951
 - AI-enabled data collection system
-	- Program:
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners:
 	-
 -
 -
