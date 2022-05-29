@@ -465,6 +465,11 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,094,200
 - Smart cameras, smart cities: Real-time embedded system for road safety monitoring and crash prediction through information systems
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Transoft Solutions (ITS) Inc.; Regional Municipality of Durham
+	- Program Commitment: $876,000
+	- Partner Commitment(s): $1,798,350
+- Detecting Objects to Enable Safer Snow Plowing
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners:
 	-
 -
