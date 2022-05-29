@@ -70,7 +70,14 @@
 - AGS Automotive Systems
 - AHead Simulations Inc.
 - AIH Technology Inc.
-ALTEX Decoraton Ltd.;ALCHEMY / Neverfrost;The C3 GROUP;SABIC;FHR Anlagenbau GmbH;Golconda International Financial Information Service;University of - Toronto - Professor - Departments of Electrical &amp; Computer EngineeringAnlagenbau GmbH;Golconda International Financial Information Service;University of Toronto - Professor - Departments of Electrical &amp; Computer Engineering
+- ALTEX Decoraton Ltd.
+- ALCHEMY / Neverfrost
+- The C3 GROUP
+- SABIC
+- FHR Anlagenbau GmbH
+- Golconda International Financial Information Service
+- University of Toronto 
+- Anlagenbau GmbH
 - ALink Computer Solutions Inc.
 - ANPI Canada Inc.
 - AOMS Technologies
@@ -167,7 +174,13 @@ ALTEX Decoraton Ltd.;ALCHEMY / Neverfrost;The C3 GROUP;SABIC;FHR Anlagenbau GmbH
 - Akira Medical Ltd.
 - Akira Systems Inc.
 - Alaunus Inc.
-- AlayaCare Inc.;CBI Health Group;Muskoka Algonquin Healthcare;The Ottawa Hospital;Southlake Hospital Healthlink;St. Michael's Hospital (CLEAR);UOITUOIT
+- AlayaCare Inc.
+- CBI Health Group
+- Muskoka Algonquin Healthcare
+- The Ottawa Hospital
+- Southlake Hospital Healthlink
+- St. Michael's Hospital (CLEAR)
+- UOIT
 - Albedo Informatics Inc.
 - Alcea Technologies
 - Alcereco
@@ -2246,7 +2259,7 @@ ALTEX Decoraton Ltd.;ALCHEMY / Neverfrost;The C3 GROUP;SABIC;FHR Anlagenbau GmbH
 - Qmetrica Quantitative Finance
 - QoC Health
 - Qoints
-- QuadReal Property Group Limited Partnership by its General Partner QuadReal Property Group GP Inc.its General Partner QuadReal Property Group GP Inc.
+- QuadReal Property Group Limited Partnership by its General Partner QuadReal Property Group GP Inc.
 - Quaintrelle Society
 - QualPix
 - Qualcomm Canada ULC
