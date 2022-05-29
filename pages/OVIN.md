@@ -2,3 +2,480 @@ public:: true
 type:: [[Organization]]
 features:: [[Government]]
 
+
+- Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
+	- Project: Connected Infrastructure V2X, Demonstration of Secure, Multimodal Prioritization Schemes
+	- Partners: [Miovision Technologies Inc.](https://miovision.com/); [ESCRYPT Canada](https://www.escrypt.com/en); [GeoTab Inc.](https://www.geotab.com/); [Magna Electronics](https://www.magna.com/company/company-information/magna-groups/magna-electronics)
+	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $1,000,000
+- Regional Technology Development Site - Waterloo Region
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+	- Partner: [Communitech](https://www.communitech.ca/)
+	- Program Commitment: $4,998,225
+	- Partner Commitment(s): $5,165,299
+- Regional Technology Development Site - WindsorEssex Region
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+	- Partners: [Windsor Essex Economic Development Corporation (WEEDC)](https://www.investwindsoressex.com), [University of Windsor](https://www.uwindsor.ca), [St. Clair College](https://www.stclaircollege.ca/), [City of Windsor](https://www.citywindsor.ca/) and [WETech Alliance](https://www.wetech-alliance.com/)
+	- Program Commitment: $2,662,500
+	- Partner Commitment(s): $5,523,975
+- On-Demand Transit Software
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partner: [[Pantonium]]
+	- Program Commitment: $947,450
+	- Partner Commitment(s): $2,488,200
+- Regional Technology Development Site - Toronto Region
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+	- Partners: [MaRS Discovery District](https://www.marsdd.com/), [University of Toronto](https://www.utoronto.ca/), [Toronto Metropolitan University](https://www.torontomu.ca/) and [York University](https://www.yorku.ca/)
+	- Program Commitment: $5,000,000
+	- Partner Commitment(s): $6,556,000
+- Regional Technology Development Site - Hamilton Region
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
+	- Partners: Innovation Factory, McMaster University, Mohawk College and the City of Hamilton
+	- Program Commitment: $4,999,999
+	- Partner Commitment(s): $5,504,528
+- Application Software Testing CV/AV (ASTCVAV)
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: QA Consultants; Hitachi Consulting Canada; Automotive Center of Excellence, University of Ontario Institute of Technology; CAA
+	- Program Commitment: $440,800
+	- Partner Commitment(s): $576,000
+- Havelaar Critical Infrastructure EV to AV
+  id:: 629191df-73e2-4e52-aa07-c1538181789c
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Havelaar Canada Industrial R & D Laboratory Ltd.; Chery Commercial Vehicle (Anhui) Co. Ltd; Opus1
+	- Program Commitment: $954,964
+	- Partner Commitment(s): $1,054,964
+- Connected Transit Signal Priority
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: The Regional Municipality of Waterloo; The Regional Municipality of Durham; Region of Waterloo; Fortran Traffic Systems Limited
+	- Program Commitment: $210,265
+	- Partner Commitment(s): $1,935,865
+- LaneCruise Fleet Pilot
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: X-Matik Inc.; City of Toronto
+	- Program Commitment: $375,267
+	- Partner Commitment(s): $455,267
+- [Project Arrow](https://www.ovinhub.ca/project-arrow/)
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - Demonstration Zone and Regional Technology Development Sites
+	- Partners: Automotive Parts Manufacturer’s Association (APMA)
+	- Program Commitment: $5,000,000
+	- Partner Commitment(s): $5,120,000
+- 26 Day Inc. DBA RoadLaunch - TalentEdge internships for AI, IoT and Blockchain Development for Connected and Smart Freight Logistics Solutions
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partner: 26 Day Inc. DBA RoadLaunch
+	- Program Commitment: $60,000
+	- Partner Commitment(s): $78,000
+- Safe and Robust Planning for Autonomous Vehicles
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: NXP Canada Inc., University of Waterloo
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $10,150
+- Trans-Plan Transportation Engineering - Gopikrishnan and Singh
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partner: Trans-Plan Transportation Inc.
+	- Program Commitment: $60,000
+	- Partner Commitment(s): $60,000
+- Using Autonomous Vehicles and Crowd Data to Solve the Traffic Problem
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partner: Fast Fwd Technologies Inc.
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+- iNAGO Corp. - Emad Gohari Boroujerdi
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: iNAGO Corporation, York University
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Demonstration of a Battery-Based Autonomous EV Charging Station
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Oshawa Power and Utilities Corporation; InspecTech Analygas Group Inc.; eCAMION Inc.
+	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $1,100,247
+- Vehicle Dynamics Control and Real Time Autotuning Software
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: X-Matik Inc., University of Toronto
+	- Program Commitment: $90,000
+	- Partner Commitment(s): $90,000
+- AIR: Artificial Intelligence Designed for Radar Sensors in Autonomous Vehicles
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Valeo Canada, Inc.; Sensor Cortek inc
+	- Program Commitment: $478,000
+	- Partner Commitment(s): $506,800
+- Snow Plow and Salter Automated System
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Viking-Cives; Flodraulic Controls Ltd.
+	- Program Commitment: $538,952
+	- Partner Commitment(s): $594,268
+- TalentEdge - Deep Learning Running on AXIS Communications Cameras
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Invision AI
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,667
+- Blockchain Microservice
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: IBM Canada Ltd.; NXM Technologies Inc.
+	- Program Commitment: $772,716
+	- Partner Commitment(s): $1,028,375
+- Validation & Launch of Backend Software: Mapping the City Road Assets/TrafficSigns Application
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Trans-Plan Transportation Inc.; City of Niagara Falls
+	- Program Commitment: $98,112
+	- Partner Commitment(s): $118,202
+- FleetOps V2
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: FleetOps
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $10,000
+- DGDL Autonomous Vehicle Exploration
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Daily Goods Design LABS
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $10,000
+- inMotive
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: inMotive
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Low Cost Wide Band UHF Power Amplifier for DSRC
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: 6Harmonics Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,600
+- Irdeto Canada
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Irdeto Canada
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Autonomous Platform Integrity and Cyber Security (APICS)
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: JCAII (Jeff Campbell Associates International Inc)
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+- Enhanced Safety Measures for Region of Waterloo High-Risk Conflict Intersections
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
+	- Partners: Brisk Synergies; Region of Waterloo
+	- Program Commitment: $87,500
+	- Partner Commitment(s): $126,420
+- Low Power Autonomous Vehicle Navigation
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Canadensys Aerospace Corporation
+	- Program Commitment: $70,000
+	- Partner Commitment(s): $99,925
+- Optimize Cloud Architecture to Enable Real-Time Distributed Computing
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Fast Fwd Technologies
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Detection of Low Surface Grip by Applying AI to C/AV Signal Data
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Acerta Analytics Solutions, Inc.; General Motor of Canada Company
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $170,000
+- IoT Device for Real Time Infrastructure Deficiencies Detection
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Region of Peel; IRIS R&D Group Inc.; City of Hamilton
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $163,500
+- The Car of the Future TalentEdge 1
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
+	- Partners: FCA Canada Inc.; McMaster University
+	- Program Commitment: $210,000
+	- Partner Commitment(s): $300,000
+- Bluetooth/NFC-Enabled Battery Bank Monitoring and Self-Balancing System
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
+	- Partners: Axiomatic Technologies Corporation
+	- Program Commitment: $60,000
+	- Partner Commitment(s): $82,754
+- Cloud DX - Occupant Continuous Vital SIgn Monitoring
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Clouddx Inc.; Faurecia North America, Inc.
+	- Program Commitment: $408,798
+	- Partner Commitment(s): $408,798
+- OnTRAC: Safe and Robust Obstacle Detection for Autonomous Rail
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Thales Canada Inc.; York University; TrackGen Solutions Inc. ; Neptec Technologies Corp.
+	- Program Commitment: $1,130,000
+	- Partner Commitment(s): $1,455,606
+- SmartCone Autonomous Shuttle Service in the Town of Whitby
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Nokia Canada; Town of Whitby; Aurrigo Canada; University of Ontario Institute of Technology; SmartCone Technologies Inc.; Durham Region Transit; AutoGuardian by SmartCone
+	- Program Commitment: $986,163
+	- Partner Commitment(s): $1,707,024
+- Retrofit of an automated heavy-duty vehicle
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Almon Equipment Limited; X-matik Inc.; University of Waterloo; The Miller Group
+	- Program Commitment: $253,250
+	- Partner Commitment(s): $685,379
+- Invision AI Forward Collision Warning System - Talent Edge
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Invision AI, Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $51,500
+- Rail Forward Collision Warning System
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Invision AI, Inc.; THALES CANADA, TRANSPORTATION SOLUTIONS
+	- Program Commitment: $279,575
+	- Partner Commitment(s): $293,800
+- Network Operations for Intelligent Transportation Systems
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Trent University; City of Peterborough; Paxgrid Cdn Inc
+	- Program Commitment: $349,800
+	- Partner Commitment(s): $567,300
+- Vehicle Occupancy Detection - TalentEdge
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
+	- Partners: Invision AI, Inc.
+	- Program Commitment: $70,000
+	- Partner Commitment(s): $100,000
+- 5G Optimization
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
+	- Partners: NXM Technologies Inc.
+	- Program Commitment: $35,000
+	- Partner Commitment(s): $52,644
+- Post Quantum Resistance
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: NXM Technologies Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $42,644
+- Internship in CIeNET Technologies Canada
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: CIeNET International; University of Ottawa
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $43,918
+- A Novel Approach to Detect Drowsiness Resulting From Sleep Loss and Sleep Pressure
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Utsav Systems Inc.
+	- Program Commitment: $40,000
+	- Partner Commitment(s): $40,000
+- Key2Access: Wireless Pedestrian Crossing Solution improving accessibility for the visually, hearing or mobility impaired (Mobile App with IoT layer)
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: City of Toronto; Key2Access Inc.
+	- Program Commitment: $57,538
+	- Partner Commitment(s): $74,630
+- Open-standards approach to wireless inductive charging for autonomous electric vehicles
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: SWTCH E-Car Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Autzu Vehicle Connection module for rideshare fleet
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Autzu; PFAFF Motors Inc.
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $129,633
+- Connected Transit Vehicle Platform
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Arcturus Networks Inc.; Clever Devices Ltd.
+	- Program Commitment: $99,922
+	- Partner Commitment(s): $205,644
+- In-Vehicle Passenger Occupancy Detector and Vital Sign Monitoring System
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Omron Automotive Technologies
+	- Program Commitment: $56,000
+	- Partner Commitment(s): $64,480
+- Future Impact of Autonomous Driving Technology on Social Service, Urban Infrastructure, Mobility and Lifestyle
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Aprilli Design Ltd.
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+- Autzu driveshare automation and fleet performance modeling
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Autzu Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Real-time monitoring of connected car emissions data
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Fast Fwd Technologies Incorporated
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $30,000
+- Estimation of traffic patterns using vehicles wireless signals for application in traffic signal optimization
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: SMATS TRAFFIC SOLUTIONS INCORPORATED; Parsons
+	- Program Commitment: $94,325
+	- Partner Commitment(s): $95,325
+- Algorithms to estimate failure probabilities and costs from automotive time-series and service data
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Pitstop
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $68,000
+- Road Operated Video Extended Recognition (ROVER)
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Visual Defence Inc; Town of Richmond Hill
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $148,868
+- Vehicle Prognostics - Aftertreatment/Diesel Environmental System Prognostics
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: 9182039 Canada Inc; Trimac Transportation Services Inc.
+	- Program Commitment: $88,231
+	- Partner Commitment(s): $138,571
+- Pitstop & Connvex creating an prognostics insights engine for mobility
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Complete Innovations Inc.; Ansik Inc.
+	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $2,016,000
+- Invision AI - Forward Collision Warning System - Talent Edge II
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Invision AI, Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $42,000
+- Next Gen Smart Cockpit with Intelligent Assistant Demonstration System
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: iNAGO Corporation; DENSO INTERNATIONAL AMERICA, INC.; ABC Technologies
+	- Program Commitment: $596,882
+	- Partner Commitment(s): $1,212,886
+- Application Amplification of Mapping City Roads Assets (AssetCity)
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Trans-Plan Transportation Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $46,992
+- ADMMIT Connected Freight Management and Delivery System
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: NORCAT; Cementation Canada Inc.; SHYFTinc Industries Ltd. (O/A SHYFTinc); Boudreau-Espley-Pitre Corporation (O/A BESTECH)
+	- Program Commitment: $913,689
+	- Partner Commitment(s): $1,827,380
+- Regression Modeling for Improved Road Safety Analysis using Traffic Conflicts
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Brisk Synergies Tech Corp
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+- Winterizing L4 Autonomous Vehicles for Short-Haul Logistics
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Loblaws Inc.; Gatik Inc.
+	- Program Commitment: $1,057,706
+	- Partner Commitment(s): $8,068,325
+- Automotive Ethernet, Ethernet, CAN Smart Gateway
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Axiomatic Technologies Corporation
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $111,655
+- Internship for Vehicle Telematics Development
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Autzu Inc.
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $130,000
+- Advanced Statistical Control System (ASCS) for Long Range Autonomous Electric Vehicle (AEV) Operation
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Aquova Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $75,000
+- Long and short term prediction of automotive system health from automotive sensor time series data using neural network models
+	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
+	- Partners: Ansik inc
+	- Program Commitment: $35,000
+	- Partner Commitment(s): $65,000
+- iNAGO Corp.
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: iNAGO Corp.
+	- Program Commitment: $10,000
+	- Partner Commitment(s): $14,600
+- Rail Forward Collision System in Extreme Weather Conditions
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Invision AI, Inc.; THALES CANADA, TRANSPORTATION SOLUTIONS
+	- Program Commitment: $483,600
+	- Partner Commitment(s): $1,027,760
+- Vehicular Sensor Fusion for Detection and Characterization of Significant Events
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Klashwerks Inc.
+	- Program Commitment: $20,000
+	- Partner Commitment(s): $20,000
+- Internship for In-car software application for Autzu Vehicle Connection (AVC) System
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Autzu Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $245,000
+- Winter-Proof Traffic Vision System Demonstration
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Miovision Technologies Incorporated; City of Peterborough
+	- Program Commitment: $490,117
+	- Partner Commitment(s): $980,235
+- Connected Electric Vehicle
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: WeTraq Inc; The CableShoppe Inc; DaeChang Motors
+	- Program Commitment: $99,900
+	- Partner Commitment(s): $217,600
+- Winter Ice and Snow Decision support system for Operations Management
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: IBI Group Professional Services (Canada) Inc.; Weather Telematics inc.
+	- Program Commitment: $238,742
+	- Partner Commitment(s): $477,485
+- MESH Tracks Winter Maintenance and Information System
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Corporation of the City of Quinte West; Go Evo Inc.; City of Belleville
+	- Program Commitment: $410,000
+	- Partner Commitment(s): $834,408
+- Development of Durable and Functional Nanocoatings to Prevent Sensor Blindness in Autonomous Vehicles
+	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
+	- Partners: Neverfrost, Inc.
+	- Program Commitment: $30,000
+	- Partner Commitment(s): $31,500
+- 100% electric salt brining sidewalk robots
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Green Ventures; 11712381 Canada Corporation (dba Top Hat Robotics)
+	- Program Commitment: $99,990
+	- Partner Commitment(s): $200,200
+- Swiss Reinsurance Company Ltd
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partner: Swiss Reinsurance Company Ltd
+	- Program Commitment: $804,583
+	- Partner Commitment(s): $1,611,875
+- Autonomous Self Driving Trucks for short-haul operations
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: NuPort Robotics Inc.; Canadian Tire Corporation, Limited
+	- Program Commitment: $1,000,000
+	- Partner Commitment(s): $2,132,147
+- Operator-free Charging for Autonomous Transit Vehicles
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: eCAMION Inc.; Oshawa PUC Networks Inc.; Durham Region Transit; Inspectech Analygas Group Inc.
+	- Program Commitment: $773,603
+	- Partner Commitment(s): $1,547,205
+- Design and development of In-car connectivity using eSIM for safe and reliable fleet management
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Autzu Inc.; Stork Driver, LLC
+	- Program Commitment: $921,611
+	- Partner Commitment(s): $1,843,241
+- Software Integration to Enable Docked e-Scooter Fleet Management
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: Joyride Technologies Inc.; Blue Duck Scooters
+	- Program Commitment: $93,405
+	- Partner Commitment(s): $188,809
+- Prototype Urban V2X Ecosystem
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: PaxgridCdn Inc; City of Peterborough
+	- Program Commitment: $80,026
+	- Partner Commitment(s): $160,054
+- Acerta Analytics Solutions Inc.
+	- Program: Autonomous Vehicle Innovation Network – AV R&D Partnership Fund – Stream 1
+	- Partners: Acerta Analytics Solutions Inc.
+	- Program Commitment: $100,000
+	- Partner Commitment(s): $200,246
+- Fleet Based Municipal Incident and Information Reporting (ROVER SmartFleets)
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Visual Defence Inc.; The Regional Municipality of Durham
+	- Program Commitment: $987,597
+	- Partner Commitment(s): $2,208,951
+- AI-enabled data collection system
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: IRIS R&D Group Inc.; City of Hamilton
+	- Program Commitment: $99,000
+	- Partner Commitment(s): $201,225
+- Pavement Winter Surface Condition Camera
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: JCAI Inc.; Loomex Property Management Ltd.; Team Eagle Ltd.
+	- Program Commitment: $75,907
+	- Partner Commitment(s): $172,206
+- Winter On-Demand Community Transit Network
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: RideShark Corporation; County of Renfrew
+	- Program Commitment: $500,000
+	- Partner Commitment(s): $1,094,200
+- Smart cameras, smart cities: Real-time embedded system for road safety monitoring and crash prediction through information systems
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: Transoft Solutions (ITS) Inc.; Regional Municipality of Durham
+	- Program Commitment: $876,000
+	- Partner Commitment(s): $1,798,350
+- Detecting Objects to Enable Safer Snow Plowing
+	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
+	- Partners: City of Ottawa; Four DRobotics Corp
+	- Program Commitment: $486,463
+	- Partner Commitment(s): $972,925
+- Threat Hunting and 360 SOC visibility on Autonomous Vehicles and Interconnected Systems
+	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
+	- Partners: CybernetIQ Inc; Deloitte
+	- Program Commitment: $97,750
+	- Partner Commitment(s): $195,500
