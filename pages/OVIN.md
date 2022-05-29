@@ -10,7 +10,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,000,000
 - Regional Technology Development Site - Waterloo Region
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - Regional Technology Development Sites
-	- Partner: [Communitech](https://www.communitech.ca/)
+	- Partner: [[Communitech]]
 	- Program Commitment: $4,998,225
 	- Partner Commitment(s): $5,165,299
 - Regional Technology Development Site - WindsorEssex Region
