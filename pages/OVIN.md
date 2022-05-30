@@ -200,7 +200,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,707,024
 - Retrofit of an automated heavy-duty vehicle
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners: [Almon Equipment Limited](https://www.almon.ca/); [X-matik Inc.](https://x-matik.com/); University of Waterloo; The Miller Group
+	- Partners: [Almon Equipment Limited](https://www.almon.ca/); [X-matik Inc.](https://x-matik.com/); University of Waterloo; [The Miller Group](https://www.millergroup.ca/)
 	- Program Commitment: $253,250
 	- Partner Commitment(s): $685,379
 - Invision AI Forward Collision Warning System - Talent Edge
