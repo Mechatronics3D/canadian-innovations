@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "8a97ada52b26a94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4c226dcd9527a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Agritech.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ab5f76fc61ca36b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d4754ff4a72337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eccffdf2d4db885",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4a7fedfce45be92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05d6d8bff0ae63b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f444e9af241d3e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349fb36a24dc72e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Agritech.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ed4c226dcd9527a9",
+  "lastOpenFiles": [
+    "pages/Agritech.md"
+  ]
+}
