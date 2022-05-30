@@ -235,12 +235,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $42,644
 - Internship in CIeNET Technologies Canada
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
-	- Partners: CIeNET International; University of Ottawa
+	- Partners: [CIeNET International](https://www.cienet.com/); University of Ottawa
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $43,918
 - A Novel Approach to Detect Drowsiness Resulting From Sleep Loss and Sleep Pressure
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: Utsav Systems Inc.
+	- Partners: [Utsav Systems Inc.](https://opencorporates.com/companies/ca/8021309)
 	- Program Commitment: $40,000
 	- Partner Commitment(s): $40,000
 - Key2Access: Wireless Pedestrian Crossing Solution improving accessibility for the visually, hearing or mobility impaired (Mobile App with IoT layer)
