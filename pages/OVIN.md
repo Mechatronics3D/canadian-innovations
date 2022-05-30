@@ -275,7 +275,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $20,000
 - Autzu driveshare automation and fleet performance modeling
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
-	- Partners: Autzu Inc.
+	- Partners: [Autzu Inc.](https://autzu.com/tor)
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,000
 - Real-time monitoring of connected car emissions data
