@@ -110,7 +110,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $20,667
 - Blockchain Microservice
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- Partners: IBM Canada Ltd.; NXM Technologies Inc.
+	- Partners: IBM Canada Ltd.; [NXM Technologies Inc.](https://www.nxmlabs.com/)
 	- Program Commitment: $772,716
 	- Partner Commitment(s): $1,028,375
 - Validation & Launch of Backend Software: Mapping the City Road Assets/TrafficSigns Application
