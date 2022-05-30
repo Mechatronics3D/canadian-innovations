@@ -160,7 +160,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $99,925
 - Optimize Cloud Architecture to Enable Real-Time Distributed Computing
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
-	- Partners: Fast Fwd Technologies
+	- Partners: [Fast Fwd Technologies](https://www.fastfwd.xyz/)
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,000
 - Detection of Low Surface Grip by Applying AI to C/AV Signal Data
