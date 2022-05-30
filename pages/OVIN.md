@@ -135,7 +135,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $30,000
 - Low Cost Wide Band UHF Power Amplifier for DSRC
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
-	- Partners: [6Harmonics Inc.]()
+	- Partners: [6Harmonics Inc.](https://6harmonics.com/)
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,600
 - Irdeto Canada
