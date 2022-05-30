@@ -260,12 +260,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $129,633
 - Connected Transit Vehicle Platform
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: Arcturus Networks Inc.; Clever Devices Ltd.
+	- Partners: [Arcturus Networks Inc.](https://www.arcturusnetworks.com/); [Clever Devices Ltd.](https://www.cleverdevices.com/)
 	- Program Commitment: $99,922
 	- Partner Commitment(s): $205,644
 - In-Vehicle Passenger Occupancy Detector and Vital Sign Monitoring System
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: Omron Automotive Technologies
+	- Partners: [Omron Automotive Technologies](https://automation.omron.com/en/ca/industries/automotive/)
 	- Program Commitment: $56,000
 	- Partner Commitment(s): $64,480
 - Future Impact of Autonomous Driving Technology on Social Service, Urban Infrastructure, Mobility and Lifestyle
