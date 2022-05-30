@@ -295,12 +295,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $68,000
 - Road Operated Video Extended Recognition (ROVER)
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: Visual Defence Inc; Town of Richmond Hill
+	- Partners: [Visual Defence Inc](https://www.visualdefence.com/); Town of Richmond Hill
 	- Program Commitment: $100,000
 	- Partner Commitment(s): $148,868
 - Vehicle Prognostics - Aftertreatment/Diesel Environmental System Prognostics
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: 9182039 Canada Inc; Trimac Transportation Services Inc.
+	- Partners: 9182039 Canada Inc; [Trimac Transportation Services Inc.](https://www.trimac.com/)
 	- Program Commitment: $88,231
 	- Partner Commitment(s): $138,571
 - Pitstop & Connvex creating an prognostics insights engine for mobility
