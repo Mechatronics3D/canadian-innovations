@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed4c226dcd9527a9",
+        "id": "d302ed819c1705dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Agritech.md",
+            "file": "logseq/bak/pages/Ontario Centre of Innovation/2022-05-28T17_48_58.590Z.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Agritech.md",
+                "file": "logseq/bak/pages/Ontario Centre of Innovation/2022-05-28T17_48_58.590Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed4c226dcd9527a9",
+  "active": "d302ed819c1705dd",
   "lastOpenFiles": [
+    "logseq/bak/pages/Ontario Centre of Innovation/2022-05-28T17_48_58.590Z.md",
+    "journals/2022-05-28.md",
+    "journals/2022-05-27.md",
+    "pages/Vivid Machines.md",
+    "pages/Organization.md",
     "pages/Agritech.md"
   ]
 }
