@@ -270,7 +270,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $64,480
 - Future Impact of Autonomous Driving Technology on Social Service, Urban Infrastructure, Mobility and Lifestyle
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
-	- Partners: Aprilli Design Ltd.
+	- Partners: [Aprilli Design Ltd.](http://www.aprilli.com/)
 	- Program Commitment: $20,000
 	- Partner Commitment(s): $20,000
 - Autzu driveshare automation and fleet performance modeling
