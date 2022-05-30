@@ -95,7 +95,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $90,000
 - AIR: Artificial Intelligence Designed for Radar Sensors in Autonomous Vehicles
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- Partners: Valeo Canada, Inc.; Sensor Cortek inc
+	- Partners: Valeo Canada, Inc.; [Sensor Cortek Inc](https://sensorcortek.ai/)
 	- Program Commitment: $478,000
 	- Partner Commitment(s): $506,800
 - Snow Plow and Salter Automated System
