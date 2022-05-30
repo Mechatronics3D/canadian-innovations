@@ -180,10 +180,10 @@ features:: [[Government]]
 	- Partner Commitment(s): $300,000
 - Bluetooth/NFC-Enabled Battery Bank Monitoring and Self-Balancing System
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
-	- Partners: Axiomatic Technologies Corporation
+	- Partners: [Axiomatic Technologies Corporation](https://www.axiomatic.com/)
 	- Program Commitment: $60,000
 	- Partner Commitment(s): $82,754
-- Cloud DX - Occupant Continuous Vital SIgn Monitoring
+- Cloud DX - Occupant Continuous Vital Sign Monitoring
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
 	- Partners: Clouddx Inc.; Faurecia North America, Inc.
 	- Program Commitment: $408,798
