@@ -155,7 +155,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $126,420
 - Low Power Autonomous Vehicle Navigation
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge
-	- Partners: Canadensys Aerospace Corporation
+	- Partners: [Canadensys Aerospace Corporation](https://www.canadensys.com)
 	- Program Commitment: $70,000
 	- Partner Commitment(s): $99,925
 - Optimize Cloud Architecture to Enable Real-Time Distributed Computing
