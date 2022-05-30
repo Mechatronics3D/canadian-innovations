@@ -100,7 +100,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $506,800
 - Snow Plow and Salter Automated System
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - AV R&D Partnership Fund
-	- Partners: [Viking-Cives](https://www.vikingcives.com/); Flodraulic Controls Ltd.
+	- Partners: [Viking-Cives](https://www.vikingcives.com/); [Flodraulic Controls Ltd.](https://flodraulic.com/)
 	- Program Commitment: $538,952
 	- Partner Commitment(s): $594,268
 - TalentEdge - Deep Learning Running on AXIS Communications Cameras
