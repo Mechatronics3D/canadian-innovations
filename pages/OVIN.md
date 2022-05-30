@@ -185,7 +185,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $82,754
 - Cloud DX - Occupant Continuous Vital Sign Monitoring
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners: [Clouddx Inc.](https://clouddx.com/#/); Faurecia North America, Inc.
+	- Partners: [Clouddx Inc.](https://clouddx.com/#/); [Faurecia North America, Inc.](https://www.faurecia.com/en)
 	- Program Commitment: $408,798
 	- Partner Commitment(s): $408,798
 - OnTRAC: Safe and Robust Obstacle Detection for Autonomous Rail
