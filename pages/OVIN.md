@@ -195,12 +195,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $1,455,606
 - SmartCone Autonomous Shuttle Service in the Town of Whitby
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners: Nokia Canada; Town of Whitby; [Aurrigo Canada](https://aurrigo.com/av-firm-expands-to-canada/); University of Ontario Institute of Technology; SmartCone Technologies Inc.; Durham Region Transit; AutoGuardian by SmartCone
+	- Partners: Nokia Canada; Town of Whitby; [Aurrigo Canada](https://aurrigo.com/av-firm-expands-to-canada/); University of Ontario Institute of Technology; [SmartCone Technologies Inc.](https://www.thesmartcone.com/); Durham Region Transit; AutoGuardian by SmartCone
 	- Program Commitment: $986,163
 	- Partner Commitment(s): $1,707,024
 - Retrofit of an automated heavy-duty vehicle
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners: Almon Equipment Limited; X-matik Inc.; University of Waterloo; The Miller Group
+	- Partners: [Almon Equipment Limited](https://www.almon.ca/); X-matik Inc.; University of Waterloo; The Miller Group
 	- Program Commitment: $253,250
 	- Partner Commitment(s): $685,379
 - Invision AI Forward Collision Warning System - Talent Edge
