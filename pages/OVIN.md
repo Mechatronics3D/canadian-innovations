@@ -210,7 +210,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $51,500
 - Rail Forward Collision Warning System
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners: Invision AI, Inc.; THALES CANADA, TRANSPORTATION SOLUTIONS
+	- Partners: [Invision AI, Inc.](https://invision.ai/); THALES CANADA, TRANSPORTATION SOLUTIONS
 	- Program Commitment: $279,575
 	- Partner Commitment(s): $293,800
 - Network Operations for Intelligent Transportation Systems
