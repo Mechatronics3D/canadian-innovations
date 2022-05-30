@@ -245,7 +245,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $40,000
 - Key2Access: Wireless Pedestrian Crossing Solution improving accessibility for the visually, hearing or mobility impaired (Mobile App with IoT layer)
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: City of Toronto; Key2Access Inc.
+	- Partners: City of Toronto; [Key2Access Inc.](https://key2access.com/)
 	- Program Commitment: $57,538
 	- Partner Commitment(s): $74,630
 - Open-standards approach to wireless inductive charging for autonomous electric vehicles
