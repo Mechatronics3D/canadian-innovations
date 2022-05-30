@@ -215,12 +215,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $293,800
 - Network Operations for Intelligent Transportation Systems
 	- Program: Autonomous Vehicle Innovation Network - Stream 2/WinterTech
-	- Partners: Trent University; City of Peterborough; [Paxgrid Cdn Inc]()
+	- Partners: Trent University; City of Peterborough; [Paxgrid Cdn Inc](https://opengovca.com/corporation/8898545)
 	- Program Commitment: $349,800
 	- Partner Commitment(s): $567,300
 - Vehicle Occupancy Detection - TalentEdge
 	- Program: Autonomous Vehicle Innovation Network (AVIN) - TalentEdge Fellowship Program (TFP)
-	- Partners: Invision AI, Inc.
+	- Partners: [Invision AI, Inc.](https://invision.ai)
 	- Program Commitment: $70,000
 	- Partner Commitment(s): $100,000
 - 5G Optimization
