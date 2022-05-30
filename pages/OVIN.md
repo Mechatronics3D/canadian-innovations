@@ -250,7 +250,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $74,630
 - Open-standards approach to wireless inductive charging for autonomous electric vehicles
 	- Program: Autonomous Vehicle Innovation Network (AVIN) -TalentEdge Internship Program (TIP)
-	- Partners: SWTCH E-Car Inc.
+	- Partners: [SWTCH E-Car Inc.](https://swtchenergy.com/index)
 	- Program Commitment: $30,000
 	- Partner Commitment(s): $30,000
 - Autzu Vehicle Connection module for rideshare fleet
