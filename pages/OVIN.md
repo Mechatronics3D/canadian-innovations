@@ -165,12 +165,12 @@ features:: [[Government]]
 	- Partner Commitment(s): $30,000
 - Detection of Low Surface Grip by Applying AI to C/AV Signal Data
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: Acerta Analytics Solutions, Inc.; General Motor of Canada Company
+	- Partners: [Acerta Analytics Solutions, Inc.](https://acerta.ai/); General Motor of Canada Company
 	- Program Commitment: $100,000
 	- Partner Commitment(s): $170,000
 - IoT Device for Real Time Infrastructure Deficiencies Detection
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: Region of Peel; IRIS R&D Group Inc.; City of Hamilton
+	- Partners: Region of Peel; [IRIS R&D Group Inc.](https://www.irisradgroup.com/); City of Hamilton
 	- Program Commitment: $100,000
 	- Partner Commitment(s): $163,500
 - The Car of the Future TalentEdge 1
