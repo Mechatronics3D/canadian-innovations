@@ -8,3 +8,8 @@ features:: [[Government]]
 - Benjamin Wolfe, [Applied Perception and Psychophysics Lab](https://www.applylab.org)
 - Igor Gilitschenski, Playing by the Rules: Learning Behavior Models for Autonomous Driving
 - Steven Waslander, All-Weather Autonomous Driving: The WinTOR Program
+- # Sponsors
+- Gatik
+- Oxbotica
+- Trimble
+- [Applanix](https://www.applanix.com/applications/index.htm)
