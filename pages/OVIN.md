@@ -385,7 +385,7 @@ features:: [[Government]]
 	- Partner Commitment(s): $980,235
 - Connected Electric Vehicle
 	- Program: Autonomous Vehicle Innovation Network - AV R&D Partnership Fund - Stream 1
-	- Partners: WeTraq Inc; The CableShoppe Inc; DaeChang Motors
+	- Partners: WeTraq Inc; The CableShoppe Inc; [DaeChang Motors](http://dacmotors.co.kr/en/)
 	- Program Commitment: $99,900
 	- Partner Commitment(s): $217,600
 - Winter Ice and Snow Decision support system for Operations Management
