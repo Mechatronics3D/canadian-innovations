@@ -1,4 +1,7 @@
-[{:block/name "[7 gate ventures](https:",
+[{:block/name "7 gate ventures",
+  :block/created-at 1655421789506,
+  :block/updated-at 1655421789506}
+ {:block/name "[7 gate ventures](https:",
   :block/created-at 1655414994294,
   :block/updated-at 1655414994294}
  {:block/name "[7 gate ventures](https://7gate.vc",
@@ -22,6 +25,9 @@
  {:block/name "agritech",
   :block/created-at 1653706299128,
   :block/updated-at 1653706420603}
+ {:block/name "arete ventures",
+  :block/created-at 1655421789682,
+  :block/updated-at 1655421789682}
  {:block/name "b",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
