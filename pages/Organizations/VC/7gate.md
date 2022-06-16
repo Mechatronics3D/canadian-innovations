@@ -1,7 +1,9 @@
 ---
-title: [7 Gate Ventures](https://7gate.vc/)
+title: 7 Gate Ventures
 type: [[Venture Capital Fund]]
 ---
+
+- [7 Gate Ventures](https://7gate.vc/)
 
 # People
 
