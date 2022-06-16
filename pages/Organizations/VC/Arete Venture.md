@@ -1,5 +1,6 @@
 ---
 title: [Arete Ventures](http://areteventure.capital/)
+type: [[Venture Capital Fund]]
 ---
 
 # Info
