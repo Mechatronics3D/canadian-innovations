@@ -1,24 +1,6 @@
 [{:block/name "7 gate ventures",
   :block/created-at 1655421789506,
   :block/updated-at 1655421789506}
- {:block/name "[7 gate ventures](https:",
-  :block/created-at 1655414994294,
-  :block/updated-at 1655414994294}
- {:block/name "[7 gate ventures](https://7gate.vc",
-  :block/created-at 1655414994296,
-  :block/updated-at 1655414994296}
- {:block/name "[7 gate ventures](https://7gate.vc/)",
-  :block/created-at 1655415015177,
-  :block/updated-at 1655415015177}
- {:block/name "[arete ventures](http:",
-  :block/created-at 1655415048419,
-  :block/updated-at 1655415048419}
- {:block/name "[arete ventures](http://areteventure.capital",
-  :block/created-at 1655415048422,
-  :block/updated-at 1655415048422}
- {:block/name "[arete ventures](http://areteventure.capital/)",
-  :block/created-at 1655417067606,
-  :block/updated-at 1655417067606}
  {:block/name "a",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -64,6 +46,15 @@
  {:block/name "favorites",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
+ {:block/name "fri, 2022",
+  :block/created-at 1655421821603,
+  :block/updated-at 1655421821603}
+ {:block/name "fri, 2022/05",
+  :block/created-at 1655421821604,
+  :block/updated-at 1655421821604}
+ {:block/name "fri, 2022/05/27",
+  :block/created-at 1655421821600,
+  :block/updated-at 1655421821600}
  {:block/name "government",
   :block/created-at 1653676456007,
   :block/updated-at 1653676456007}
@@ -79,12 +70,6 @@
  {:block/name "later",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
- {:block/name "may 27th, 2022",
-  :block/created-at 1653955895576,
-  :block/updated-at 1653955895576}
- {:block/name "may 28th, 2022",
-  :block/created-at 1653955895555,
-  :block/updated-at 1653955895555}
  {:block/name "mobility",
   :block/created-at 1653675177294,
   :block/updated-at 1653677309240}
@@ -121,6 +106,15 @@
  {:block/name "robotics",
   :block/created-at 1655404961477,
   :block/updated-at 1655404961477}
+ {:block/name "sat, 2022",
+  :block/created-at 1655421821537,
+  :block/updated-at 1655421821537}
+ {:block/name "sat, 2022/05",
+  :block/created-at 1655421821539,
+  :block/updated-at 1655421821539}
+ {:block/name "sat, 2022/05/28",
+  :block/created-at 1655421821536,
+  :block/updated-at 1655421821536}
  {:block/name "sdtc",
   :block/created-at 1655413408743,
   :block/updated-at 1655413408743}
@@ -139,9 +133,6 @@
  {:block/name "venture capital fund",
   :block/created-at 1655417142345,
   :block/updated-at 1655417142345}
- {:block/name "venture capital funds",
-  :block/created-at 1655417173995,
-  :block/updated-at 1655417173995}
  {:block/name "vivid machines",
   :block/created-at 1655413274785,
   :block/updated-at 1655413274785}
